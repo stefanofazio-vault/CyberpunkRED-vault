@@ -2,3 +2,5 @@
 .vscode
 .obsidian/*.json
 conflict-files-obsidian-git.md
+
+.obsidian/plugins/various-complements/histories.json

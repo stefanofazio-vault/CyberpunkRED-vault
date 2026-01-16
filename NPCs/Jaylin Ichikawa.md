@@ -31,3 +31,12 @@ Nello stesso periodo, comincia a rastrellare bar e club, sempre sotto ordine di 
 Successivamente, nel 2040, elimina i coniugi [[Susan Koromi]] e [[Yasuo Yazawa]], che in Arasaka stavano ricominciando a sviluppare il progetto da zero. 
 
 Nel 2043 Jaylin viene incaricato di rapire alcuni bambini per l'ultimo *round* di esperimenti per il prototipo. In questo contesto, viene rapito [[Joji Yanonami]].
+
+##### 2045
+Nell'ottobre del 2045 Jaylin incarica [[Eliza Coda]], su ordine di Mr. X, di sfruttare la sua posizione negli [[Aldecaldo]] per rubare il prototipo dell'AI-LF che era di ritorno dai laboratori di Militech a Phoenix. L'obiettivo era ottenere il prototipo migliorato senza che passasse in mano di casa madre, in modo tale da poterci sperimentare liberamente. Eliza verrà tuttavia scoperta dalla crew.
+
+Nel novembre del 2045, Jaylin inganna [[Fubuki Shiro]], fingendosi il fratello e convincendolo con l'inganno a fare sesso insieme. 
+
+Jaylin incarica, inoltre, [[Jemmy Tasker]] di spiare la crew in cui Bellamy milita. Lo farà piazzando cimici al [[Born This Way]] e spiandoli durante la festa di fine anno di Militech, travestendosi da cameriere.
+
+
