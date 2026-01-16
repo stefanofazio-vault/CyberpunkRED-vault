@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "a0cce72177140e09",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b9f9966c01053a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ae1f9f7871ea3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a14a75f296145270",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a84a6cfcdd1cd43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6fe25bb6bf09cba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22bcef8907152fff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ead948cf0baa6bdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "5bd975c62e271219",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ca4b71cba7c460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a7d253513891cb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "ca726579ba6261ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "e9650de3bbf77e40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8c6b7565032e716",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e2284f41e5cc05e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "6706de7dbc4e9782",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6706de7dbc4e9782",
+  "lastOpenFiles": [
+    "NPCs/Jaylin Ichikawa.md",
+    "NPCs/Javier De Armas.md",
+    "History/AI-LF.md",
+    "History/Progetto Master Of Puppets.md",
+    "NPCs/Joji Yanonami.md",
+    "Locations/Bars and clubs/Born This Way.md",
+    "Locations/Sito di ricerca Alpha.md",
+    "NPCs/Yasuo Yazawa.md",
+    "NPCs/Maxime Raunch.md",
+    "NPCs/Nova.md",
+    "NPCs/Estelle De Armas.md",
+    "NPCs/Fubuki Shiro.md",
+    "NPCs/Susan Koromi.md",
+    "NPCs/Jemmy Tasker.md",
+    "NPCs/Olivia Smith.md",
+    "NPCs/Saito Ichikawa.md",
+    "PGs/Bellamy Ichikawa.md",
+    "PGs/Corey Yazawa.md",
+    "Locations/Bars and clubs/Sapporo Serenade.md",
+    "Factions/Gangs/Street Queens.md",
+    "images/jaylin Ichikawa.jpg",
+    "images/ichikawa.png",
+    "images/Pasted image 20260116145148.png",
+    "Factions/Corporations/Arasaka.md",
+    "History/Quarta Guerra Corporativa.md",
+    "History",
+    "Factions/Corporations/Militech.md",
+    "Factions/Corporations/Shiro-Gunbi.md",
+    "Bellamy Ichikawa.md",
+    "images/Maxime Raunch.png",
+    "Factions/Gangs",
+    "SovOil sarà centrale.md",
+    "Locations/Bars and clubs",
+    "Locations",
+    "Factions/Corporations",
+    "images/Fubuki Shiro.png",
+    "PGs",
+    "Factions",
+    "NPCs",
+    "images/olga.jpg",
+    "images/olga.jfif",
+    "images"
+  ]
+}
