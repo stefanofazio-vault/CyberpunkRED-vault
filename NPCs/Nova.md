@@ -1,0 +1,1 @@
+Nova, il cui vero nome non è mai stato diffuso, è l'ex fidanzata di [[Kyle Ledger]].

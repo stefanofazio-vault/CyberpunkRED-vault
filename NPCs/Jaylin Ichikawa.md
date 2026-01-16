@@ -39,4 +39,3 @@ Nel novembre del 2045, Jaylin inganna [[Fubuki Shiro]], fingendosi il fratello e
 
 Jaylin incarica, inoltre, [[Jemmy Tasker]] di spiare la crew in cui Bellamy milita. Lo farà piazzando cimici al [[Born This Way]] e spiandoli durante la festa di fine anno di Militech, travestendosi da cameriere.
 
-
