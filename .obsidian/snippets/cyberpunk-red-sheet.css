@@ -1,0 +1,47 @@
+.cpred-sheet {
+  background: #0b0b0b;
+  color: #e6e6e6;
+  border: 2px solid #ff004c;
+  padding: 16px;
+  font-family: "Rajdhani", sans-serif;
+}
+
+.cpred-sheet h2 {
+  margin: 0;
+  color: #ff004c;
+}
+
+.cpred-sheet .handle {
+  color: #00e5ff;
+  font-size: 0.8em;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.stats-grid div {
+  background: #111;
+  padding: 6px;
+  text-align: center;
+  border: 1px solid #333;
+}
+
+.cpred-sheet table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cpred-sheet th,
+.cpred-sheet td {
+  border-bottom: 1px solid #333;
+  padding: 4px 6px;
+}
+
+.cpred-sheet .total {
+  color: #00e5ff;
+  font-weight: bold;
+}
