@@ -56,7 +56,7 @@ Nello stesso anno, una [[IA Selvaggia]] viene rinvenuta in un *access point* del
 ##### 2045
 Nell'ottobre del 2045 Jaylin incarica [[Eliza Coda]], su ordine di Mr. X, di sfruttare la sua posizione negli [[Aldecaldo]] per rubare il prototipo dell'AI-LF che era di ritorno dai laboratori di Militech a Phoenix. L'obiettivo era ottenere il prototipo migliorato senza che passasse in mano di casa madre, in modo tale da poterci sperimentare liberamente. Eliza verrà tuttavia scoperta dalla crew.
 
-Inoltre, comincia a spostare tutte le cavie e i prototipi nel sito di ricerca Delta, convinto che la posizione di studio presso il sito Alpha sia compromessa.
+Inoltre, comincia a spostare tutte le cavie e i prototipi nel [[Sito di ricerca Delta]], convinto che la posizione di studio presso il sito Alpha sia compromessa.
 Abbandona, infine, il proprio appartamento a Charter Hill. 
 
 ![[2045-10-19]]
