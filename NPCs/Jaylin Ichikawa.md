@@ -1,4 +1,8 @@
 ![[jaylin Ichikawa.jpg|300]]
+[[#Background]]
+[[#Personalità]]
+[[#Ai giorni nostri]]
+[[#Scheda personaggio]]
 
 ---
 #### Background
@@ -76,6 +80,10 @@ Nel sito di ricerca Delta, infine, Jaylin affronta la crew.
 Nel momento in cui realizza che la crew è stata creata *ad hoc* da Mr. X per suo diletto, Jaylin capisce di non essere stato un collaboratore ma solo una parte dell'esperimento sociale. 
 
 Muore il 26 febbraio 2046 in seguito alla battaglia con la crew. Gli ultimi attimi della sua esistenza passano in balia della IA selvaggia che lo controlla tramite l'AI-LF.
+
+---
+#### Scheda personaggio
+![[Jaylin Ichikawa - CS]]
 
 
 
