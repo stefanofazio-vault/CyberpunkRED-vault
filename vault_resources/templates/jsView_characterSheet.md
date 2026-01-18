@@ -21,8 +21,19 @@ if (valid)
 // IDENTITY
 // ===============================
 const id = page.identity ?? {};
+const roles = page.roles ?? [];
+
 dv.header(1, `${id.name ?? "Unknown"} ${id.handle ? `(${id.handle})` : ""}`);
-if (id.role) dv.paragraph(`**Role:** ${id.role}`);
+
+if (roles.length > 0) {
+  dv.header(3, "Roles");
+  dv.list(
+    roles.map(r =>
+      `${r.label}${r.rank != null ? ` — Rank ${r.rank}` : ""}`
+    )
+  );
+}
+
 if (id.bundle) dv.paragraph(`**Background:** ${id.bundle}`);
 
 // ===============================
