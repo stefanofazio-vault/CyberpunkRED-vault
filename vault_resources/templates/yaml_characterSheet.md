@@ -56,8 +56,8 @@ equipment:
 
 skills:
   # ARTISTICHE
-  recitazione:
-    label: Recitazione
+  recitare:
+    label: Recitare
     stat: CAR
     value: 0
     category: Artistiche
@@ -308,7 +308,7 @@ skills:
     value: 0
     category: Istruzione
 
-  Istruzione:
+  istruzione:
     label: Istruzione
     stat: INT
     value: 0
