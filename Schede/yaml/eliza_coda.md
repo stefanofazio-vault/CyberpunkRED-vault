@@ -7,7 +7,7 @@ identity:
   handle: Eliza
   
 roles:
-    label: Solo
+  - label: Solo
     rank: 7
 
 stats:
@@ -29,6 +29,16 @@ hp:
 derived:
   death_save_base: FIS
   
+armor:
+  head:
+    name: Armatura subdermale
+    sp: 11
+    ablation: 0
+  body:
+    name: Armatura subdermale
+    sp: 11
+    ablation: 0
+
 equipment:
   weapons:
     - name: Wolvers
@@ -36,17 +46,7 @@ equipment:
       damage: 3d6 + 3
       rof: 2
       quality: Standard
-      notes: Tech-upgraded: +3 al danno
-
-  armor:
-    head:
-      name: Armatura subdermale
-      sp: 11
-      penalty: 0
-    body:
-      name: Armatura subdermale
-      sp: 11
-      penalty: 0
+      notes: Tech-upgraded +3 al Danno
 
 skills:
   # ARTISTICHE
@@ -461,31 +461,31 @@ cyberware:
       hl: 7
       notes: Collegamento neurale base
       options:
-      - name: Sandevistan
-        hl: 14
-        notes: Tech-upgraded: +4 a Iniziativa per un minuto
-      - name: Alveolo
-        hl: 7
-        notes: Permette di leggere chip
-      - name: Antidolorifico
-        hl: 7
-        notes: Ignora le penalità di ferito gravemente
+        - name: Sandevistan
+          hl: 14
+          notes: Tech-upgraded +4 a Iniziativa per un minuto
+        - name: Alveolo
+          hl: 7
+          notes: Permette di leggere chip
+        - name: Antidolorifico
+          hl: 7
+          notes: Ignora le penalità di ferito gravemente
 
   cyberarm_dx:
-    - name: 
-      hl: 
+    - name: Naturale
+      hl: 0
       options:
         - name: Wolvers
           hl: 3
-          notes: Tech upgraded: +3 al danno
+          notes: Tech upgraded +3 al danno
 
   cyberarm_sx:
-    - name: 
-      hl: 
+    - name: Naturale
+      hl: 0
       options:
         - name: Wolvers
           hl: 3
-          notes: Tech upgraded: +3 al danno
+          notes: Tech upgraded +3 al danno
 
   cyberoptics_dx:
     - name: Cyberocchio
