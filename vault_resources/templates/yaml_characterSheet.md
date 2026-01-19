@@ -29,25 +29,25 @@ hp:
 derived:
   death_save_base: FIS
   
+armor:
+  head:
+    name: <NOME ARMATURA>
+    sp: <VAL>
+    ablation: <VAL>
+  body:
+    name: <NOME ARMATURA>
+    sp: <VAL>
+    ablation: <VAL>
+
 equipment:
   weapons:
     - name: <NOME ARMA>
-      type: <TIPO ARMA>
+      type: <TIPO>
       damage: <Xd6>
       rof: <VAL>
       hands: <VAL>
-      quality: <QUALITY>
-      notes: ""
-
-  armor:
-    head:
-      name: <NAME>
-      sp: <VAL>
-      penalty: <VAL>
-    body:
-      name: <NAME>
-      sp: <VAL>
-      penalty: <VAL>
+      quality: <TIPO>
+      notes: <"VAL">
 
   gear:
     - name: <NAME>
@@ -467,18 +467,18 @@ cyberware:
       hl: <VAL>
       notes: <DESC>
       options:
-      - name: <NAME>
-        hl: <VAL>
-        notes: <DESC>
-      - name: <NAME>
-        hl: <VAL>
-        notes: <DESC>
-      - name: <NAME>
-        hl: <VAL>
-        notes: <DESC>
-      - name: <NAME>
-        hl: <VAL>
-        notes: <DESC>
+        - name: <NAME>
+          hl: <VAL>
+          notes: <DESC>
+        - name: <NAME>
+          hl: <VAL>
+          notes: <DESC>
+        - name: <NAME>
+          hl: <VAL>
+          notes: <DESC>
+        - name: <NAME>
+          hl: <VAL>
+          notes: <DESC>
 
   cyberarm_dx:
     - name: <NAME>
