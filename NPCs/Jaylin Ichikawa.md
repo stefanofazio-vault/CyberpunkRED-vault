@@ -27,7 +27,7 @@ Il fratello, unico sopravvissuto della famiglia oltre a lui, è diventato negli 
 Jaylin mette, nel suo piccolo, in moto gli eventi legati all'[[AI-LF]] e al [[Progetto Master Of Puppets]].
 
 ##### 2032
-Attorno ai tredici anni viene avvicinato da Mr. X, che gli propone un accordo in veste di Militech: eliminare i suoi genitori, bruciando il laboratorio nel quale il lavoro degli ultimi anni era contenuto, dopo aver rubato schematiche e appunti dai computer in casa. 
+Attorno ai tredici anni viene avvicinato da [[Mr. X]], che gli propone un accordo in veste di Militech: eliminare i suoi genitori, bruciando il laboratorio nel quale il lavoro degli ultimi anni era contenuto, dopo aver rubato schematiche e appunti dai computer in casa. 
 Jaylin accetta e nel 2032 dà fuoco al laboratorio dei genitori, uccidendoli nel processo. Dopodichè, abbandona casa propria e si fa assumere da Militech.
 
 ##### 2033

@@ -26,7 +26,7 @@ Nel corso del tempo, Eliza è diventata più chiusa, meno espansiva e costanteme
 ##### 2045
 Eliza incontra per la prima volta la crew quando quest'ultima si presenta al [[Campo Aldecaldo]] in cerca di supporto per organizzare l'assalto al convoglio che trasporta l'[[AI-LF]]. È l'ottobre del 2045.
 
-Jaylin sapeva che qualcuno avrebbe dovuto rubare il convoglio in quanto il lavoro è stato offerto da Mr. X a una serie di fixer di Night City. In virtù di ciò, Eliza era stata avvertita dell'importanza del carico e le era stato assegnato il compito di portarlo presso il [[Sito di ricerca Alpha]] anche a costo di tradire apertamente il clan. 
+Jaylin sapeva che qualcuno avrebbe dovuto rubare il convoglio in quanto il lavoro è stato offerto da [[Mr. X]] a una serie di fixer di Night City. In virtù di ciò, Eliza era stata avvertita dell'importanza del carico e le era stato assegnato il compito di portarlo presso il [[Sito di ricerca Alpha]] anche a costo di tradire apertamente il clan. 
 
 Durante l'operazione, tuttavia, viene scoperta da [[Andres 'Timbò' Yanonami|Timbò]] e fermata da quest'ultimo insieme a [[Maël De Armas|Maël]].
 
