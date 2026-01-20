@@ -27,8 +27,12 @@ In contesti come questi Arik mostra una certa codardia, causata in realtà dal d
 Arik invita Maël in pub, con la scusa di parlare un po', nel novembre del 2045. Durante la conversazione emerge che Maël ha recentemente affrontato i [[Voodoo Boys]], cosa che sorprende Arik considerato che anche Arik stesso era impegnato con i Voodoo Boys in quel periodo. La cosa turba Arik, che sente il fratello in pericolo.
 
 #### 2046
-Arik, durante un incontro con Maël, viene a scoprire che il fratello ha infranto la sicurezza di Militech per cercare informazioni in un loro database durante la festa di Capodanno. Questo evento turba ancora di più Arik, che vede il fratello seguire un percorso pericoloso. 
+Maël contatta Arik nel gennaio del 2046 chiedendogli informazioni riguardo la lista di nomi recuperata alla festa di Capodanno di Militech. Arik, riconoscendo i nomi, chiede un incontro al fratello.
+Arik, durante l'appuntamento con Maël, viene a scoprire che il fratello ha infranto la sicurezza di Militech per cercare informazioni in un loro database durante la festa di Capodanno. Questo evento turba ancora di più Arik, che vede il fratello seguire un percorso pericoloso. 
+Durante la conversazione, emerge come i nomi recuperati fossero tutti soggetti di casi di rapimento che l'[[NCPD]] aveva sommariamente cercato nel corso degli anni. Arik ammette come lui stesso si fosse interessato, in particolare, del caso della scomparsa di [[Nova]], ma che fosse riuscito a scoprire unicamente che il suo ultimo avvistamento corrisponde al suo arresto da parte di due agenti di Militech nei pressi del [[Born This Way]]. Indica, inoltre, che la denuncia era stata sporta da un certo [[Tyler]] e che come riferimento in caso di notizie avesse lasciato l'indirizzo di un'officina di nome [[K.A.T.]].
+Informa inoltre il fratello dell'identità di [[Warrick Sherwood]].
 
-In virtù di ciò, un mese dopo, chiede un incontro col fratello in cui rivela che in polizia si sa chi sia l'assassino del padre. L'intento di Arik era portare a convincere il fratello a lasciare perdere, in quanto dalla sua prospettiva era una battaglia a perdere. Maël non lo ascolterà. 
+
+Dopo un periodo di forte stress dovuto alla preoccupazione nei confronti del fratello, Arik chiede un incontro a Maël in cui rivela che in polizia si sa chi sia l'assassino del padre. L'intento di Arik era portare a convincere il fratello a lasciare perdere, in quanto dalla sua prospettiva era una battaglia a perdere. Maël non lo ascolterà. 
 
 ---
