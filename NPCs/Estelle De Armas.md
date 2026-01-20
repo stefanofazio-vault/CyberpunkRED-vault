@@ -1,4 +1,3 @@
-
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
@@ -10,6 +9,8 @@ Estelle è la madre di [[Maël De Armas|Maël]], [[Arik De Armas|Arik]] e [[Esme
 Estelle ha vissuto i primi anni della relazione con il marito negli agi derivanti dal lavoro di quest'ultimo. Estelle ha sempre evitato accuratamente di porre domande sulla natura del denaro che Javier portava a casa, conscia che la verità avrebbe pesato sull'equilibrio familiare.
 
 I tre figli hanno ricevuto un'ottima istruzione e hanno vissuto una vita serena in compagnia della madre fino all'omicidio del padre.
+
+![[2038-01-20]]
 
 Questo evento ha lasciato sconvolta Estelle che, per via di una combinazione di forte PTSD e un grave uso di droghe, è finita in un centro riabilitativo, sfruttando gli ultimi soldi lasciati dal marito.
 
