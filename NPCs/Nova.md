@@ -25,6 +25,7 @@ Al tempo stesso, Nova mostra una certa sicurezza nella sua persona e nelle sue c
 Nel corso della relazione con Kyle, svilupperà un forte sentimento nei suoi confronti che si esprime da parte sua in affettuosa preoccupazione.
 
 Nel corso della prigionia presso il sito di ricerca Alpha la sua personalità viene completamente distrutta, lasciandola completamente vuota. Gli unici aspetti di lei che rimangono sono un notevole attaccamento al senso del tempo (dimostrato dai segni sulle pareti sulla sua cella) e dalla apparentemente incrollabile certezza che Kyle sarebbe prima o poi arrivato ad aiutarla.
+![[Cella.png|600]]
 
 ---
 #### Ai giorni nostri
