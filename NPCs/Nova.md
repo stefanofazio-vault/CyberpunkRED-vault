@@ -10,7 +10,7 @@ Nova è la ex-ragazza di [[Kyle Ledger]] e una delle prime cavie rapite per il [
 Nova conosce Kyle nel febbraio del 2045 effettuando consegne presso la sua officina di quel periodo, la [[K.A.T.]].
 I due iniziano presto a frequentarsi, arrivando persino a convivere. 
 
-Durante questo periodo è Nova stessa a informare Kyle che [[Aiden]] sta cominciando ad accettare lavori esterni alla rete della K.A.T. con il chiaro intento di crearsi *network* personale. 
+Durante questo periodo è Nova stessa a informare Kyle che [[NPCs/Aiden]] sta cominciando ad accettare lavori esterni alla rete della K.A.T. con il chiaro intento di crearsi *network* personale. 
 
 Nova scomparirà il 26 gennaio 2038, rapita da due agenti [[Militech]] inviati da [[Jaylin Ichikawa]] con l'intento di usarla come cavia da laboratorio. 
 Verrà portata presso il [[Sito di ricerca Alpha]], dove rimarrà rinchiusa fino all'ottobre del 2045. 
