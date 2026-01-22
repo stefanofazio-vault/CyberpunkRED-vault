@@ -58,4 +58,4 @@ Aiden scrolla le spalle, prima di sparire.
 
 ---
 #### Scheda personaggio
-![[Schede/statblocks/Aiden]]
+![[Aiden - SB]]
