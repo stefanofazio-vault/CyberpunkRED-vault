@@ -37,3 +37,5 @@ Il 26 febbraio 2046 Jemmy assalterà per un'ultima volta la crew presso il [[Sit
 
 ---
 #### Scheda personaggio
+
+![[Jemmy Tasker - CS]]
