@@ -1,7 +1,6 @@
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
-[[#Scheda personaggio]]
 
 ---
 #### Background
