@@ -51,8 +51,23 @@ Il 13 febbraio 2043, Z€N1TH e $€4N trovano Edge morto suicida in officina. I
 
 ---
 #### Personalità
+Tyler, dei tre fondatori della K.A.T., è sicuramente il più tranquillo e riservato. Difficilmente si sbottona riguardo ciò che pensa e ciò che prova a meno che farlo non abbia un effetto quasi certo e che possa evitare problemi. 
+
+È molto appassionato del proprio lavoro e tiene moltissimo a Kyle. La sua gestione delle risorse è quindi indirizzata principalmente al benessere dell'officina e dell'amico, che ciclicamente si trova coinvolto in situazione spiacevoli. In questi casi, Tyler si dimostra capace di dare supporto mantenendo un sangue freddo e una lucidità notevoli.
+
+Non sembra particolarmente interessato a relazioni di tipo romantico. I suoi amici (più Kyle che Aiden, in realtà) hanno vissuto svariate relazioni, con Tyler costantemente da solo sullo sfondo. La cosa non sembra pesargli e non è mai stato visto fare mosse per uscire da questa situazione.
 
 ---
 #### Ai giorni nostri
+##### 2045
+Dall'ottobre del 2045 fino alla risoluzione della questione, Z€N1TH viene informato riguardo l'evolversi della situazione riguardante il [[Progetto Master Of Puppets]]. 
+Durante tutto questo periodo, Z€N1TH fornisce supporto quando necessario. 
+
+Z€N1TH passa, come ogni anno, il Natale in compagnia di $€4N. I due vanno a bere al Devil's Cut e dopo un po' di cocktail si trovano entrambi così sbronzi da non ricordarsi ancora oggi cosa avvenuto quella sera.
+
+##### 2046
+Nel gennaio del 2046, Z€N1TH informerà $€4N, che in quel momento si stava dando alla macchia in seguito al rapimento di Aiden, che dei furgoni [[Militech]] stavano girando vicino l'officina.
+
+Nel febbraio del 2046, Z€N1TH si apre con $€4N riguardo la sua evidente preoccupazione rispetto ai piani dell'amico. $€4N promette che sarebbe tornato.
 
 ---
