@@ -7,8 +7,14 @@ Il locale è anche base operativa delle [[Street Queens]], gang la cui missione 
 #### Ai giorni nostri
 Qualche tempo dopo il 2032, Maxime accoglie [[Bellamy Ichikawa|Bellamy]] in seguito all'omicidio da parte di [[Jaylin Ichikawa|Jaylin]] dei genitori. Da quel momento, Bellamy ha sempre abitato al Born This Way e ne ha fatto la sede delle sue attività da fixer.
 
+##### 2045
 Il Born This Way viene colpito da un atto di vandalismo nel dicembre 2045. I danni vengono completamente riparati grazie anche al contributo economico di Bellamy.
 
 A partire da ottobre 2045 fino a febbraio 2046, il locale è stato riempito di cimici, fisicamente installate da [[Jemmy Tasker]] per conto di Jaylin.
 
 ---
+
+#### Residenti notevoli
+- [[Maxime Raunch]]
+- [[Bellamy Ichikawa]]
+- [[Aurora]]

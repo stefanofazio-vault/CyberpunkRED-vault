@@ -26,7 +26,7 @@ Viene avvicinato da [[Jaylin Ichikawa|Jaylin]] che, spacciandosi per Bellamy, so
 
 Fubuki, dopo aver scoperto il fatto, ne parla con Bellamy, che non si preoccupa di mostrargli conforto. È in seguito a questo fatto che, dopo un confronto nella casa di Fubuki, i due troncano i rapporti.
 
-Fubuki, tuttavia, decide di vendicarsi dell'indifferenza di Bellamy, drogando una delle ballerine del [[Born This Way]] e lasciandole un marchio vicino l'inguine (senza però ferirla). Dopo essere stato confrontato riguardo l'accaduto, Fubuki rivendica l'accaduto per poi sparire.
+Fubuki, tuttavia, decide di vendicarsi dell'indifferenza di Bellamy, drogando una delle ballerine del [[Born This Way]] ([[Aurora]]) e lasciandole un marchio vicino l'inguine (senza però ferirla). Dopo essere stato confrontato riguardo l'accaduto, Fubuki rivendica l'accaduto per poi sparire.
 
 Bellamy contatta un'ultima volta Fubuki poco prima della resa dei conti con Jaylin, chiedendo aiuto in cambio della possibilità di vendicarsi appieno in futuro. Fubuki decide di non cogliere l'occasione, lasciando Bellamy al suo destino, con la richiesta però di essere contattato di nuovo nel caso in cui quest'ultimo sia sopravvissuto allo scontro.
 

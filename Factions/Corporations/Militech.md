@@ -17,3 +17,12 @@ Durante la [[Quarta Guerra Corporativa]] Militech gioca un ruolo di primo piano 
 
 ##### **2024 – 2076: nazionalizzazione e ricostruzione**
 Con il conflitto ormai dilagante e le pressioni dei governi, i governi della _New United States_ nazionalizzano Militech utilizzando le sue risorse per rafforzare le forze armate federali e mantenere il controllo sul territorio. Nonostante questa perdita di autonomia, Militech continua segretamente a operare come produttore di armi e forza militare privata, cercando di riconquistare parte della propria influenza storica nel mercato globale e mantenendo legami strategici con agenzie governative.
+
+---
+
+#### Membri notevoli
+- [[Jaylin Ichikawa]]
+- [[Warrick Sherwood]]
+- [[Aiden]]
+- [[Garrett Bernard]]
+- [[Solomon Marvin]]

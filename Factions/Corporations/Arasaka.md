@@ -24,3 +24,10 @@ I genitori di [[Bellamy Ichikawa|Bellamy]] e [[Jaylin Ichikawa|Jaylin]], [[Olivi
 Verranno uccisi da Jaylin, che darà fuoco al laboratorio dove entrambi stavano lavorando, per conto di Militech.
 
 Il padre di [[Corey Yazawa|Corey]], [[Yasuo Yazawa]], lavorava come ingegnere biomedico in Arasaka, prima di venire ucciso nel marzo del 2040 per mano di Jaylin. In Arasaka, Yasuo si occupava di rimettere in piedi il progetto AI-LF. 
+
+---
+
+#### Membri notevoli
+- [[Yasuo Yazawa]]
+- [[Olivia Smith]]
+- [[Saito Ichikawa]]
