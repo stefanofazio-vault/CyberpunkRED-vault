@@ -1,0 +1,1 @@
+Il Blue Glass è una droga di strada il cui effetto principale è il provocare vivide e colorate allucinazioni in chi lo assume. 
