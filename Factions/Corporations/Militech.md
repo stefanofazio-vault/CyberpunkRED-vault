@@ -26,3 +26,4 @@ Con il conflitto ormai dilagante e le pressioni dei governi, i governi della _Ne
 - [[Aiden]]
 - [[Garrett Bernard]]
 - [[Solomon Marvin]]
+- [[Lorelei Delgado]]
