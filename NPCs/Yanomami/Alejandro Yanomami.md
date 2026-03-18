@@ -4,7 +4,7 @@
 
 ---
 #### Background
-Alejandro è il fratello maggiore di [[Julia 'Lucy' Yanomami|Lucy]], [[Rico 'Linus' Yanomami|Linus]], [[Andres 'Timbò' Yanonami|Timbò]] e [[Joji Yanonami]] e nipote di [[Kaya 'Woodstocka' Yanomami]]. 
+Alejandro è il fratello maggiore di [[Julia 'Lucy' Yanomami|Lucy]], [[Rico 'Linus' Yanomami|Linus]], [[Andres 'Timbò' Yanonami|Timbò]] e [[Joji Yanonami]], fratello minore di [[Ronaldo Yanomami]] e [[Lionel Yanomami]], figlio di [[Carlos Yanomami]] e [[Rosalinda Yanomami]] e nipote di [[Kaya 'Woodstocka' Yanomami]] e [[Gonzalo Yanomami]].
 
 Alejandro è un fixer di medio livello operante principalmente con i nomadi. La famiglia [[Yanomami]] è specializzata nel contrabbando di droghe naturali prodotte dal ramo della famiglia situato in Sudamerica. Alejandro, tuttavia, è versatile anche nell'organizzare altri tipi di lavori e in una certa nicchia è un fixer molto rispettato a Night City.
 

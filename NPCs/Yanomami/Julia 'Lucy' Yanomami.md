@@ -4,11 +4,11 @@
 
 ---
 #### Background
-Lucy è la sorella di [[Rico 'Linus' Yanomami|Linus]], [[Andres 'Timbò' Yanonami|Timbò]], [[Joji Yanonami|Joji]] e [[Alejandro Yanomami]] e nipote di [[Kaya 'Woodstocka' Yanomami]].
+Lucy è la sorella minore di [[Rico 'Linus' Yanomami|Linus]], [[Andres 'Timbò' Yanonami|Timbò]], [[Joji Yanonami|Joji]] e [[Alejandro Yanomami]], [[Lionel Yanomami]] e [[Ronaldo Yanomami]], figlia di [[Carlos Yanomami]] e [[Rosalinda Yanomami]] e nipote di [[Kaya 'Woodstocka' Yanomami]] e [[Gonzalo Yanomami]].
 
 Lucy è la più piccola dei fratelli dopo Joji e, come Linus, non ha ricevuto l'addestramento tipico della famiglia che i fratelli più grandi hanno ricevuto sin da piccoli. 
 
-Lucy nasce nel 2033, arrivando a Night City all'età di 7 anni. 
+Lucy nasce nel 2033, arrivando a Night City all'età di 10 anni. 
 Qui, grazie agli sforzi della nonna e dei fratelli maggiori, sta riuscendo a frequentare una scuola insieme a Linus e a godersi una vita di relativa serenità. 
 
 ---

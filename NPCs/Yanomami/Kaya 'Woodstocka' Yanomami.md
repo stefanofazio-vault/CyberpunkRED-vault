@@ -4,7 +4,7 @@
 
 ---
 #### Background
-Kaya è la nonna materna di [[Joji Yanonami|Joji]], [[Rico 'Linus' Yanomami|Linus]], [[Julia 'Lucy' Yanomami|Lucy]], [[Andres 'Timbò' Yanonami|Timbò]] e [[Alejandro Yanomami]]. Fa parte del gruppo della famiglia [[Yanomami]] che si è stabilito a Night City. 
+Kaya è la nonna materna di [[Joji Yanonami|Joji]], [[Rico 'Linus' Yanomami|Linus]], [[Julia 'Lucy' Yanomami|Lucy]], [[Andres 'Timbò' Yanonami|Timbò]] e [[Alejandro Yanomami]], [[Lionel Yanomami]] e [[Ronaldo Yanomami]] e madre di [[Rosalinda Yanomami]]. È stata moglie di [[Gonzalo Yanomami]]. Fa parte del gruppo della famiglia [[Yanomami]] che si è stabilito a Night City. 
 
 Gestisce, con l'aiuto di Timbò, il ristorante [[Esnupi]], situato nel [[Glen]]. 
 

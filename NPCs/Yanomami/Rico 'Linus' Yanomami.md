@@ -4,11 +4,11 @@
 
 ---
 #### Background
-Rico è il fratello di [[Julia 'Lucy' Yanomami|Lucy]], [[Andres 'Timbò' Yanonami|Timbò]], [[Joji Yanonami|Joji]] e [[Alejandro Yanomami]] e nipote di [[Kaya 'Woodstocka' Yanomami]].
+Rico è il fratello maggiore di [[Julia 'Lucy' Yanomami|Lucy]] e [[Joji Yanonami|Joji]], fratello minore [[Andres 'Timbò' Yanonami|Timbò]],  [[Alejandro Yanomami]], [[Ronaldo Yanomami]] e [[Lionel Yanomami]], figlio di [[Carlos Yanomami]] e [[Rosalinda Yanomami]] e nipote di [[Kaya 'Woodstocka' Yanomami]] e [[Gonzalo Yanomami]].
 
 Linus non ha ricevuto l'addestramento caratteristico della famiglia in seguito alla volontà della madre di non educare più i figli giovani alla gestione di un impero criminale.
 
-Linus nasce nel 2032, arrivando a Night City all'età di 8 anni. 
+Linus nasce nel 2032, arrivando a Night City all'età di 11 anni. 
 Qui, grazie agli sforzi della nonna e dei fratelli maggiori, sta riuscendo a frequentare una scuola insieme a Lucy e a godersi una vita di relativa serenità. 
 
 ---

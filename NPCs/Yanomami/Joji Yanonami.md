@@ -4,7 +4,7 @@
 
 ---
 #### Background
-Joji è il fratello di [[Andres 'Timbò' Yanonami|Timbò]], [[Alejandro Yanomami|Alejandro]], [[Julia 'Lucy' Yanomami|Lucy]] e [[Rico 'Linus' Yanomami|Linus]] e nipote di [[Kaya 'Woodstocka' Yanomami|Woodstocka]] della famiglia [[Yanomami]].
+Joji è il fratello minore di [[Andres 'Timbò' Yanonami|Timbò]], [[Alejandro Yanomami|Alejandro]], [[Julia 'Lucy' Yanomami|Lucy]], [[Rico 'Linus' Yanomami|Linus]], [[Lionel Yanomami]] e [[Ronaldo Yanomami]], figlio di [[Carlos Yanomami]] e [[Rosalinda Yanomami]] e nipote di [[Kaya 'Woodstocka' Yanomami|Woodstocka]] e [[Gonzalo Yanomami]] della famiglia [[Yanomami]].
 Nato nel 2037, viene rapito a Night City sotto gli ordini di [[Jaylin Ichikawa]] nel 2043, poco dopo l'arrivo della famiglia in città.
 
 Da allora, Joji è stato cavia da laboratorio per il [[Progetto Master Of Puppets]], prima nel [[Sito di ricerca Alpha]] e, nell'ultima fase da fine 2045 a inizio 2046, nel [[Sito di ricerca Delta]]. 
