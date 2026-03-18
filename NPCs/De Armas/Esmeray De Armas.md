@@ -31,7 +31,7 @@ Nel novembre del 2045, Esmeray viene contattata da Maël per una chiacchierata t
 Maël capisce che il prototipo in questione è l'[[AI-LF]] che qualche giorno prima era stato rubato dalla crew a [[Militech]]. 
 
 ##### 2046
-Nel gennaio del 2046, Esmeray viene ancora una volta contattata da Maël che le chiede delle informazioni riguardo la sigla "MoP" (acronimo del [[Progetto Master Of Puppets]]) e riguardo [[NPCs/Aiden]]. I riferimenti a entrambi i nomi sono stati trovati dalla crew alla festa di Capodanno in Militech.
+Nel gennaio del 2046, Esmeray viene ancora una volta contattata da Maël che le chiede delle informazioni riguardo la sigla "MoP" (acronimo del [[Progetto Master Of Puppets]]) e riguardo [[Aiden]]. I riferimenti a entrambi i nomi sono stati trovati dalla crew alla festa di Capodanno in Militech.
 La sorella rivelerà di non avere nulla di interessante da dire, dato che nessuno dei due nomi le ricorda nulla. 
 Nella stessa occasione, le viene rivelato che il prototipo che Zetatech le aveva annunciato come prossimo soggetto di studi è in realtà in possesso della crew e che è un design di [[Arasaka]] rubato poi da Militech. 
 Le viene inoltre proposto di studiare direttamente il prototipo. Questo non avverrà poichè il prototipo verrà rubato poco dopo.

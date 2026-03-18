@@ -51,7 +51,7 @@ cyberware:
 
 ---
 #### Background
-Solomon è una guardia del corpo dipendente di [[Militech]] e assegnata alla protezione di [[NPCs/Aiden|Aiden]] nel 2045. 
+Solomon è una guardia del corpo dipendente di [[Militech]] e assegnata alla protezione di [[Aiden|Aiden]] nel 2045. 
 Solomon convive con Aiden in un appartamento a Little Europe pagato da Militech, provvedendo protezione h24. 
 
 ---
