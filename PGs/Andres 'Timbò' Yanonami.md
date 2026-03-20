@@ -50,9 +50,51 @@ Andres passa la vita ad aiutare la nonna al ristorante di giorno, portando anche
 
 ---
 #### Personalità
+Andres è una persona fortemente seria, ai limiti del paranoico, formato dall'infanzia traumatica che ha vissuto.
+La puntualità e la precisione sono due delle principali qualità di cui si fa fregio e che si aspetta dalle altre persone.
+Non ha alcun interesse a piacere agli altri. 
+
+Tutto quanto detto crolla completamente nel momento in cui si parla della sua famiglia. Andres vive per i fratelli e farebbe di tutto per loro.
+Il rapporto con i fratelli vicini, Rico e Julia, è affettuoso e ricco di dialogo. 
 
 ---
 #### Ai giorni nostri
+#### 2045
+##### Settembre
+Nel settembre del 2045 Andres viene contattato da Alejandro per svolgere un lavoro per conto della famiglia: avrebbe infatti dovuto trasportare fuori città [[Alexander DuBois]], un corporativo che dopo una serie di dissapori con i [[Maelstrom]] ha deciso di fuggire il più lontano possibile.
+Dopo aver recuperato il cliente, Andres si è messo in viaggio verso i confini della città, solo per trovarsi tallonato dopo poco dai Maelstrom che, dopo un inseguimento durato qualche minuto, lo hanno fatto finire fuori strada. Alexander, ucciso dai Maelstrom immediatamente dopo l'incidente, non ha ovviamente avuto modo di pagare.
+Il denaro era tuttavia necessario per saldare alcuni debiti che il ristorante gestito da Kaya, l'Esnupi, aveva contratto. Andres si è quindi trovato con un forte bisogno di denaro.
+
+##### Ottobre
+In ottobre, Alejandro contatta Andres, avvisandolo che avrebbe ricevuto una chiamata da parte di una fixer con il quale ha lavorato alcune volte: [[Robin Maldonado]].
+Viene fissato un incontro al [[Born This Way]] il 20 ottobre 2045.
+Durante questo incontro, Andres conosce quella che sarebbe diventata la sua crew per i mesi a seguire, composta da [[Bellamy Ichikawa]], [[Kyle Ledger]], [[Corey Yazawa]] e [[Maël De Armas]].
+
+Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], il progetto e il prototipo di un ritrovato tecnologico sviluppato da [[Militech]] (l'[[AI-LF]]).
+Andres, come gli altri, accetta il lavoro e iniziano i preparativi. 
+
+In seguito a questa prima riunione, Andres rimane coinvolto nel [[Sessione 1 - Recupero dei progetti|recupero dei progetti]]. Durante il lavoro, Andres trova, sui progetti, il nome di Joji scarabocchiato in una lista comprendente una serie di altri nomi.
+Dopo aver consegnato i progetti a Robin e aver incassato la prima parte del compenso, Andres contatta immediatamente Alejandro, che sembra stupito della presenza del nome del fratello lì.
+
+Durante la prima fase del lavoro, Andres comincia già a provare fastidio nei confronti dei propri compagni di squadra, che sono chiassosi e a suo parere invadenti.
+
+In seguito a ciò, la crew [[Sessione 2 - Visita al Mercato Notturno|visiterà un mercato notturno]] per prepararsi all'assalto al convoglio.
+
+Dopo gli avvenimenti del Mercato Notturno e seguendo i consigli di Robin viene deciso che il prossimo *step* del lavoro sarà contattare [[Joshua Travis]], il capo degli [[Aldecaldo]] a Night City, per chiedere supporto. In vista di ciò, Andres mette in contatto Bellamy con Alejandro, così che possa ricevere delle dritte su come trattare. 
+
+Con gli altri, il 31 stesso del mese, verrà coinvolto nel [[Sessione 3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]] come effetto collaterale del favore richiesto da Joshua in cambio del suo supporto.
+
+##### Novembre
+In vista dell'assalto, Andres contatta [[Matthew Travis]], figlio di Joshua, per ottenere consigli su come preparare l'assalto dal punto di vista logistico. Gli verrà consigliato di appostarsi nel deserto, ancora prima che il convoglio entri a [[Rancho Coronado]].
+
+Inoltre, nello stesso periodo, durante un pomeriggio di lavoro all'Esnupi, nota, per strada, un bambino che sta venendo bullizzato da altri due ragazzi. Nell'ottica di evitare danni di immagine al ristorante, Andres caccerà i bulli, generando un senso di gratitudine immenso nel bambino bullizzato ([[Craig]]).Quest'ultimo verrà accolto in casa da Kaya. 
+
+Infine, il 17 di novembre Andres rimarrà coinvolto nell'[[Sessione 4 - Assalto al convoglio|assalto al convoglio]].
+In seguito agli eventi dell'assalto, Andres ha bisogno di un periodo di convalescenza, che passa in compagnia dei propri fratellini. 
+Una volta ripresosi, prova sia a cercare informazioni aggiuntive sui nomi della lista, senza successo, sia a ottenere informazioni riguardo a [[Aiden]], la cui firma è stata trovata sul prototipo. Per fare ciò, si reca allo [[Short Circuit]], dove riesce a ottenere la promessa di un incontro con [[3-Piece]] e [[Brain]] che però non è ancora stata riscattata.
+
+##### Dicembre
+Bellamy segnala alla crew un lavoro che consiste nel recuperare il netrunner [[4D4M4NT]], rapito dai Maelstrom al [[Totentanz]]. La crew verrà quindi coinvolta nel [[Sessione 5 - Il Totentanz|salvataggio al Totentanz]]. 
 
 ---
 #### Scheda personaggio
