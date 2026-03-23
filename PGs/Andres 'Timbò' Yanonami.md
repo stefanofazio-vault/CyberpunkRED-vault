@@ -89,12 +89,37 @@ In vista dell'assalto, Andres contatta [[Matthew Travis]], figlio di Joshua, per
 
 Inoltre, nello stesso periodo, durante un pomeriggio di lavoro all'Esnupi, nota, per strada, un bambino che sta venendo bullizzato da altri due ragazzi. Nell'ottica di evitare danni di immagine al ristorante, Andres caccerà i bulli, generando un senso di gratitudine immenso nel bambino bullizzato ([[Craig]]).Quest'ultimo verrà accolto in casa da Kaya. 
 
+Kaya, nello stesso periodo, solleva dei dubbi riguardo la salute mentale di Andres, che da quando il nome di Joji è saltato fuori è peggiorata nuovamente: Andres è iperfissato sul ritrovamento di Joji e non dorme, è sempre nervoso e comincia a comportarsi in maniera quasi violenta. La nonna gli suggerisce di andare in terapia, idea che viene dismessa da Andres.
+
 Infine, il 17 di novembre Andres rimarrà coinvolto nell'[[Sessione 4 - Assalto al convoglio|assalto al convoglio]].
+
+Robin, tramite una chiamata fatta con voce affannata, suggerirà alla crew di lasciar perdere il prototipo. Li informa infatti che Militech ha istituito delle squadre di assalto volte a cacciare i colpevoli dell'assalto al convoglio. Suggerisce quindi di volare basso e gli avverte che si nasconderà per un po' di tempo. 
+
 In seguito agli eventi dell'assalto, Andres ha bisogno di un periodo di convalescenza, che passa in compagnia dei propri fratellini. 
 Una volta ripresosi, prova sia a cercare informazioni aggiuntive sui nomi della lista, senza successo, sia a ottenere informazioni riguardo a [[Aiden]], la cui firma è stata trovata sul prototipo. Per fare ciò, si reca allo [[Short Circuit]], dove riesce a ottenere la promessa di un incontro con [[3-Piece]] e [[Brain]] che però non è ancora stata riscattata.
 
+La crew, in questo periodo, affitta un appartamento a [[Little Europe]] per tenere nascosto il prototipo. Andres, così come gli altri, fa alcuni turni di guardia. 
+Durante una di queste occasioni ha una conversazione con $€4N, che come la nonna pochi giorni prima, gli suggerisce di andare in terapia, facendo commenti su come l'atteggiamento di Andres nei confronti degli altri fosse poco costruttivo e potenzialmente pericoloso. Andres, sotto il peso delle responsabilità e dopo non essersi preso cura di sé per molto tempo, crolla di fronte al compagno di squadra. $€4N lo conforta. In seguito a questo evento, Andres decide di andare in terapia. 
+
 ##### Dicembre
-Bellamy segnala alla crew un lavoro che consiste nel recuperare il netrunner [[4D4M4NT]], rapito dai Maelstrom al [[Totentanz]]. La crew verrà quindi coinvolta nel [[Sessione 5 - Il Totentanz|salvataggio al Totentanz]]. 
+Bellamy segnala alla crew un lavoro che consiste nel recuperare il netrunner [[4D4M4NT]], rapito dai Maelstrom al [[Totentanz]]. 4D4M4NT è necessario per recuperare dati riguardo le squadre di assalto di Militech. Andres viene coinvolto nel [[Sessione 5 - Il Totentanz|salvataggio al Totentanz]]. 
+
+Andres passa quindi la settimana successiva in terapia presso la clinica di Corey, dove vede un discreto miglioramento della propria condizione. 
+Passa poi serenamente il Natale in famiglia.
+
+Il lavoro seguente viene svolto il 31 dicembre 2045, presso la [[Sessione 6 - Festa di Militech|festa di Capodanno di Militech]].
+I dati fanno scegliere alla crew di rapire Aiden. 
+
+Andres decide di rimanere sotto i radar per il periodo successivo. 
+
+#### 2046
+##### Gennaio
+La crew si riunisce il 14 gennaio 2046 per decidere come rapire Aiden presso la [[Clinica Vogel]].
+La settimana successiva viene utilizzata da Andres per fare ricognizione nelle zone battute da Aiden secondo le informazioni ottenute da Corey.
+
+Il 22 gennaio 2046 avviene il [[Sessione 7 - Rapimento di Aiden|rapimento di Aiden]], seguito da degli interrogatori che si tengono presso la [[K.A.T.]], luogo scelto per tenerlo lontano da occhi indiscreti durante la notte.
+
+
 
 ---
 #### Scheda personaggio
