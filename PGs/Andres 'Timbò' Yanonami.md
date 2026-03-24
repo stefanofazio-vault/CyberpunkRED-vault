@@ -114,12 +114,42 @@ Andres decide di rimanere sotto i radar per il periodo successivo.
 
 #### 2046
 ##### Gennaio
-La crew si riunisce il 14 gennaio 2046 per decidere come rapire Aiden presso la [[Clinica Vogel]].
+La crew si riunisce il 7 gennaio 2046 per decidere come rapire Aiden presso la [[Clinica Vogel]].
 La settimana successiva viene utilizzata da Andres per fare ricognizione nelle zone battute da Aiden secondo le informazioni ottenute da Corey.
 
-Il 22 gennaio 2046 avviene il [[Sessione 7 - Rapimento di Aiden|rapimento di Aiden]], seguito da degli interrogatori che si tengono presso la [[K.A.T.]], luogo scelto per tenerlo lontano da occhi indiscreti durante la notte.
+Il 14 gennaio 2046 avviene il [[Sessione 7 - Rapimento di Aiden|rapimento di Aiden]], seguito da degli interrogatori che si tengono presso la [[K.A.T.]], luogo scelto per tenerlo lontano da occhi indiscreti durante la notte.
+Durante l'interrogatorio viene stretto un accordo secondo il quale Aiden sarebbe stato lasciato libero a patto di fornire informazioni utili e denaro nelle settimane successive.
+
+Secondo accordi presi da Bellamy, la squadra si riunisce il 22 gennaio 2046 per la [[Sessione 8 - Mediazione con gli Zoners|mediazione per gli Zoners]]. 
+
+Durante questo periodo, la crew è costretta a mantenere un basso tenore per timore di essere ricercati da Militech in seguito ad alcune informazioni riguardanti dei furgoni corporativi avvistati da [[Tyler|Z€N1TH]] vicino la [[SerpentZ]]. 
+
+In questa occasione, Kaya conoscerà Bellamy e $€4N, che si sono nascosti insieme in un motel e hanno deciso di andare a a trovare Andres presso l'Esnupi.
+
+Il 29 gennaio, insieme a Bellamy e $€4N, Andres è vittima della trappola di Aiden, durante la quale ricevono le indicazioni riguardo il lavoro successivo da [[Warrick Sherwood]]. 
+
+##### Febbraio
+Insieme al resto del gruppo, l'11 febbraio 2046 Andres svolge l'operazione [[Sessione 9 - Disturbi sulla Linea Nera|"Distubi sulla Linea Nera"]]. 
+
+Il giorno dopo l'operazione, Kaya, spaventata, avverte Andres che Crag, che nell'ultimo periodo aveva legato molto bene con i suoi fratelli e che cominciava a volere bene anche ad Andres stesso, non è più in casa e sembra scappato.
+Andres lo trova ferito da un coltello in un vicolo vicino. Dopo averlo portato presso la Clinica Vogel da Corey per tenerlo stabile, Andres scopre che Craig stesso è uscito di casa armato di coltello da cucina per cercare di vendicarsi dei due bulli che lo tormentavano tenendoli lontani dalla sua nuova casa ma nel processo è rimasto ferito. 
+
+Un paio di giorni dopo l'operazione, [[Joshua Travis]] contatterà la crew riferendo che [[Eliza Coda]] è fuggita dalla propria prigione presso il [[Campo Aldecaldo]]. 
+
+Grazie alle informazioni ricevute da Sherwood dopo l'operazione, la crew scopre l'esistenza del [[Sito di ricerca Alpha]]. Qui si svolgerà lo [[Sessione 10 - Il laboratorio|scontro con Jemmy Tasker ed Eliza]]. 
+Qui Andres scopre che Joji è molto probabilmente ancora vivo, a differenza degli altri bambini vittima degli esperimenti.
+Dopo lo scontro, Bellamy, $€4N e Andres interrogheranno [[Jemmy Tasker]] ottenendo poche informazioni utili e, apparentemente, uccidendolo provocandogli una ferita sulla gamba che lo porterà a morire dissanguato.
+
+Andres viene contattato da Corey, che segnala come Craig si sia ripreso completamente. Andres si reca presto in clinica per poi riportarlo a casa.
+
+Seguendo le indicazioni trovate presso il Sito di ricerca Alpha, il 26 febbraio 2046 la crew si dirige verso il [[Sito di ricerca Delta]], dove si trova [[Sessione 11 - L'appartamento di Jaylin|l'appartamento di Jaylin]]. Qui troveranno delle confessioni esplicite dell'operato di [[Jaylin Ichikawa]] e delle indicazioni che porteranno al [[Sito di ricerca Delta]], detto amorevolmente "Sanitarium". 
 
 
+Una volta recuperate le informazioni necessarie, la crew si reca infine presso il Sanitarium, dove avviene [[Sessione 12 - Scontro con Jaylin|lo scontro con Jaylin]].
+Joji, vivo, necessita di cure immediate. Su indicazione di Corey, Joji e [[Nova]] vengono caricati sull'auto di Andres che nel minor tempo possibile si reca presso la Clinica Vogel, dove grazie ad un intervento tempestivo, Joji viene salvato.
+
+Nei giorni successivi, Joji viene tenuto d'occhio presso la clinica di Corey, dove Alejandro, sfuggendo agli impegni di capo famiglia, si presenta a salutare il fratellino disperso.
+Dopo gli avvenimenti legati al [[Progetto Master Of Puppets]], Andres si ritira dalla vita da *edgerunner* concentrandosi sull'attività di famiglia e sulla cura dei propri fratelli (adottivi e di sangue).
 
 ---
 #### Scheda personaggio
