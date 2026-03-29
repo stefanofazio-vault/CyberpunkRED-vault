@@ -127,5 +127,50 @@ Negli stessi giorni, Bellamy incontra [[Nemo]] al Born This Way, che offre un la
 
 La crew accetta il lavoro e il 22 gennaio viene coinvolta nella [[Sessione 8 - Mediazione con gli Zoners|mediazione per gli Zoners]].
 
+[[Tyler|Z€N1TH]] segnala la presenza di furgoni Militech che girano nel [[Glen]], vicino alla [[SerpentZ]]. La crew decide quindi di mantenere un basso profilo per quanto tempo sarà necessario.
+Volendo attirare l'attenzione corporativa lontana dalle proprie zone di influenza, Bellamy e $€4N decidono di affittare un motel insieme per nascondersi.
+Qui, nonostante un evidente tensione, i due rimarranno partner lavorativi.
+Durante una delle giornate passate a ingannare il tempo, i due visiteranno l'[[Esnupi]], conoscendo [[Kaya 'Woodstocka' Yanomami]].
+
+Il 29 gennaio, presso il [[Deep Virtuality]], Bellamy, $€4N e Timbò si incontrano con Aiden come previsto.
+Tuttavia, ad attenderli c'è Warrick Sherwood, che ha saputo dell'incontro tramite il tradimento di Aiden. 
+Warrick propone un lavoro semplice, in cambio della libertà dalle squadre di assalto e di informazioni su Jaylin.
+
+In seguito a questa decisione, la crew smette di nascondersi.
+
+##### Febbraio
+L'11 febbraio 2046 la crew esegue l'operazione "[[Sessione 9 - Disturbi sulla Linea Nera|Disturbi sulla Linea Nera]]".
+
+Il giorno dopo l'operazione, in occasione di una festa organizzata da Maxime Raunch per festeggiare Bellamy, che ha contribuito economicamente alla maggior parte delle riparazioni del locale, viene rinvenuta [[Aurora]] svenuta in camera sua.
+Dopo aver portato velocemente la ballerina alla [[Clinica Vogel]], per essere curata da Corey, Bellamy analizza le riprese delle telecamere di sicurezza con $€4N, per scoprire chi è stato a drogarla. 
+Il risultato delle ricerche è che qualcuno, probabilmente offuscato da equipaggiamento simile alla M93 Ghostsuit di Militech, è entrato durante la festa e ha messo qualcosa nel drink di Aurora.
+
+Incidentalmente, il giorno dopo Bellamy viene contattata da Joshua Travis che comunica al gruppo che Eliza Coda è scappata dalla cella dove veniva nascosta.
+Dopo alcune indagini, l'ipotesi più probabile risulta essere che la modalità di fuga è molto simile a quella usata dall'intruso del Born This Way. 
+
+Warrick Sherwood, in seguito all'operazione "Disturbi sulla Linea Nera", fornisce indicazioni riguardo l'ultimo complesso di Militech fornito in gestione a Jaylin.
+
+Inoltre, qualche giorno dopo Bellamy viene contattato direttamente da Jaylin, tramite un telefono non rintracciabile. Jaylin punzecchia Bellamy, facendolo ragionare su quanto abbia da perdere e quanto poco abbia da guadagnare guastandogli gli affari.
+
+Grazie alle informazioni di Warrick, la crew si reca presso il [[Sito di ricerca Alpha]], dove si scopre l'ubicazione del [[Sito di ricerca Delta]] e dell'appartamento di Jaylin a Night City. Qui si tiene lo [[Sessione 10 - Il laboratorio|scontro con Eliza Coda e Jemmy Tasker]].
+
+Dopo lo scontro, Bellamy, $€4N e Andres interrogheranno [[Jemmy Tasker]] ottenendo poche informazioni utili e, apparentemente, uccidendolo provocandogli una ferita sulla gamba che lo porterà a morire dissanguato.
+
+Un paio di giorni dopo, non appena i preparativi finali sono stati ultimati, Bellamy decide di salutare Maxime, facendogli intendere di stare per affrontare Jaylin.
+Maxime strappa a Bellamy la promessa di tornare, fissandogli un appuntamento con un cliente per la settimana successiva.
+
+Inoltre, Bellamy contatta Fubuki per chiedere supporto nella forma di uomini o equipaggiamento, esplicando chiaramente l'intento. 
+Fubuki, divertito, non fornisce nessun tipo di aiuto, ma fa presente di tornare da lui una volta chiusa la questione.
+
+Per finire, Bellamy ottiene dell'equipaggiamento particolare da Angelica Agnelli.
+
+Il 14 febbraio, la crew si reca presso  l'[[Sessione 11 - L'appartamento di Jaylin|appartamento di Jaylin]], dove vengono trovati dei vlog registrati dallo stesso Jaylin in cui ammette la colpevolezza di una serie di colpe commesse nel corso degli anni. 
+Qui, inoltre, la crew ottiene la chiave d'accesso per il Sito di Ricerca Delta. La crew decide di recarvisi immediatamente.
+
+Una volta qui, la crew rimane coinvolta nello [[Sessione 12 - Scontro con Jaylin|scontro con Jaylin]], in cui quest'ultimo rimane ucciso dopo essere stato posseduto dalla [[IA Selvaggia]] che aveva provato a domare.
+
+Qui, tra gli altri prigionieri, è presente Robin Maldonado, che era sparita ormai da mesi.
+Bellamy, non soddisfatto delle risposte ottenute e incuriosito dal commento fatto da Jaylin una volta scoperte le identità della crew, fissa un appuntamento con Robin per discutere di chi le abbia fornito le informazioni sul prototipo in primo luogo.
+
 ---
 #### Scheda personaggio
