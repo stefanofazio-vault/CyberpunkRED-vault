@@ -104,8 +104,28 @@ Il 31 dicembre la crew rimane coinvolta nell'operazione durante la [[Sessione 6 
 
 #### 2046
 ##### Gennaio
+In attesa che 4D4M4NT analizzi i dati ottenuti durante la festa in Militech, Bellamy va a visitare Fubuki, che non vede e non sente dalla sera al Born This Way.
+Una volta arrivato a casa sua, trova tutte le serrande chiuse e Fubuki in stato quasi catatonico.
+Quest'ultimo si lamenta di come sia stato abbandonato da Bellamy in un momento di difficoltà estrema e di come desideri non vederlo più.
 
+Indispettito dagli avvenimenti, Bellamy analizza le riprese delle telecamere di sorveglianza del Born This Way in cerca di un segnale di come Jaylin potesse sapere di Fubuki. Nelle riprese salta fuori un uomo che piazza delle cimici sotto il bancone. 
 
+Contemporaneamente, $€4N riferisce di aver notato di essere stati spiati durante la festa grazie ad una ripresa eseguita con il suo MicroVideo. La persona ripresa, che si spacciava per cameriere, è la stessa che ha piazzato le cimici al Born This Way: [[Jemmy Tasker]].
+
+Bellamy scomoda alcuni suoi contatti per ottenere informazioni riguardo quest'ultimo: l'unico spunto significativo che riesce a ottenere è che i profili social di Jemmy sono palesemente falsi.
+
+Con il gruppo, viene deciso che il modo più sensato di proseguire nelle indagini è parlare direttamente con Aiden. Viene quindi deciso di rapirlo. 
+
+Nei dati forniti da 4D4M4NT c'è inoltre riferimento a [[Warrick Sherwood]]: il responsabile dell'organizzazione delle squadre di assalto che stanno dando la caccia a chi ha assaltato il convoglio. Bellamy chiede informazioni ad Angelica riguardo quest'ultimo, senza ottenere però granché.
+
+Il 7 gennaio la crew si riunisce per valutare come eseguire il rapimento di Aiden. La settimana successiva viene riservata alle ricognizioni di Timbò.
+Il 14 gennaio la crew rimane coinvolta nel [[Sessione 7 - Rapimento di Aiden|rapimento di Aiden]]. Una volta portato a compimento, Bellamy, insieme agli altri, lo interroga presso la [[K.A.T.]], ottenendo però poche informazioni di rimando. Ammette, però, di aver lavorato sull'AI-LF fino a pochi anni prima.
+
+Il giorno dopo, la crew stringe un accordo con Aiden: viene lasciato andare, a patto che fornisca fondi e informazioni regolarmente.
+
+Negli stessi giorni, Bellamy incontra [[Nemo]] al Born This Way, che offre un lavoro alla crew: una mediazione tra [[Zoners]] e [[6th Street]], da compiersi il 22 gennaio.
+
+La crew accetta il lavoro e il 22 gennaio viene coinvolta nella [[Sessione 8 - Mediazione con gli Zoners|mediazione per gli Zoners]].
 
 ---
 #### Scheda personaggio
