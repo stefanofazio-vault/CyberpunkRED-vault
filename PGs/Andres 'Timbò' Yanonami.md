@@ -144,7 +144,6 @@ Andres viene contattato da Corey, che segnala come Craig si sia ripreso completa
 
 Seguendo le indicazioni trovate presso il Sito di ricerca Alpha, il 26 febbraio 2046 la crew si dirige verso il [[Sito di ricerca Delta]], dove si trova [[Sessione 11 - L'appartamento di Jaylin|l'appartamento di Jaylin]]. Qui troveranno delle confessioni esplicite dell'operato di [[Jaylin Ichikawa]] e delle indicazioni che porteranno al [[Sito di ricerca Delta]], detto amorevolmente "Sanitarium". 
 
-
 Una volta recuperate le informazioni necessarie, la crew si reca infine presso il Sanitarium, dove avviene [[Sessione 12 - Scontro con Jaylin|lo scontro con Jaylin]].
 Joji, vivo, necessita di cure immediate. Su indicazione di Corey, Joji e [[Nova]] vengono caricati sull'auto di Andres che nel minor tempo possibile si reca presso la Clinica Vogel, dove grazie ad un intervento tempestivo, Joji viene salvato.
 
