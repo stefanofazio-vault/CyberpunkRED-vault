@@ -4,7 +4,7 @@
 
 ---
 #### Background
-Arik de Armas è il fratello di [[Esmeray De Armas|Esmeray]] (sua sorella minore) e [[Maël De Armas]] (suo gemello) e figlio di [[Javier De Armas]] e [[Estelle De Armas]].
+Arik de Armas è il fratello di [[Esmeray De Armas|Esmeray]] (sorella minore) e [[Maël De Armas]] (suo gemello) e figlio di [[Javier De Armas]] e [[Estelle De Armas]].
 Arik nasce il 30 settembre 2020. Il padre, un fixer di medio livello, ha permesso alla famiglia di godere di un tenore di vita alto grazie agli introiti del suo lavoro, che a casa è sempre stato argomento tabù. 
 
 Nel 2038 il padre viene assassinato. Nonostante ai tempi la polizia abbia provato a insabbiare il caso come un incidente dovuto ad un tossicodipendente in cerca di una dose, ai membri della famiglia era ben chiaro che la situazione non fosse questa.
