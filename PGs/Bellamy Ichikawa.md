@@ -6,7 +6,7 @@
 
 ---
 #### Background
-Bellamy Ichikawa è il figlio di [[Saito Ichikawa]] e [[Olivia Smith]] e il fratello gemello di [[Jaylin Ichikawa]].
+Bellamy Ichikawa è un *fixer* di Night City. È il figlio di [[Saito Ichikawa]] e [[Olivia Smith]] e il fratello gemello di [[Jaylin Ichikawa]].
 
 #### 2019 - 2031
 Bellamy nasce nel 2019 da Saito Ichikawa e Olivia Smith, due corporativi dipendenti di Arasaka. 
