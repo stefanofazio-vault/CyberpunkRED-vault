@@ -81,7 +81,7 @@ Nel periodo immediatamente successivo all'assalto, Corey risulta molto impegnata
 
 Decide inoltre di organizzare una visita al Campo Aldecaldo per visitare nuovamente Victor. Qui trova il ragazzo con le ferite nuovamente aperte, con un evidente *survivor guilt*. 
 
-Una volta scoperta la firma di [[Aiden]] sul prototipo, si definisce la necessità di fare ricerche su di lui. Corey mette quindi in contatto Lorelei con Bellamy, in quanto dipendente Militech.
+Sentite le affermazioni di [[Eliza Coda]] riguardo "J", Corey mette quindi in contatto Lorelei con Bellamy, in quanto dipendente Militech. Durante la conversazione viene confermato che "J" è in effetti [[Jaylin Ichikawa]].
 
 Infine, con l'aiuto di $€4N, Corey riesce finalmente a riparare il suo studio.
 
@@ -98,7 +98,30 @@ Il 31 dicembre Corey rimane coinvolta con la crew nella [[Sessione 6 - Festa di 
 
 #### 2046
 ##### Gennaio
+Una volta ricevute le informazioni da 4D4M4NT, Corey contatta nuovamente Lorelei per chiedere informazioni su [[Aiden]], il cui nome è stato trovato nella lista dipendenti, associata ad un grosso stipendio. Lorelei indica come Aiden sia effettivamente un suo collega che non va d'accordo con nessuno e spesso viene spostato di reparto per lunghi periodi.
 
+La crew decide che il miglior modo per ottenere informazioni riguardanti il prototipo sia rapire Aiden. Per fare ciò, Corey si informa con Alphonsus su come funzioni nello specifico la chiamata verso [[Trauma Team]] in modo tale da rapirlo efficacemente.
+
+Il 7 gennaio la crew si riunisce per definire nello specifico come rapire Aiden. Il 14 gennaio, dopo una settimana di ricognizione, la crew [[Sessione 7 - Rapimento di Aiden|rapisce Aiden]].
+
+Nei giorni successivi il rapimento, Victor torna da Corey, ammettendo la necessità di una sessione di terapia. Durante questa settimana, emerge come il ragazzo stia pensando di lasciare il clan per diventare un *netrunner*.
+
+Il 22 gennaio la crew [[Sessione 8 - Mediazione con gli Zoners|fa da mediatrice per gli Zoners]], in seguito ad una offerta di lavoro arrivata a Bellamy.
+Corey, al quartier generale degli [[Zoners]], fornisce supporto ad alcuni sfollati insieme a Maël.
+
+Il 29 gennaio Timbò, Bellamy e $€4N cadono trappola di [[Warrick Sherwood]], che in cambio di informazioni su Jaylin e dello scioglimento delle squadre di assalto li obbliga a partecipare all'[[Sessione 9 - Disturbi sulla Linea Nera|operazione "Disturbi sulla Linea Nera"]].
+
+##### Febbraio
+Grazie alle informazioni ottenute da Sherwood, la crew scopre l'esistenza del [[Sito di ricerca Alpha]], dove avviene il [[Sessione 10 - Il laboratorio|scontro con Eliza Coda e Jemmy Tasker]].
+In seguito all'eliminazione a sangue freddo di Eliza da parte di Timbò, Corey si allontana furiosa dal gruppo per la serata.
+
+Il 26 febbraio 2046 la crew si reca presso l'[[Sessione 11 - L'appartamento di Jaylin|appartamento di Jaylin]], dove vengono rinvenuti alcuni vlog di Jaylin stesso dove viene confermata la sua colpevolezza nell'omicidio dei genitori di Corey.
+
+Ottenuta la chiave di sicurezza per il [[Sito di ricerca Delta]], la crew vi si reca, dove avviene lo [[Sessione 12 - Scontro con Jaylin|scontro con Jaylin]].
+
+Il fratello di Timbò, provato dagli anni di prigionia e dai vari esperimenti che ha subito, ha bisogno di un'operazione urgente. 
+Corey, dopo aver avvisato Alphonsus di preparare la clinica, accompagna Timbò in macchina che riesce ad arrivare presso la Clinica Vogel giusto in tempo.
+Dopo un intervento ben riuscito, [[Joji Yanonami]] può essere considerato fuori pericolo.
 
 ---
 #### Scheda personaggio
