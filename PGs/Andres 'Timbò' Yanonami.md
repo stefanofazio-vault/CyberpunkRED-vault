@@ -74,7 +74,7 @@ Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], i
 Andres, come gli altri, accetta il lavoro e iniziano i preparativi. 
 
 In seguito a questa prima riunione, Andres rimane coinvolto nel [[Sessione 1 - Recupero dei progetti|recupero dei progetti]]. Durante il lavoro, Andres trova, sui progetti, il nome di Joji scarabocchiato in una lista comprendente una serie di altri nomi.
-Dopo aver consegnato i progetti a Robin e aver incassato la prima parte del compenso, Andres contatta immediatamente Alejandro, che sembra stupito della presenza del nome del fratello lì.
+Dopo aver incassato la prima parte del compenso, Andres contatta immediatamente Alejandro, che sembra stupito della presenza del nome del fratello lì.
 
 Durante la prima fase del lavoro, Andres comincia già a provare fastidio nei confronti dei propri compagni di squadra, che sono chiassosi e a suo parere invadenti.
 
