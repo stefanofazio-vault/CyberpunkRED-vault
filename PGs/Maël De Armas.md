@@ -41,7 +41,7 @@ Purtroppo, in seguito ad una serie di sfortunati eventi, lo scontro viene perso.
 
 ##### Ottobre
 In ottobre, Maël viene contattato nuovamente da Robin, che gli offre un secondo lavoro per ripagarla dell'ultimo.
-Viene fissato un incontro al [[Born This Way]] il 20 ottobre 2045. In questa occasione, Maël conosce [[Bellamy Ichikawa]], [[Kyle Ledger|$€4N]], [[Corey Yazawa]] e [[Andres 'Timbò' Yanonami]].
+Viene fissato un incontro al [[Born This Way]] il 20 ottobre 2045. In questa occasione, Maël conosce [[Bellamy Ichikawa]], [[Kyle Léger|$€4N]], [[Corey Yazawa]] e [[Andres 'Timbò' Yanonami]].
 
 Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], il progetto e il prototipo di un ritrovato tecnologico sviluppato da [[Militech]] (l'[[AI-LF]]).
 Maël, come gli altri, accetta il lavoro e iniziano i preparativi.
@@ -121,6 +121,10 @@ Le informazioni fornite da Warrick portano al [[Sito di ricerca Alpha]], dove av
 Conscio di essere vicino ad un punto di non ritorno, Maël spende del tempo con tutti i suoi cari.
 
 Il 26 febbraio Maël con la crew visita l'[[Sessione 11 - L'appartamento di Jaylin|appartamento di Jaylin]], dove trovano dei vlog che testimoniano la colpevolezza di Jaylin nell'omicidio, tra gli altri, di Javier De Armas. Una volta ottenuta la chiave di sicurezza per accedere al [[Sito di ricerca Delta]], la crew vi si reca. Qui si tiene lo [[Sessione 12 - Scontro con Jaylin|scontro con Jaylin]].
+
+Maël è ora impegnato con Etcher.
+
+![[Mael_final.jpeg]]
 
 ---
 #### Scheda personaggio
