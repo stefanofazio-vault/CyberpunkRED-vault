@@ -55,7 +55,7 @@ I documenti, tuttavia, sono stati contemporaneamente inviati a vari soggetti sen
 
 ##### Ottobre
 Bellamy viene contattato da [[Robin Maldonado]], che gli propone un lavoro.
-Il 20 ottobre 2045 una riunione viene fissata al Born This Way, dove Bellamy conosce [[Kyle Ledger|$€4N]], [[Maël De Armas]], [[Andres 'Timbò' Yanonami]] e [[Corey Yazawa]]. 
+Il 20 ottobre 2045 una riunione viene fissata al Born This Way, dove Bellamy conosce [[Kyle Léger|$€4N]], [[Maël De Armas]], [[Andres 'Timbò' Yanonami]] e [[Corey Yazawa]]. 
 
 Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], il progetto e il prototipo di un ritrovato tecnologico sviluppato da [[Militech]] (l'[[AI-LF]]).
 Bellamy, come gli altri, accetta il lavoro e iniziano i preparativi.
@@ -171,6 +171,8 @@ Una volta qui, la crew rimane coinvolta nello [[Sessione 12 - Scontro con Jaylin
 
 Qui, tra gli altri prigionieri, è presente Robin Maldonado, che era sparita ormai da mesi.
 Bellamy, non soddisfatto delle risposte ottenute e incuriosito dal commento fatto da Jaylin una volta scoperte le identità della crew, fissa un appuntamento con Robin per discutere di chi le abbia fornito le informazioni sul prototipo in primo luogo.
+
+![[Bellamy_final.jpeg]]
 
 ---
 #### Scheda personaggio

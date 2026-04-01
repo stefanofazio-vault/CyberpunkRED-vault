@@ -4,7 +4,7 @@
 
 ---
 #### Background
-Edge era un fixer che ha avuto rapporti professionali con [[Tyler]] e [[Kyle Ledger]]. Con quest'ultimo ha anche intrattenuto una relazione sentimentale. 
+Edge era un fixer che ha avuto rapporti professionali con [[Tyler]] e [[Kyle Léger]]. Con quest'ultimo ha anche intrattenuto una relazione sentimentale. 
 
 ##### 2040
 Edge conosce Kyle (all'epoca già $€4N) il 15 agosto 2040. Edge si è presentato presso la [[SerpentZ]] per consegnare del cyberware da riparare.

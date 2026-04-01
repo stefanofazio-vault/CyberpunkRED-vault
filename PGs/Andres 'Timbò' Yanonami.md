@@ -68,7 +68,7 @@ Il denaro era tuttavia necessario per saldare alcuni debiti che il ristorante ge
 ##### Ottobre
 In ottobre, Alejandro contatta Andres, avvisandolo che avrebbe ricevuto una chiamata da parte di una fixer con il quale ha lavorato alcune volte: [[Robin Maldonado]].
 Viene fissato un incontro al [[Born This Way]] il 20 ottobre 2045.
-Durante questo incontro, Andres conosce quella che sarebbe diventata la sua crew per i mesi a seguire, composta da [[Bellamy Ichikawa]], [[Kyle Ledger]], [[Corey Yazawa]] e [[Maël De Armas]].
+Durante questo incontro, Andres conosce quella che sarebbe diventata la sua crew per i mesi a seguire, composta da [[Bellamy Ichikawa]], [[Kyle Léger]], [[Corey Yazawa]] e [[Maël De Armas]].
 
 Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], il progetto e il prototipo di un ritrovato tecnologico sviluppato da [[Militech]] (l'[[AI-LF]]).
 Andres, come gli altri, accetta il lavoro e iniziano i preparativi. 
@@ -149,6 +149,8 @@ Joji, vivo, necessita di cure immediate. Su indicazione di Corey, Joji e [[Nova]
 
 Nei giorni successivi, Joji viene tenuto d'occhio presso la clinica di Corey, dove Alejandro, sfuggendo agli impegni di capo famiglia, si presenta a salutare il fratellino disperso.
 Dopo gli avvenimenti legati al [[Progetto Master Of Puppets]], Andres si ritira dalla vita da *edgerunner* concentrandosi sull'attività di famiglia e sulla cura dei propri fratelli (adottivi e di sangue).
+
+![[Timbò_final.jpeg]]
 
 ---
 #### Scheda personaggio

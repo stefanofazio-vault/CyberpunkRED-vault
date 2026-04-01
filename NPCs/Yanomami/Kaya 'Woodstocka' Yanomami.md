@@ -20,7 +20,7 @@ Ha subito in maniera molto profonda la perdita di Joji, motivo principale che l'
 Nel novembre del 2045, Timbò entrerà in casa con un bambino in quel momento sconosciuto (Craig). Kaya deciderà di accoglierlo. Da quel momento, Craig abita con la famiglia Yanomami. 
 
 ##### 2046
-Nel gennaio del 2046 [[Bellamy Ichikawa]] e [[Kyle Ledger]] visitano l'Esnupi durante il periodo in cui condividevano una stanza di hotel. In questa occasione, conosceranno Kaya.
+Nel gennaio del 2046 [[Bellamy Ichikawa]] e [[Kyle Léger]] visitano l'Esnupi durante il periodo in cui condividevano una stanza di hotel. In questa occasione, conosceranno Kaya.
 
 Nel febbraio del 2046, Kaya informerà Timbò che Craig è scappato. Si scoprirà, presto, che è uscito per vendicarsi dei bulli che lo avevano preso di mira dopo la morte dei genitori ma che nella rissa è stato accoltellato, cosa che lo obbligherà a letto nella clinica di [[Corey Yazawa]]. 
 Da quel momento, Kaya farà visite frequenti a Craig.

@@ -24,7 +24,7 @@ Jemmy è un ragazzo inflessibile, serio e professionale. Il periodo negli Scaven
 ##### 2045
 Nel novembre del 2045 Jemmy viene incaricato da Jaylin di piazzare alcune cimici al [[Born This Way]], in seguito alla scoperta che la crew di [[Bellamy Ichikawa]] era entrata in possesso del prototipo dell'[[AI-LF]].
 
-Il 31 dicembre 2045, alla festa di Capodanno di [[Militech]], Jemmy viene infiltrato come cameriere per tenere d'occhio la crew durante la loro infiltrazione e raccogliere informazioni su di loro. [[Kyle Ledger]] si renderà conto della presenza di qualcuno che li guardava insistentemente solo a posteriori, analizzando i filmati registrati con il suo microvideo. 
+Il 31 dicembre 2045, alla festa di Capodanno di [[Militech]], Jemmy viene infiltrato come cameriere per tenere d'occhio la crew durante la loro infiltrazione e raccogliere informazioni su di loro. [[Kyle Léger]] si renderà conto della presenza di qualcuno che li guardava insistentemente solo a posteriori, analizzando i filmati registrati con il suo microvideo. 
 
 ##### 2046
 Nel febbraio del 2046, Jemmy aiuta [[Eliza Coda]] a fuggire dal [[Campo Aldecaldo]], sfruttando una Militech M93 Ghostsuit e hackerando i generatori per provocare un blackout. 

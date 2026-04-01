@@ -40,7 +40,7 @@ Odia che le vite vadano perse e questa propensione la porta spesso a scontrarsi 
 Durante una normale giornata di lavoro nel settembre del 2045, Corey viene interrotta da un rombo di motori che sembra fermarsi proprio di fronte alla clinica.
 Prima che Corey possa pienamente accertarsi della fonte del rumore, un membro dei [[Prime-Time Players]], in particolare della sottodivisione dei "Fist Of The North Star", si precipita dentro lo studio, portando un suo compagno gravemente ferito.
 Prima che Corey possa provare a fare qualcosa, il ferito muore, scatenando l'ira del compagno, che comincia a devastare l'equipaggiamento della clinica.
-Il caos attira [[Kyle Ledger|$€4N]], la cui officina, la [[SerpentZ]], è proprio di fronte alla Clinica Vogel, nel [[Glen]].
+Il caos attira [[Kyle Léger|$€4N]], la cui officina, la [[SerpentZ]], è proprio di fronte alla Clinica Vogel, nel [[Glen]].
 I due si trovano a loro sorpresa coinvolti in una rissa che si risolve con i membri dei Prime-Time Players in fuga. Giurano, andando via, che non faranno mai più affari né con Corey né con $€4N. 
 
 Il *techie*, scherzosamente, manda una fattura in casa di Corey, contenente il saldo dei danni dovuti ai mancati affari futuri.

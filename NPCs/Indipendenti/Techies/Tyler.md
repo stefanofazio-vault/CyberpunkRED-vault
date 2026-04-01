@@ -4,7 +4,7 @@
 
 ---
 #### Background
-Tyler (poi Z€N1TH) è il socio di [[Kyle Ledger]] presso l'officina [[SerpentZ]]. I due si conoscono dal 2032 e non hanno più interrotto i rapporti da allora. Oltre a essere il socio di Kyle, è anche il suo migliore amico.
+Tyler (poi Z€N1TH) è il socio di [[Kyle Léger]] presso l'officina [[SerpentZ]]. I due si conoscono dal 2032 e non hanno più interrotto i rapporti da allora. Oltre a essere il socio di Kyle, è anche il suo migliore amico.
 
 ##### 2032
 Tyler conosce Kyle il 20 marzo 2032, durante una serata allo [[Short Circuit]], mentre era in compagnia di [[Aiden]]. 

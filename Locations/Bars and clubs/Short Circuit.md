@@ -10,6 +10,6 @@ Il locale è protetto da dei droni [[Zhirafa]] e non è permesso portare armi al
 
 --- 
 #### Ai giorni nostri
-[[Kyle Ledger|$€4N]] e [[Tyler|Z€N1TH]] sono dei clienti abituali. [[Andres 'Timbò' Yanonami|Timbò]] ha chiesto colloquio con 3-Piece e Brain nel novembre del 2045, ma la lista d'attesa è molto lunga.
+[[Kyle Léger|$€4N]] e [[Tyler|Z€N1TH]] sono dei clienti abituali. [[Andres 'Timbò' Yanonami|Timbò]] ha chiesto colloquio con 3-Piece e Brain nel novembre del 2045, ma la lista d'attesa è molto lunga.
 
 ---

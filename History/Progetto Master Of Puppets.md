@@ -20,7 +20,7 @@ Nel gennaio del 2038, Mr.X incarica Jaylin di uccidere De Armas. I tre figli di 
 
 Poco dopo l'eliminazione di Javier, Jaylin riceve ordine da Mr.X di organizzare dei rapimenti per ottenere le prime cavie umane sulle quali testare il prototipo. Jaylin, inizialmente, propone di rapire qualche senzatetto in zone secondarie della città.
 
-Tramite fonti interne a Militech, Mr.X viene a conoscenza della possibile acquisizione di un nuovo *techie* ([[Aiden]]) che avrebbe venduto dei suoi soci in affari ([[Kyle Ledger]] e [[Tyler]]) in cambio di una carriera nella corporazione. Sfruttando la retata di Militech presso l'officina dei tre, Mr.X ordina a Jaylin di rapire la fidanzata di Kyle ([[Nova]]), oltre ad altri soggetti dotati di reti sociali attive.
+Tramite fonti interne a Militech, Mr.X viene a conoscenza della possibile acquisizione di un nuovo *techie* ([[Aiden]]) che avrebbe venduto dei suoi soci in affari ([[Kyle Léger]] e [[Tyler]]) in cambio di una carriera nella corporazione. Sfruttando la retata di Militech presso l'officina dei tre, Mr.X ordina a Jaylin di rapire la fidanzata di Kyle ([[Nova]]), oltre ad altri soggetti dotati di reti sociali attive.
 
 Il [[Sito di ricerca Alpha]] viene aperto in questa occasione e viene usato come luogo di test diretto dei prototipi sulle cavie che vengono tenute come prigionieri.
 

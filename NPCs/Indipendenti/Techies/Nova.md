@@ -5,7 +5,7 @@
 
 ---
 #### Background
-Nova è la ex-ragazza di [[Kyle Ledger]] e una delle prime cavie rapite per il [[Progetto Master Of Puppets]].
+Nova è la ex-ragazza di [[Kyle Léger]] e una delle prime cavie rapite per il [[Progetto Master Of Puppets]].
 
 Nova conosce Kyle nel febbraio del 2045 effettuando consegne presso la sua officina di quel periodo, la [[K.A.T.]].
 I due iniziano presto a frequentarsi, arrivando persino a convivere. 

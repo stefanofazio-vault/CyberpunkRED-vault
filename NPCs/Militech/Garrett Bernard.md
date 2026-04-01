@@ -19,7 +19,7 @@ Questo lo ha reso un uomo passivo e vuoto, che dopo il lavoro si concedeva princ
 ---
 #### Ai giorni nostri
 ##### 2045
-Nell'ottobre del 2045, Garrett viene derubato del suo badge da [[Bellamy Ichikawa]], [[Kyle Ledger|$€4N]] e [[Corey Yazawa]], che stavano cercando di introdursi alla Rocket Science per rubare i progetti dell'AI-LF, mentre era immerso in una braindance al [[Kinky Corner]].
+Nell'ottobre del 2045, Garrett viene derubato del suo badge da [[Bellamy Ichikawa]], [[Kyle Léger|$€4N]] e [[Corey Yazawa]], che stavano cercando di introdursi alla Rocket Science per rubare i progetti dell'AI-LF, mentre era immerso in una braindance al [[Kinky Corner]].
 
 Militech uccide Garrett Bernard un paio di giorni dopo, una volta appurata la fuga di dati. Verrà scaricato in un cassonetto dietro il Kinky Corner, dove verrà trovato da $€4N.
 

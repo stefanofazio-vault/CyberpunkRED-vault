@@ -34,7 +34,7 @@ Dopo anni di ricerche, avvenute parallelamente allo sviluppo tecnico del prototi
 Inoltre, vengono rapiti dei bambini da usare come cavie in un nuovo giro di esperimenti. Tra questi, è presente [[Joji Yanonami]], che sarà uno dei pochi sopravvissuti all'impianto e al sovraccarico nervoso risultante.
 
 #### 2045
-In concomitanza con il bando di Night City per il riarmo dell'[[NCPD]], il prototipo *beta*, quello sviluppato a Phoenix, viene rispedito a Night City. Durante il viaggio di ritorno, il convoglio sul quale veniva trasportato viene assaltato dalla crew composta da [[Bellamy Ichikawa]], [[Kyle Ledger]], [[Maël De Armas]], [[Corey Yazawa]] e [[Andres 'Timbò' Yanonami]]. 
+In concomitanza con il bando di Night City per il riarmo dell'[[NCPD]], il prototipo *beta*, quello sviluppato a Phoenix, viene rispedito a Night City. Durante il viaggio di ritorno, il convoglio sul quale veniva trasportato viene assaltato dalla crew composta da [[Bellamy Ichikawa]], [[Kyle Léger]], [[Maël De Armas]], [[Corey Yazawa]] e [[Andres 'Timbò' Yanonami]]. 
 
 Dopo qualche tempo, il prototipo viene recuperato da [[Jemmy Tasker]] dall'appartamento della crew a [[Little Europe]]. 
 #### 2046

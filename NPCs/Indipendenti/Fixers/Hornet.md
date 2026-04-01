@@ -23,7 +23,7 @@ Tuttavia, è assolutamente spietato nei confronti di chi lo delude o di chi prov
 ---
 #### Ai giorni nostri
 #### 2045
-Nell'ottobre del 2045, Hornet conosce la crew composta di [[Bellamy Ichikawa]], [[Maël De Armas]], [[Corey Yazawa]], [[Andres 'Timbò' Yanonami]] e [[Kyle Ledger]]. 
+Nell'ottobre del 2045, Hornet conosce la crew composta di [[Bellamy Ichikawa]], [[Maël De Armas]], [[Corey Yazawa]], [[Andres 'Timbò' Yanonami]] e [[Kyle Léger]]. 
 In particolare, nota il valore di Maël, che ha evitato che una granata scoppiasse all'interno del suo Mercato Notturno. Lascia quindi un favore alla crew come ringraziamento.
 Inoltre, sparge la voce sul valore di Maël.
 

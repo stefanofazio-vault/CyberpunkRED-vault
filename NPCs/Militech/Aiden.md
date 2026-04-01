@@ -6,7 +6,7 @@
 
 ---
 #### Background
-Aiden è l'ex socio di [[Kyle Ledger]] e [[Tyler]], con i quali co-gestiva la [[K.A.T.]]. È attualmente impiegato da [[Militech]] e lavora come ingegnere meccanico e ha lavorato sul prototipo centrale dell'[[AI-LF]].
+Aiden è l'ex socio di [[Kyle Léger]] e [[Tyler]], con i quali co-gestiva la [[K.A.T.]]. È attualmente impiegato da [[Militech]] e lavora come ingegnere meccanico e ha lavorato sul prototipo centrale dell'[[AI-LF]].
 
 ##### 2032
 Aiden, che conosceva già Tyler, incontra Kyle che stava lavorando presso lo [[Short Circuit]] il 20 marzo 2032. I tre stringono in breve tempo amicizia.

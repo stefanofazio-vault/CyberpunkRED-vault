@@ -23,7 +23,7 @@ Adrienne è una ragazza molto sicura di sé, volutamente civettuola e provocatri
 ---
 #### Ai giorni nostri
 ##### 2045
-Nell'ottobre del 2045 Adrienne si presenta al [[SerpentZ]] per commissionare la produzione di un nuovo cyberbraccio, dato che quello che aveva è stato rubato dagli Scavengers. In questa occasione conoscerà [[Kyle Ledger|$€4N]] e [[Tyler|Z€N1TH]]. 
+Nell'ottobre del 2045 Adrienne si presenta al [[SerpentZ]] per commissionare la produzione di un nuovo cyberbraccio, dato che quello che aveva è stato rubato dagli Scavengers. In questa occasione conoscerà [[Kyle Léger|$€4N]] e [[Tyler|Z€N1TH]]. 
 Con il primo instaura subito un rapporto di evidente interesse reciproco. 
 
 Nel novembre 2045, Adrienne ritira il proprio braccio al SerpentZ e se lo fa installare da [[Corey Yazawa]] presso la [[Clinica Vogel]]. 
