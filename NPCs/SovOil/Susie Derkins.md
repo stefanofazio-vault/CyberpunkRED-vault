@@ -1,0 +1,1 @@
+Ex-ragazza di [[Hobbes]], dipendente di [[SovOil]], ragazza di [[Mr. Bunny]].

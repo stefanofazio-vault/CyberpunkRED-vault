@@ -1,0 +1,1 @@
+Ex-editore di [[Hobbes]] e dipendente di [[N54]]. 

@@ -1,0 +1,1 @@
+Collega di [[Hobbes]] e dipendente di [[N54]].
