@@ -68,7 +68,7 @@ Il denaro era tuttavia necessario per saldare alcuni debiti che il ristorante ge
 ##### Ottobre
 In ottobre, Alejandro contatta Andres, avvisandolo che avrebbe ricevuto una chiamata da parte di una fixer con il quale ha lavorato alcune volte: [[Robin Maldonado]].
 Viene fissato un incontro al [[Born This Way]] il 20 ottobre 2045.
-Durante questo incontro, Andres conosce quella che sarebbe diventata la sua crew per i mesi a seguire, composta da [[Bellamy Ichikawa]], [[Kyle Léger]], [[Corey Yazawa]] e [[Maël De Armas]].
+Durante questo incontro, Andres conosce quella che sarebbe diventata la sua crew per i mesi a seguire, composta da [[Bellamy Ichikawa]], [[Kyle '$€4N' Léger]], [[Corey Yazawa]] e [[Maël De Armas]].
 
 Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], il progetto e il prototipo di un ritrovato tecnologico sviluppato da [[Militech]] (l'[[AI-LF]]).
 Andres, come gli altri, accetta il lavoro e iniziano i preparativi. 

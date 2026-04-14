@@ -41,7 +41,7 @@ Purtroppo, in seguito ad una serie di sfortunati eventi, lo scontro viene perso.
 
 ##### Ottobre
 In ottobre, Maël viene contattato nuovamente da Robin, che gli offre un secondo lavoro per ripagarla dell'ultimo.
-Viene fissato un incontro al [[Born This Way]] il 20 ottobre 2045. In questa occasione, Maël conosce [[Bellamy Ichikawa]], [[Kyle Léger|$€4N]], [[Corey Yazawa]] e [[Andres 'Timbò' Yanonami]].
+Viene fissato un incontro al [[Born This Way]] il 20 ottobre 2045. In questa occasione, Maël conosce [[Bellamy Ichikawa]], [[Kyle '$€4N' Léger|$€4N]], [[Corey Yazawa]] e [[Andres 'Timbò' Yanonami]].
 
 Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], il progetto e il prototipo di un ritrovato tecnologico sviluppato da [[Militech]] (l'[[AI-LF]]).
 Maël, come gli altri, accetta il lavoro e iniziano i preparativi.
