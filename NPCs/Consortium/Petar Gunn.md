@@ -1,0 +1,1 @@
+Ex-amico e ora nemico di [[Dasan Tan]]. Fratello di [[Kuno Gunn]]. Membro dei [[Consortium]].

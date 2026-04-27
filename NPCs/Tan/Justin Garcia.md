@@ -1,0 +1,1 @@
+Marito di [[Maria Tan]]. Padre di [[Cole Garcia]], [[Clara Garcia]] e [[Pablo Garcia]].

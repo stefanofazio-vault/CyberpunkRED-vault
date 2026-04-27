@@ -1,0 +1,1 @@
+Sorella di [[Lakan Tan]]. Figlia di [[Bayani Tan]]. Moglie di [[Justin Garcia]]. Madre di [[Cole Garcia]], [[Clara Garcia]] e [[Pablo Garcia]].

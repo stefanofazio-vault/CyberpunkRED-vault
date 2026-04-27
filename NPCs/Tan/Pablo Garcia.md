@@ -1,0 +1,1 @@
+Cugino di [[Dasan Tan]]. Figlio di [[Justin Garcia]] e [[Maria Tan]]. Fratello di [[Cole Garcia]] e [[Clara Garcia]].
