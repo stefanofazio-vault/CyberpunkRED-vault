@@ -107,6 +107,72 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_bgkmvw",
+      "x": 0.6693880369116639,
+      "y": 0.37913427677473777,
+      "layer": "default",
+      "link": "Cube-a-Rama",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_f720ht",
+      "x": 0.20143601721512489,
+      "y": 0.2716706385929391,
+      "layer": "default",
+      "link": "Danger Gal Housing Facility",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_owzylu",
+      "x": 0.23975129813661686,
+      "y": 0.30219751439346243,
+      "layer": "default",
+      "link": "Danger Gal's Offices",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_r91tv4",
+      "x": 0.5391139302469045,
+      "y": 0.1858555521085589,
+      "layer": "default",
+      "link": "Everything and More",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_799zlr",
+      "x": 0.4898942319399453,
+      "y": 0.24936799057679834,
+      "layer": "default",
+      "link": "Fiddler's Green",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_pc3mvc",
+      "x": 0.8426507962120516,
+      "y": 0.20996279067317006,
+      "layer": "default",
+      "link": "Greta's",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [
