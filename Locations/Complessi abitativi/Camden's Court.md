@@ -1,0 +1,2 @@
+#### Camden's Court
+Un complesso di appartamenti sicuro principalmente popolato da solo e corporativi. L'[[NCPD]] risponde celermente qui in virtù del fatto che il City Manager di [[Little Europe]] vive qui.
