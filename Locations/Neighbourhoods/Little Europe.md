@@ -173,6 +173,127 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_fgvbbu",
+      "x": 0.36511525790558275,
+      "y": 0.25603054600946346,
+      "layer": "default",
+      "link": "Holy Angel's Church",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_npm29o",
+      "x": 0.7838019859016577,
+      "y": 0.12925975055962502,
+      "layer": "default",
+      "link": "Kaito Market",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_h0lq9c",
+      "x": 0.7488517169594939,
+      "y": 0.31709286579543117,
+      "layer": "default",
+      "link": "Night Corp HQ",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_q0fj11",
+      "x": 0.1999612271466091,
+      "y": 0.3821375795863551,
+      "layer": "default",
+      "link": "Old Saint Christopher Center",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_pb1mkm",
+      "x": 0.49932994710195716,
+      "y": 0.5178685779848803,
+      "layer": "default",
+      "link": "Paradiso Terrestre",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_qn4zzp",
+      "x": 0.7104637725412442,
+      "y": 0.7425382491006959,
+      "layer": "default",
+      "link": "Locations/Sedi corporative/Red Cab Company",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_q39ypn",
+      "x": 0.590716284559105,
+      "y": 0.6718518632172519,
+      "layer": "default",
+      "link": "Revere Courier Service",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_vd71y9",
+      "x": 0.612488578944751,
+      "y": 0.31974776137345434,
+      "layer": "default",
+      "link": "Shady Oaks Elementary",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_tqdzic",
+      "x": 0.7259335307484861,
+      "y": 0.5460767865337157,
+      "layer": "default",
+      "link": "Short Circuit",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_tq7m2e",
+      "x": 0.4577907345945054,
+      "y": 0.6701925598107277,
+      "layer": "default",
+      "link": "Soprano's",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_0swtys",
+      "x": 0.5431609432601329,
+      "y": 0.7528259504763154,
+      "layer": "default",
+      "link": "Torrell and Chiang's",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [
