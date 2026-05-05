@@ -1,0 +1,2 @@
+#### Ziggurat Offices
+The headquarters of Ziggurat, the company responsible for building and maintaining Citinets across the continent. Attached is the Hanging Gardens, which provides housing for employees.

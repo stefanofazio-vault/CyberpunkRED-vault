@@ -1,0 +1,2 @@
+#### Nakagawa Kabuki Theater
+The most magnificent building in Northside. Home to a Kabuki troupe said to be the equal of any in Japan, as well as a museum and the central offices of the Tyger Claws leadership.

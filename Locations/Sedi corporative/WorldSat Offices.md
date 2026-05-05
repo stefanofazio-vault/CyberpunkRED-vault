@@ -1,0 +1,2 @@
+#### WorldSat Offices
+A heavily defended compound on the edge of the city. It is not only the local headquarters of WorldSat but also the junction point for satellite communications between Night City and the outside world.

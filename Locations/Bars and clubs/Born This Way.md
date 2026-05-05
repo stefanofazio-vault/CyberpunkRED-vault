@@ -1,3 +1,4 @@
+#### Born This Way
 Locale queer-coded situato nel Glen.
 Il locale incentra la propria attività su eventi serali e notturni, con ballerini, strip-tease e musica (dal vivo e non).
 

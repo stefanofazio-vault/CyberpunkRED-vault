@@ -20,7 +20,7 @@ Negli anni 2020 Biotechnica continua a espandersi globalmente, con facilities in
 
 ##### **2040s – la maggiore azienda biotech al mondo**
 
-Entro gli anni 2040, Biotechnica è riconosciuta come la più grande azienda di biotecnologie del pianeta. I progressi medici raggiunti consentono la produzione di organi e arti clonati a costi più bassi e la reintroduzione di specie quasi estinte nell’ambiente. A Night City la sede regionale è il [[Campus Biotechnica|Biotechnica Campus]] nel [[Quartiere universitario]], un centro di ricerca e di produzione biologica di prima grandezza.****
+Entro gli anni 2040, Biotechnica è riconosciuta come la più grande azienda di biotecnologie del pianeta. I progressi medici raggiunti consentono la produzione di organi e arti clonati a costi più bassi e la reintroduzione di specie quasi estinte nell’ambiente. A Night City la sede regionale è il [[Biotechnica Campus]] nel [[Quartiere universitario]], un centro di ricerca e di produzione biologica di prima grandezza.****
 
 #### Membri notevoli
 - [[Angelica Agnelli]]

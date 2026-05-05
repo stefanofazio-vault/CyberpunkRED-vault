@@ -1,1 +1,2 @@
+#### Noisy Bank
 Il Noisy Bank è un piccolo pub frequentato principalmente da motociclisti a [[South Night City]]. 

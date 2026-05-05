@@ -1,3 +1,4 @@
+#### Short Circuit
 Lo Short Circuit è un locale con un focus sui techie situato a [[Little Europe]]. Il locale è gestito da una coppia formata dal fixer [[3-Piece]] e da suo marito [[Brain]]. 
 
 Il locale è celebre per una serie di motivi:

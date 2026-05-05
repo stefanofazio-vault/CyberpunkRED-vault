@@ -1,0 +1,2 @@
+#### McCartney Field Stadium
+A 75,000 seat stadium and the heart of Night City’s sports and concert scene. Franchises calling the stadium home include the Slammers (Baseball), Heat (Basketball), Death Dealers (Combat Soccer), Nuke (Murderball), and the New Battlegrounds Championship Wrestling League.

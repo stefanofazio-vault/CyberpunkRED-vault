@@ -1,0 +1,2 @@
+#### Seral Grove
+An art installation turned high-end burial ground located beneath the district. Burial packages include digital reconstructions of the deceased so visitors can “speak” to their loved ones.

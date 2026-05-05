@@ -1,0 +1,2 @@
+#### Playland By The Sea
+Night City’s premiere tourist destination. An amusement park sponsored by various Corporations. The Piranahs hold sway here, and it is home to a surprising number of yogangs (often used by the park as free labor).
