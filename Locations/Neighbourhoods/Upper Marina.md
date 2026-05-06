@@ -27,7 +27,6 @@ align: right             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
 ```
 %%
-%%
 ZOOMMAP-DATA id=map-1
 {
   "size": {
@@ -314,60 +313,6 @@ ZOOMMAP-DATA id=map-1
       "y": 0.5407792742911591,
       "layer": "default",
       "link": "McCartney Field Stadium",
-      "iconKey": "pinRed",
-      "tooltip": "",
-      "scaleLikeSticker": true
-    }
-  ],
-  "bases": [
-    "vault_maps/upper_marina.png"
-  ],
-  "overlays": [],
-  "activeBase": "vault_maps/upper_marina.png",
-  "measurement": {
-    "displayUnit": "km",
-    "scales": {},
-    "customUnitPxPerUnit": {},
-    "travelTimePresetIds": [],
-    "travelDaysEnabled": false
-  },
-  "pinSizeOverrides": {
-    "pinRed": 168
-  },
-  "grids": [],
-  "panClamp": true,
-  "drawLayers": [],
-  "drawings": [],
-  "textLayers": [],
-  "secondScreen": {
-    "showGrids": true
-  }
-}
-/ZOOMMAP-DATA
-%%
-
-ZOOMMAP-DATA id=map-0
-{
-  "size": {
-    "w": 4073,
-    "h": 3542
-  },
-  "layers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "visible": true,
-      "locked": false
-    }
-  ],
-  "markers": [
-    {
-      "type": "pin",
-      "id": "marker_8oju72",
-      "x": 0.37460505087855983,
-      "y": 0.6742808580773094,
-      "layer": "default",
-      "link": "The Afterlife",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
