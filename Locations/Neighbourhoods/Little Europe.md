@@ -1,4 +1,4 @@
-
+#### Little Europe
 ```zoommap
 image: vault_maps/little_europe.png
 # markers is optional; defaults to <image>.markers.json
