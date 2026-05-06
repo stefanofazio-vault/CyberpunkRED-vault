@@ -316,6 +316,72 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_or1qdx",
+      "x": 0.6624015718631636,
+      "y": 0.38484254918244964,
+      "layer": "default",
+      "link": "Megabuilding H8 Construction Site",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_hanvw5",
+      "x": 0.31931456776836964,
+      "y": 0.608787853676266,
+      "layer": "default",
+      "link": "Metal Heaven",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_8z9h7k",
+      "x": 0.404854513530889,
+      "y": 0.5618655771225504,
+      "layer": "default",
+      "link": "Midnight Arms Regional Office",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_t0k64m",
+      "x": 0.4403023087544614,
+      "y": 0.13331687699867026,
+      "layer": "default",
+      "link": "Morro Strand Yatch Club",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_pp2xx8",
+      "x": 0.4652856772243629,
+      "y": 0.6511290406603881,
+      "layer": "default",
+      "link": "The Neon Johnson",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_fa6u49",
+      "x": 0.5747449873792494,
+      "y": 0.7444744730369208,
+      "layer": "default",
+      "link": "Night City Bubbles",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [
