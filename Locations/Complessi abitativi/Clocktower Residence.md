@@ -1,0 +1,3 @@
+#### Clocktower Residence
+Un complesso abitativo ottenuto ristrutturando una vecchia torre dell'orologio che è sopravvissuta a varie guerre corporative. Gli appartamenti sono stilisticamente coerenti con la struttura della torre ma pieni di tutti gli ultimi ritrovati tecnologici. 
+Gira però voce che i proprietari, i [[Chamber]], abbiano installato telecamere, cimici e una serie di altri dispositivi di monitoraggio per spiare i residenti.
