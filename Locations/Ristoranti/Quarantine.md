@@ -1,0 +1,2 @@
+#### Quarantine
+Una volta un canile/gattile, il posto è stato convertito in un hamburgeria con prezzi sorprendentemente popolari. Molti lavoratori vengono qui a mangiare a fine giornata e il fatto che tutti gli avventori siano stanchi morti e vogliano solo mettere un punto al turno di lavoro tiene sorprendentemente lontani i malintenzionati.

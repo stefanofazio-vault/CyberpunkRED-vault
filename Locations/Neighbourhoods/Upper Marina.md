@@ -382,6 +382,105 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_7utmox",
+      "x": 0.7511207907579595,
+      "y": 0.5219575261368843,
+      "layer": "default",
+      "link": "Night City Convention Center",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_an5vlo",
+      "x": 0.4841319898103769,
+      "y": 0.20110766284175838,
+      "layer": "default",
+      "link": "Oceanside Docks",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_67q6l5",
+      "x": 0.2475088814479846,
+      "y": 0.4784747501870098,
+      "layer": "default",
+      "link": "Otter Docks Transfer Station",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_f81j60",
+      "x": 0.4574903544851817,
+      "y": 0.5301928927539531,
+      "layer": "default",
+      "link": "Quarantine",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_81fo3t",
+      "x": 0.7542718757825913,
+      "y": 0.7495829790091644,
+      "layer": "default",
+      "link": "REO Meatwagon Offices",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_9x9302",
+      "x": 0.04325673735962098,
+      "y": 0.5921228095025595,
+      "layer": "default",
+      "link": "TravlStay CityCenter",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_blz40d",
+      "x": 0.6823683188322256,
+      "y": 0.8088776186520596,
+      "layer": "default",
+      "link": "Locations/Servizi pubblici/Upper Marina Substation #2",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_aoerf4",
+      "x": 0.670909486087981,
+      "y": 0.6359349196936146,
+      "layer": "default",
+      "link": "Ziggurat Corporate Terrace",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_tli4w2",
+      "x": 0.6706229999702993,
+      "y": 0.5990405375667729,
+      "layer": "default",
+      "link": "Ziggurat Headquarters",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [

@@ -12,7 +12,7 @@ Durante la [[Quarta Guerra Corporativa]] e in particolare dopo il devastante eve
 
 Negli anni successivi, Night Corp diventa uno degli attori principali nella ricostruzione di Night City. Attraverso contratti e sponsorizzazioni favorisce l’arrivo di nomadi e squadre esterne disposte a collaborare alla pulizia dei detriti e alla ricostruzione delle infrastrutture cittadine, offrendo incentivi economici e tecnologici.
 
-Nel 2030 circa Night Corp finanzia e appoggia la neonata [[Ziggurat|Ziggurat Corporation]] per la trasformazione dell’antica rete di comunicazione Data Term in una nuova infrastruttura di CitiNet e Data Pool, contribuendo a ripristinare comunicazioni economiche e affidabili in tutta la città.
+Nel 2030 circa Night Corp finanzia e appoggia la neonata [[Factions/Corporations/Ziggurat|Ziggurat Corporation]] per la trasformazione dell’antica rete di comunicazione Data Term in una nuova infrastruttura di CitiNet e Data Pool, contribuendo a ripristinare comunicazioni economiche e affidabili in tutta la città.
 
 Durante i primi decenni del 2040, Night Corp investe risorse significative nella ricostruzione urbana della città: ristruttura edifici pubblici come la sede della polizia nel Glen e finanzia varie attività civiche e commerciali, incluse sponsorizzazioni di club e investimenti in aziende come Hydrosubsidium. Tuttavia, queste allocazioni sono talvolta criticate perché privilegiano zone più ricche a scapito di aree urbane gravate da maggiore povertà.
 
