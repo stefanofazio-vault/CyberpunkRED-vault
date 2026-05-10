@@ -1,0 +1,2 @@
+#### The Yard
+Punto di collegamento tra i trasporti via mare dei [[Thelas]] e i trasporti via terra degli [[Snake]]. Qui il contenuto delle navi viene caricato su dei treni di possesso delle famiglie di nomadi per poi essere spediti in altri punti dell'entroterra.

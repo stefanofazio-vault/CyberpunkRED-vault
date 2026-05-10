@@ -1,0 +1,2 @@
+#### Medical Technologies
+Centro medico specializzato nella realizzazione di arti clonati. Forniscono anche servizi di installazione cyberware. Gira voce che i [[Maelstrom]] siano tra i principali fornitori, ma non sono certo l'unica gang che visita questo posto.

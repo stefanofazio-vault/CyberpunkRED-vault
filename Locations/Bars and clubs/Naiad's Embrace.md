@@ -1,0 +1,2 @@
+#### Naiad's Embrace
+Un locale che unisce bar e casinò indirizzato principalmente ai giovani lavoratori del porto. Qui è possibile trovare prostitute ingaggiate dal [[Consortium]], bere alcool annacquato e giocare a bische truccate. Ci sono posti abbondantemente peggiori.
