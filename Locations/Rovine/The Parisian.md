@@ -1,0 +1,2 @@
+#### The Parisian
+Vecchio centro di ritrovo della Yakuza, è rimasto completamente impraticabile dopo l'esplosione. I lavori di ristrutturazione sono appena iniziati e finora viene solo affittato per fare da scenografia per film e BD.
