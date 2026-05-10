@@ -1,0 +1,2 @@
+#### Crisis Center
+Quello che rimane del vecchio quartier generale di [[Trauma Team]]. Dopo l'esplosione della bomba nucleare, questo posto (pieno di vecchi medicinali, droghe, strumenti di precisione e altro ancora) è uno dei punti di massimo interesse a Night City per gli sciacalli.

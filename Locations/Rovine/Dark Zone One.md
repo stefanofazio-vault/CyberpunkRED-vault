@@ -1,0 +1,2 @@
+#### Dark Zone One
+Luogo misterioso, rovine del vecchio quartier generale di InfoComp, in cui nessuno riesce più a mettere piede. Appena si prova a varcare la soglia del perimetro, dei cecchini nascosti si prodigano ad eliminare gli intrusi.
