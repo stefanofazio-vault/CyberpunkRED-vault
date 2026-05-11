@@ -1,0 +1,2 @@
+#### Smithery
+Negozio di armi speciali situato nel [[Warren]]. I *techie* che ci lavorano eseguono anche riproduzioni di armi storiche fuori produzione. Gli abitanti della zona pagano il prezzo di mercato. Chi viene da fuori, a volte, anche tre volte il prezzo.

@@ -140,6 +140,149 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_g2nncf",
+      "x": 0.5363063089190175,
+      "y": 0.2731361396471356,
+      "layer": "default",
+      "link": "Kibble Kirble",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_gqoaf8",
+      "x": 0.4961978463013324,
+      "y": 0.37516100001927927,
+      "layer": "default",
+      "link": "Laydown",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_8gl5ve",
+      "x": 0.42486225363074587,
+      "y": 0.4765102093059531,
+      "layer": "default",
+      "link": "Lodge",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_dh9af2",
+      "x": 0.3558186205713719,
+      "y": 0.778530832360692,
+      "layer": "default",
+      "link": "Substation 12",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_yz9eir",
+      "x": 0.45895435505499277,
+      "y": 0.7305588320592342,
+      "layer": "default",
+      "link": "The Terrace",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_5g9a9h",
+      "x": 0.6723882961652583,
+      "y": 0.163341111371032,
+      "layer": "default",
+      "link": "The Underground",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_e1mozf",
+      "x": 0.6537664631127689,
+      "y": 0.37279619544569836,
+      "layer": "default",
+      "link": "The Warren",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_255u0l",
+      "x": 0.5549279671128678,
+      "y": 0.4369840279939251,
+      "layer": "default",
+      "link": "Angel Radio",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_hcorvo",
+      "x": 0.6526205270218224,
+      "y": 0.3021895487133246,
+      "layer": "default",
+      "link": "Baskin Books",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_xnbwwp",
+      "x": 0.5549280545421873,
+      "y": 0.5173876412400474,
+      "layer": "default",
+      "link": "OCZ Schoolhouse",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_56dwka",
+      "x": 0.7213777416304494,
+      "y": 0.2755009442207166,
+      "layer": "default",
+      "link": "Uncle Anne's",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_4bng1q",
+      "x": 0.7534644767528698,
+      "y": 0.2950950834437081,
+      "layer": "default",
+      "link": "Smithery",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_40timp",
+      "x": 0.6824153899623496,
+      "y": 0.2805683531361768,
+      "layer": "default",
+      "link": "Pantheon",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [
