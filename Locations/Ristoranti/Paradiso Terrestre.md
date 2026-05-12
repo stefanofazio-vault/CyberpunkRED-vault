@@ -1,2 +1,2 @@
 #### Paradiso Terrestre
-An upscale Southern Neo-Italian dining experience. Meals by appointment only.
+Un ristorante italiano di lusso situato a [[Little Europe]] che permette di mangiare solo su appuntamento.

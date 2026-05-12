@@ -188,7 +188,7 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_npm29o",
-      "x": 0.7838019859016577,
+      "x": 0.7852353165268161,
       "y": 0.12925975055962502,
       "layer": "default",
       "link": "Kaito Market",

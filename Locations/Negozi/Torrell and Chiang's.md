@@ -1,2 +1,2 @@
 #### Torrell and Chiang's
-Negozio di sartoria di alto livello che, dietro il bancone, vende, ripara e modifica equipaggiamento per *edgerunners*. Li si trova spesso presso Mercati Notturni e di Mezzanotte.
+Negozio di sartoria di alto livello situato a [[Little Europe]] che, dietro il bancone, vende, ripara e modifica equipaggiamento per *edgerunners*. Li si trova spesso presso Mercati Notturni e di Mezzanotte.
