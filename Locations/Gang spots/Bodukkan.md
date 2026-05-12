@@ -1,2 +1,2 @@
 #### Bodukkan
-La sede organizzativa di una delle fazioni dei [[Tyger Claws]] (i [[Kimen-Gumi]]). Una volta questo era un teatro di grande valore culturale. Ora è solo il luogo dove una parte poco desiderata della famiglia è stata rilegata.
+La sede organizzativa di una delle fazioni dei [[Tyger Claws]] (i [[Kimen-Gumi]]) a [[Old Japantown]]. Una volta questo era un teatro di grande valore culturale. Ora è solo il luogo dove una parte poco desiderata della famiglia è stata rilegata.

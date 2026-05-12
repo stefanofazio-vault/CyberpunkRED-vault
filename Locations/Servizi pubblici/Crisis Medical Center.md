@@ -1,2 +1,2 @@
 #### Crisis Medical Center
-A no-questions asked medical center supplied with surprisingly advanced technology. Multiple Corps use it as a staging ground to run medical experiments.
+Una clinica che non fa nessun tipo di domanda sul tipo di intervento che viene (o che è) richiesto. Si trova ad [[Old Japantown]]. Molte corpo usano strutture come queste per effettuare esperimenti.

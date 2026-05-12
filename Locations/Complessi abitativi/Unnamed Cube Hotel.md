@@ -1,2 +1,2 @@
 #### Unnamed Cube Hotel
-The rooms are cleaned out by ceiling-mounted water jets, and the locks on the doors are dodgy, but at least there are no cameras and no questions.
+Un *cube hotel* misterioso (e terribile) situato a [[Old Japantown]]. Non c'è staff, non c'è sicurezza, i pagamenti sono solo elettronici e le stanze vengono "pulite" tramite degli irrigatori montati sul soffitto.

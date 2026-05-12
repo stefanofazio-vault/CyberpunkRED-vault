@@ -1,0 +1,2 @@
+#### Neo Galaxy Cards and Comics
+Cuore pulsante della community di Elflines Online TCG, situato a [[Old Japantown]]. Il posto è terribile ma l'atmosfera è vivace. Il posto è gestito dagli [[Iron Sights]] che vendono droga nel retro.

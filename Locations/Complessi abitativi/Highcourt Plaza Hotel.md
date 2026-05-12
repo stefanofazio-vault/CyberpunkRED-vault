@@ -1,2 +1,2 @@
 #### Highcourt Plaza Hotel
-A classy and well-defended hotel providing excellent service. Most guests arrive via AV to avoid driving through a combat zone.
+Un hotel di classe ed estremamente ben difeso ad [[Old Japantown]]. Un'eccezione nel panorama del distretto, gli ospiti vengono portati qui tramite AV-4 per evitare la zona di combattimento.
