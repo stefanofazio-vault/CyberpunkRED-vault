@@ -1,2 +1,2 @@
 #### Delirium
-A gothpunk virtuality club.
+Un virtuality club *gothpunk* situato a [[Downtown]].

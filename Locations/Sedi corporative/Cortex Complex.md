@@ -1,2 +1,2 @@
 #### Cortex Complex
-An ugly office building that vaguely resembles a human brain. Home to Jack Skorkowski Real Estate and DizCom, an industrial design firm-
+Un ufficio a [[Downtown]] che esteriormente ricorda vagamente un cervello. Sede di un'agenzia legale.

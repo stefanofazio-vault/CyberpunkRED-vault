@@ -1,2 +1,2 @@
 #### Acacia Way
-A single street containing restored bungalows, gated away from the rest of the world.
+Una via isolata dal resto di [[Downtown]] diventata autosufficiente. 

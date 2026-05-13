@@ -177,7 +177,7 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_56nzmt",
-      "x": 0.3392647767398444,
+      "x": 0.34069820776857584,
       "y": 0.5413844062907273,
       "layer": "default",
       "link": "Goosetopia",
@@ -188,7 +188,7 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_iplk18",
-      "x": 0.47720998748397925,
+      "x": 0.4786434185127107,
       "y": 0.3739478735761683,
       "layer": "default",
       "link": "Guns & Dolls",
@@ -246,7 +246,7 @@ ZOOMMAP-DATA id=map-1
       "x": 0.4239382934125754,
       "y": 0.47663680856958157,
       "layer": "default",
-      "link": "Locations/Servizi pubblici/Night City Firestation #2",
+      "link": "Night City Firestation N°2",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true

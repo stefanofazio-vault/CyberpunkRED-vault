@@ -1,2 +1,2 @@
 #### Jade Blossom Spa
-Quartiere generale della [[Eastern Tiger Triad]] e SPA di lusso. 
+Quartiere generale situato a [[Downtown]] della [[Eastern Tiger Triad]] e SPA di lusso. 
