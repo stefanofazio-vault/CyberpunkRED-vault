@@ -1,2 +1,2 @@
 #### Mestnyy Bank
-Banca gestita apertamente dal [[Consortium]]. I tassi sono ragionevoli, ma hanno l'abitudine di "perdere" le ricevute di pagamento se pensano che il debitore possa essergli utile in qualche modo.
+Banca gestita apertamente dal [[Consortium]] presso il [[Porto di Night City]]. I tassi sono ragionevoli, ma hanno l'abitudine di "perdere" le ricevute di pagamento se pensano che il debitore possa essergli utile in qualche modo.

@@ -187,7 +187,7 @@ ZOOMMAP-DATA id=map-0
       "type": "pin",
       "id": "marker_h0znyt",
       "x": 0.2701889677735435,
-      "y": 0.5829753029405003,
+      "y": 0.584082362070482,
       "layer": "default",
       "link": "Porto di Night City",
       "iconKey": "pinRed",

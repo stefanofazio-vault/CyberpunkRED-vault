@@ -1,2 +1,2 @@
 #### Maritime Supply
-Negozio generalista con una leggera predilizione verso i prodotti necessari per navigare in sicurezza.
+Negozio generalista del [[Porto di Night City]] con una leggera predilizione verso i prodotti necessari per navigare in sicurezza.

@@ -1,2 +1,2 @@
 #### Floatsam
-A small drift town just off the coast. It consists of several larger vessels run aground connected bysmaller boats, rafts, and walkways. The Randy Dandy, a mobile bar, often docks here.
+Una piccola comunità al largo del [[Porto di Night City]] costruita su una struttura di zattere, pontili, barche e quant'altro. Ha qui sede il Randy Dandy, un locale gestito da [[Skipper]], un membro dei [[Thelas]].

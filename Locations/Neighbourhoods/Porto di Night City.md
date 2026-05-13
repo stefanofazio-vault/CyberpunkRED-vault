@@ -86,8 +86,8 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_atmvi7",
-      "x": 0.060927915896841975,
-      "y": 0.5448381354825508,
+      "x": 0.06236080449518422,
+      "y": 0.5433289150892103,
       "layer": "default",
       "link": "Floatsam",
       "iconKey": "pinRed",

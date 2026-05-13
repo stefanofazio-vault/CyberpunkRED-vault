@@ -1,2 +1,2 @@
 #### The Amber Room
-Il miglior bar del porto dopo il Randy Dandy nel [[Floatsam]]. Il posto è il quartier generale del [[Consortium]]. Parlare con [[Valya]], leader della gang, qui è segno di cattiva educazione. Il modo corretto di stabilire un contatto è lasciare una nota al *bartender* che la passerà a Valya al momento adatto.
+Il miglior bar del [[Porto di Night City]] dopo il Randy Dandy nel [[Floatsam]]. Il posto è il quartier generale del [[Consortium]]. Parlare con [[Valya]], leader della gang, qui è segno di cattiva educazione. Il modo corretto di stabilire un contatto è lasciare una nota al *bartender* che la passerà a Valya al momento adatto.

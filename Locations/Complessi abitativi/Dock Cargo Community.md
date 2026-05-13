@@ -1,2 +1,2 @@
 #### Dock Cargo Community
-A cargo container community nestled between the docks.
+Una comunità cargo che si fa spazio nei vari moli del [[Porto di Night City]].

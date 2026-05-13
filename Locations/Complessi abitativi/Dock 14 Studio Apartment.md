@@ -1,2 +1,2 @@
 #### Dock 14 Studio Apartment
-An apartment building just one dock away from the always loud Dock 13.
+Un complesso abitativo vicino al [[Dock 13]] del [[Porto di Night City]].

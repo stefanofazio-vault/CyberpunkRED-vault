@@ -1,2 +1,2 @@
 #### Porto
-Struttura centrale del porto, principalmente gestito dai [[Thelas]]. 
+Struttura centrale del [[Porto di Night City]], principalmente gestito dai [[Thelas]]. 
