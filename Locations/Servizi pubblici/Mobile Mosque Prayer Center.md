@@ -1,2 +1,2 @@
 #### Mobile Mosque Prayer Center
-Camion adeguatamente convertito in un mezzo polivalente in grado di creare uno spazio adatto alla preghiera della popolazione islamica della zona.
+Camion adeguatamente convertito in un mezzo polivalente in grado di creare uno spazio nella [[Reclamation Zone]] adatto alla preghiera della popolazione islamica della zona.

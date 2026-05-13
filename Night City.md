@@ -197,8 +197,8 @@ ZOOMMAP-DATA id=map-0
     {
       "type": "pin",
       "id": "marker_ejeglv",
-      "x": 0.31743982522831815,
-      "y": 0.6106366304849822,
+      "x": 0.31600716047187116,
+      "y": 0.611743689614964,
       "layer": "default",
       "link": "Reclamation Zone",
       "iconKey": "pinRed",

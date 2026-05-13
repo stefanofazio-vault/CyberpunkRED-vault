@@ -166,8 +166,8 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_bggvwt",
-      "x": 0.6265345520251441,
-      "y": 0.306867054208611,
+      "x": 0.6251016542503581,
+      "y": 0.30837941301573796,
       "layer": "default",
       "link": "Mobile Mosque Prayer Center",
       "iconKey": "pinRed",
