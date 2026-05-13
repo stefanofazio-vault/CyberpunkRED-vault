@@ -1,2 +1,2 @@
 #### University Cargo Bay
-Cargo container housing for university students.
+Una comunità cargo per gli studenti dell'università a [[South Night City]].

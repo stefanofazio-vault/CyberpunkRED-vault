@@ -1,2 +1,2 @@
 #### Silverhand's Studios
-Apartments and studio space rented out to artists and musicians. Run by the cousin of legendary Rockerboy Kerry Eurodyne.
+Appartamenti, studi musicali e sale prova affittati a musicisti ed artisti a [[South Night City]]. È gestita dal cugino di Kerry Eurodyne.

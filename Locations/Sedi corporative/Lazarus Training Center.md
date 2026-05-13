@@ -1,2 +1,2 @@
 #### Lazarus Training Center
-Centrale operativa e sito di addestramento di [[Lazarus]].
+Centrale operativa e sito di addestramento di [[Lazarus]]. Situata a [[South Night City]].

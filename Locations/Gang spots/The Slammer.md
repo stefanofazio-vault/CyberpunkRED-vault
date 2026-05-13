@@ -1,2 +1,2 @@
 #### The Slammer
-A ganger bar. Home of the Arena, a no-holds-barred combat ring gangers can step into to settle their disputes without murder.
+Un locale frequentato da *gangoons* situato a [[South Night City]]. Qui vengono organizzati degli incontri mirati a risolvere le divergenze senza spargimenti di sangue.

@@ -1,2 +1,2 @@
 #### Union Chapel Building
-Once an architectural landmark. Now abandoned, in theory. Some think the Reckoners use the basement as a refuge.
+Una volta era uno dei punt di interesse architetturali e artistici di [[South Night City]]. Ora, invece, è un grosso edificio ufficialmente abbandonato. Gira voce che i [[Reckoners]] abbiano messo base qui.

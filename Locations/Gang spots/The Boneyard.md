@@ -1,2 +1,2 @@
 #### The Boneyard
-Formerly the Night City Garden of Rest. Now a shanty town and home to the Sinful Adams. They run an annual festival on Halloween for the district’s residents.
+Una volta era il cimitero ufficiale di Night City, situato a [[South Night City]]. Ora è sotto il controllo dei [[Sinful Adams]], che ogni anno ad Halloween organizzano qui una festa.
