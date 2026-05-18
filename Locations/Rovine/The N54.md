@@ -1,2 +1,2 @@
 #### The N54
-The former home of Network 54 in Night City. The tallest structure still standing in the Hot Zone – climbing it and tagging the top has become a tradition among urbanauts.
+Precedente sede di [[N54]] e ora rovine al centro della [[Zona calda]]. È una meta molto gradita dai fan dell'*urbex*.

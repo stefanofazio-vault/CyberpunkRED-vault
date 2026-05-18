@@ -1,3 +1,4 @@
+#### Zona calda
 ```zoommap
 image: vault_maps/zona_calda.png
 # markers is optional; defaults to <image>.markers.json
@@ -26,7 +27,7 @@ align: right             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
 ```
 %%
-ZOOMMAP-DATA id=map-0
+ZOOMMAP-DATA id=map-1
 {
   "size": {
     "w": 4073,
