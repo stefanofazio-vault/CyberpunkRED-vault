@@ -133,7 +133,7 @@ ZOOMMAP-DATA id=map-0
       "type": "pin",
       "id": "marker_4famcm",
       "x": 0.5617124048707172,
-      "y": 0.4957890573106783,
+      "y": 0.49313361020998076,
       "layer": "default",
       "link": "Little China",
       "iconKey": "pinRed",

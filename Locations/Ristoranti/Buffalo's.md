@@ -1,2 +1,2 @@
 #### Buffalo's
-The latest in a long line of failing restaurants opened in this location. Serves global fusion cuisine.
+Solo l'ultimo dei ristoranti aperti in questa posizione ad [[Upper Marina]] che porta sfortuna a tutti gli esercenti che aprono qui. Serve cucina fusion globale.

@@ -1,2 +1,2 @@
 #### Guăngbō Tower
-A symbol of Little China’s aspirations for the future, this restored tower houses a number of organizations and businesses, including the Ling Po Public Library and Virtex’s Virtuality Venue.
+Una torre a [[Little China]] che era stata inizialmente costruita come simbolo delle speranze che i precedenti city manager riponevano nel quartiere. Ora è decaduta, ma contiene comunque una serie di attività commerciali.

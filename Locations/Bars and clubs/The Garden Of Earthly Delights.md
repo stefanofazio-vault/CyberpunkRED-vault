@@ -1,2 +1,2 @@
 #### The Garden Of Earthly Delights
-A full hedonistic experience brothel. A visit starts with dinner and ends with time spent with meat puppets programmed to the client’s specifications.
+Il tempio dell'edonismo, situato ad [[Upper Marina]]. Una visita media comprende cene di lusso, SpA privata, prostitute di altissimo livello e qualunque comfort possa essere desiderato.

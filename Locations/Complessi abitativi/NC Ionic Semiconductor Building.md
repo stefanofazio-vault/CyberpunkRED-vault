@@ -1,3 +1,2 @@
 #### NC Ionic Semiconductor Building
-A factory-turned-cargo community. Many [[Iron Sights]] stash 
-family members here for safety.
+Una ex-fabbrica nella [[Old Combat Zone]] che è stata trasformata in comunità cargo dagli [[Iron Sights]]. Buona parte di questi ultimi tengono qui le proprie famiglie. La sicurezza per chi ci abita è ottima.

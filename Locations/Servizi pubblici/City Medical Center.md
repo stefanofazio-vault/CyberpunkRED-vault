@@ -1,2 +1,2 @@
 #### City Medical Center
-An enormous hospital complex housing some of the best medical staff and technology in Night City.
+Un enorme complesso ospedaliero situato ad [[Upper Marina]] dotato delle migliori tecnologie mediche della città.

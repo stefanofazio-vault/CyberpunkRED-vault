@@ -1,2 +1,2 @@
 #### TravlStay CityCenter
-A cube hotel with paper-thin walls and absolutely no security.
+Un *cube hotel* ad [[Upper Marina]] con pareti sottili come carta e assolutamente zero sicurezza.

@@ -1,2 +1,2 @@
 #### The Underground
-The home of the Shroomers, located deep beneath the streets of Night City.
+Rifugio degli [[Shroomers]] nella [[Old Combat Zone]]. È un complesso di cunicoli sotto il livello della strada.

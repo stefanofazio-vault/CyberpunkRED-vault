@@ -1,2 +1,2 @@
 #### McCartney Cubes
-A cube hotel near the stadium.
+Un *cube hotel* vicino allo stadio ad [[Upper Marina]].

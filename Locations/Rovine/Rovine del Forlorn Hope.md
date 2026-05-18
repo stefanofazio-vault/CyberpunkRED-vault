@@ -1,2 +1,2 @@
 #### Rovine del Forlorn Hope
-Rovine della vecchia sede del [[Forlorn Hope]], uno dei bar per *edgerunners* più importanti di Night City.
+Rovine della vecchia sede a [[Little China]] del [[Forlorn Hope]], uno dei bar per *edgerunners* più importanti di Night City.

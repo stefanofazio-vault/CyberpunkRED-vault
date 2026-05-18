@@ -254,8 +254,8 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_7p0mx7",
-      "x": 0.7744943190370799,
-      "y": 0.857227472895367,
+      "x": 0.7731386508840498,
+      "y": 0.8525511190171247,
       "layer": "default",
       "link": "JC Home",
       "iconKey": "pinRed",
@@ -331,7 +331,7 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_hanvw5",
-      "x": 0.31931456776836964,
+      "x": 0.3170228536734941,
       "y": 0.608787853676266,
       "layer": "default",
       "link": "Metal Heaven",
@@ -342,8 +342,8 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_8z9h7k",
-      "x": 0.404854513530889,
-      "y": 0.5618655771225504,
+      "x": 0.4048544261076002,
+      "y": 0.564500954757639,
       "layer": "default",
       "link": "Midnight Arms Regional Office",
       "iconKey": "pinRed",
@@ -455,7 +455,7 @@ ZOOMMAP-DATA id=map-1
       "x": 0.6823683188322256,
       "y": 0.8088776186520596,
       "layer": "default",
-      "link": "Locations/Servizi pubblici/Upper Marina Substation #2",
+      "link": "Upper Marina Substation N°2",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true

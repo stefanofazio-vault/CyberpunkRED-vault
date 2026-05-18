@@ -68,7 +68,7 @@ ZOOMMAP-DATA id=map-1
       "type": "pin",
       "id": "marker_afwpps",
       "x": 0.3107893602164219,
-      "y": 0.6567646698439364,
+      "y": 0.6554133676729968,
       "layer": "default",
       "link": "The Arena",
       "iconKey": "pinRed",
@@ -144,7 +144,7 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_g2nncf",
-      "x": 0.5363063089190175,
+      "x": 0.535160372828071,
       "y": 0.2731361396471356,
       "layer": "default",
       "link": "Kibble Kirble",
@@ -213,7 +213,7 @@ ZOOMMAP-DATA id=map-1
       "x": 0.6537664631127689,
       "y": 0.37279619544569836,
       "layer": "default",
-      "link": "The Warren",
+      "link": "Warren",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
@@ -221,8 +221,8 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_255u0l",
-      "x": 0.5549279671128678,
-      "y": 0.4369840279939251,
+      "x": 0.5514901588400283,
+      "y": 0.43428137210317247,
       "layer": "default",
       "link": "Angel Radio",
       "iconKey": "pinRed",

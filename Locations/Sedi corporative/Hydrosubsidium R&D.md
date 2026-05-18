@@ -1,2 +1,2 @@
 #### Hydrosubsidium R&D
-Una misteriosa ed estremamente sorvegliata struttura al quale nessuno può accedere. Qualcuno ha visto elicotteri e barche partire e parcheggiarsi qui e girano voci di come alcune delle casse da essi trasportati contengano oro e gioielli. Proprietà di [[Factions/Corporations/Hydrosubsidium|Hydrosubsidium]].
+Una misteriosa ed estremamente sorvegliata struttura ad [[Upper Marina]] al quale nessuno può accedere. Qualcuno ha visto elicotteri e barche partire e parcheggiarsi qui e girano voci di come alcune delle casse da essi trasportati contengano oro e gioielli. Proprietà di [[Factions/Corporations/Hydrosubsidium|Hydrosubsidium]].

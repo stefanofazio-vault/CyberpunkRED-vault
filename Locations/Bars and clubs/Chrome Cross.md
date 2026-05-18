@@ -1,2 +1,2 @@
 #### Chrome Cross
-A dive bar frequented by the [[Red Chrome Legion]].
+Un *dive bar* a [[Little China]] frequentato principalmente dalla [[Red Chrome Legion]].

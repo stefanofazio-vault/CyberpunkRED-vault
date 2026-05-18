@@ -1,2 +1,2 @@
 #### Marina FloatHomes
-A collection of small houseboats for rent.
+Una collezione di zattere disponibili ad essere affittate ad [[Upper Marina]].

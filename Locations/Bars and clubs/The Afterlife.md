@@ -1,2 +1,2 @@
 #### The Afterlife
-The premiere edgerunner bar in Night City. Owned by the legendary Solo, Rogue.
+Il più grande bar per *edgerunners* a Night City. Sostanzialmente leggendario. Di proprietà di Rogue. Situato ad [[Upper Marina]].
