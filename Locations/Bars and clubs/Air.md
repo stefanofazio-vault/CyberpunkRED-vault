@@ -1,2 +1,2 @@
 #### Air
-An oxygen bar for those who can afford the fresh stuff.
+Un bar nel [[Glen]] che serve nient'altro che aria pura. 
