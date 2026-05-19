@@ -1,0 +1,2 @@
+#### United States Consulate
+Consolato degli Stati Uniti con sede nella [[Consulate Causeway]]. Nonostante sia tecnicamente uno stato libero, la California del Sud ha agenti che lavorano qui. Inoltre ci sono voci insistenti riguardo delle spie che tengono d'occhio gli agenti di NorCal nella speranza di riunificarsi.

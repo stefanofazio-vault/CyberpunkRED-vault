@@ -1,0 +1,2 @@
+#### Diplomatic Immunity
+Un club situato nel [[Glen]], vicino alla [[Consulate Causeway]]. Estremamente esclusivo, è principalmente rivolto a dignitari e politici esteri in visita nei consolati vicini. Nei piani sotterranei c'è un *sex club* di alto livello con prostitute offerte dalla [[Weng Fang Tong]].

@@ -1,2 +1,2 @@
 #### Bear's
-Famous for its microbrew selection and the moth-eaten bear head sitting above the bar.
+Birreria nel [[Glen]] famosa per la sua ottima birra e per la testa di orso divorata dalle tarme. 

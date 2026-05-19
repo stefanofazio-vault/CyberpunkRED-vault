@@ -1,2 +1,2 @@
 #### Glenlife Perfected
-An apartment building. Looks great on the outside. Not so great on the inside.
+Un complesso di appartamenti situato nel [[Glen]] che sembra fantastico dall'esterno. In realtà, l'interno è a malapena funzionale.
