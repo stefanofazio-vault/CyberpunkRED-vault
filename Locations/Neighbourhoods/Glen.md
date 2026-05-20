@@ -272,6 +272,149 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_aohml7",
+      "x": 0.3573083914670153,
+      "y": 0.5361409958371627,
+      "layer": "default",
+      "link": "Kasim's",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_fi53ge",
+      "x": 0.29566642222696854,
+      "y": 0.4669405849597232,
+      "layer": "default",
+      "link": "Lazarus Regional HQ",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_lx4sri",
+      "x": 0.6139110076058146,
+      "y": 0.4755906363194032,
+      "layer": "default",
+      "link": "Le Jardin",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_mofz29",
+      "x": 0.5336330941769165,
+      "y": 0.6036113964426664,
+      "layer": "default",
+      "link": "Merrill, Asukaga & Finch Offices",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_tygcse",
+      "x": 0.2540939313441463,
+      "y": 0.40466021517002754,
+      "layer": "default",
+      "link": "The Molly May",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_3wrklo",
+      "x": 0.7285937410756691,
+      "y": 0.5032708006703789,
+      "layer": "default",
+      "link": "NCPD Precinct N°1",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_cl10h0",
+      "x": 0.28419814887998307,
+      "y": 0.1832189003622209,
+      "layer": "default",
+      "link": "Night City News Today",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_xhfx28",
+      "x": 0.3329383106046713,
+      "y": 0.39082013299453966,
+      "layer": "default",
+      "link": "Night City Plaza",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_2w6ycn",
+      "x": 0.4218174290438085,
+      "y": 0.2749094447748283,
+      "layer": "default",
+      "link": "Raven Microcybernetics HQ",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_zukxci",
+      "x": 0.6110439392690683,
+      "y": 0.2212791263448127,
+      "layer": "default",
+      "link": "Seafoam",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_1qpuxy",
+      "x": 0.702790126044952,
+      "y": 0.323349732389036,
+      "layer": "default",
+      "link": "Souls Respite",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_q4ybsk",
+      "x": 0.48345939828385526,
+      "y": 0.508460831486187,
+      "layer": "default",
+      "link": "World Stock Exchange",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_47pqv5",
+      "x": 0.6139110076058147,
+      "y": 0.515380872573931,
+      "layer": "default",
+      "link": "Worthy Housing",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [

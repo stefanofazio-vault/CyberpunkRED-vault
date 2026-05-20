@@ -1,2 +1,2 @@
 #### Night City Plaza
-A beautiful park open to the public. The largest green space in Night City.
+Il più grande spazio verde della città, situato nel [[Glen]]. Uno spazio di positività nella distopia della città.

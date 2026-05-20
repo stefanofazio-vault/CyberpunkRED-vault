@@ -1,0 +1,2 @@
+#### City Police Precinct #1
+Il più grande distretto di polizia della città, gestito dall'[[NCPD]], situato nel [[Glen]]. L'edificio in sé è enorme ed è dal punto di vista logistico il più importante di tutti i distretti, per via della presenza dei server che ospitano la CitiNet dedicata della polizia. Al piano terra si svolge un'asta che vende i beni confiscati ogni terzo venerdì del mese.

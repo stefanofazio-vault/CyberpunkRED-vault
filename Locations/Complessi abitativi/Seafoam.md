@@ -1,2 +1,2 @@
 #### Seafoam
-A cube hotel close to [[Club Atlantis]]. The party never stops here, though revelers sometimes wake up after a bender missing money, inventory, or chrome courtesy of the Reckoners.
+Un *cube hotel* situato nel [[Glen]], che condivide molta della clientela con il [[Club Atlantis]]. Spesso, però, i beni di chi alloggia qui spariscono, di solito per colpa dei [[Reckoners]].
