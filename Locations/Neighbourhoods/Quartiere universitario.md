@@ -1,3 +1,4 @@
+#### Quartiere Universitario
 ```zoommap
 image: vault_maps/university_district.png
 # markers is optional; defaults to <image>.markers.json
@@ -40,7 +41,19 @@ ZOOMMAP-DATA id=map-0
       "locked": false
     }
   ],
-  "markers": [],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_jmb93g",
+      "x": 0.4318964647225739,
+      "y": 0.4644913627639155,
+      "layer": "default",
+      "link": "94.4 NCU Radio",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    }
+  ],
   "bases": [
     "vault_maps/university_district.png"
   ],
@@ -53,7 +66,75 @@ ZOOMMAP-DATA id=map-0
     "travelTimePresetIds": [],
     "travelDaysEnabled": false
   },
-  "pinSizeOverrides": {},
+  "pinSizeOverrides": {
+    "pinRed": 168
+  },
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": [],
+  "secondScreen": {
+    "showGrids": true
+  }
+}
+/ZOOMMAP-DATA
+%%
+
+%%
+ZOOMMAP-DATA id=map-1
+{
+  "size": {
+    "w": 4073,
+    "h": 3280
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_jmb93g",
+      "x": 0.4318964647225739,
+      "y": 0.4644913627639155,
+      "layer": "default",
+      "link": "94.4 NCU Radio",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_2ye577",
+      "x": 0.2283137328035515,
+      "y": 0.5677487551809508,
+      "layer": "default",
+      "link": "Biograph Theater",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    }
+  ],
+  "bases": [
+    "vault_maps/university_district.png"
+  ],
+  "overlays": [],
+  "activeBase": "vault_maps/university_district.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {
+    "pinRed": 168
+  },
   "grids": [],
   "panClamp": true,
   "drawLayers": [],
