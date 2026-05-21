@@ -1,2 +1,2 @@
 #### Parkside Living
-Apartments occupied primarily by NCU students and some faculty. Always loud and boisterous.
+Complesso abitativo nel [[Quartiere universitario]], abitato principalmente da studenti. Gli appartamenti sono di alta qualità e la vicinanza al [[Glen]] fa alzare molto l'affitto.

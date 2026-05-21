@@ -1,3 +1,2 @@
 #### Night City Symphony Hall
-A performance space owned and operated by the
-Philharmonic Vampyres.
+Un vecchio teatro situato nel [[Quartiere universitario]] che è stato di recente riabilitato dai [[Philharmonic Vampyres]] che tutt'ora lo usano come base operativa. Vengono di frequente organizzati spettacoli.

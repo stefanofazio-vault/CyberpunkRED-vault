@@ -1,2 +1,2 @@
 #### Yewtree
-A neo-hipster bar working in collusion with NCU Security to keep students quiet while drinking in the district.
+Un bar neo-hipster nel [[Quartiere universitario]]. È appariscente quanto basta ed è uno dei pochi posti che verifica l'ID all'ingresso. Tuttavia, per via di un accordo con la dirigenza dell'università, non fanno problemi agli studenti con ID falso, nell'ottica di tenerli lontani dai posti veramente lontani.

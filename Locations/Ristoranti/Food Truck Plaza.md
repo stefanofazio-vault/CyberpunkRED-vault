@@ -1,0 +1,2 @@
+#### Food Truck Plaza
+Una piazza vicino l'università del [[Quartiere universitario]] dove diversi *food truck* offrono varie prelibatezze agli studenti. L'università ci guadagna facendo pagare il parcheggio.

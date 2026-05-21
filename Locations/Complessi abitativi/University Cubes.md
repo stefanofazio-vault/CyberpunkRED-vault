@@ -1,2 +1,2 @@
 #### University Cubes
-Cheap rooms for university students on a budget.
+Complesso abitativo situato nel [[Quartiere universitario]] dedicato agli studenti. Dall'esterno sembra dei cubi giocattolo per bambini.

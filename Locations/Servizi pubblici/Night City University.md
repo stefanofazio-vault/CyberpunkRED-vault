@@ -1,2 +1,3 @@
 #### Night City University
-A college campus built up into something of a fortified monastery. The center of higher education in Night City.
+Il centro dell'istruzione a Night City, situato nel [[Quartiere universitario]] che ne prende il nome.
+La struttura è quasi una fortezza.

@@ -1,0 +1,2 @@
+#### Fashion Cuts
+Uno degli *hair*-*stylist* più longevi di Night City ha sede nel [[Quartiere universitario]]. È particolarmente apprezzato dagli studenti. Più volte i [[Piranhas]] hanno provato a rilevare l'attività, ma il proprietario continua a rifiutare.

@@ -1,0 +1,2 @@
+#### Retail Resale
+Un negozio nel [[Quartiere universitario]] dove i clienti possono portare dei vestiti usati e ricevere una percentuale nel momento in cui vengono rivenduti. Qualunque cosa troppo usata viene consegnata alle [[Princesses Of Justice]] per creare coperte o altro.

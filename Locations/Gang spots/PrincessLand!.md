@@ -1,2 +1,2 @@
 #### PrincessLand!
-An abandoned carnival themed around an old animated show. Now home to the Princesses of Justice.
+Un vecchio parco divertimenti nel [[Quartiere universitario]]. Le [[Princesses Of Justice]] hanno reclamato il posto e l'hanno trasformato nel loro covo. Nessuno può entrare senza portare regali o soluzioni a problemi.

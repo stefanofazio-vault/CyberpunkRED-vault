@@ -1,2 +1,2 @@
 #### Stems & Seeds
-A guerilla gardening operation run by Lily Larson, a former researcher for Petrochem.
+Uno stabilimento indipendente nel [[Quartiere universitario]] che produce verdure e frutta, per poi venderli direttamente in un mercato fuori dalla struttura.
