@@ -1,2 +1,2 @@
 #### Watson Central Cubelife
-A bog standard cube hotel.
+Un *cube hotel* situato a [[Watson]] che può solamente essere definito blando.

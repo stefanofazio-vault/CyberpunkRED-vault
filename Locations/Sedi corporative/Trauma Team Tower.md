@@ -1,2 +1,2 @@
 #### Trauma Team Tower
-Night City headquarters for Trauma Team. Includes an AV repair bay and a hospital for the exclusive use of Executive-level clients.
+Quartier generale a Night City di [[Trauma Team]], situato a [[Watson]].

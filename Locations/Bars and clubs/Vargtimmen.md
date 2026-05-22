@@ -1,2 +1,2 @@
 #### Vargtimmen
-A neo-pagan mead bar. Famous for their solstice and equinox parties.
+Una birreria a tema neo-pagano situata a [[Watson]]. Famosa per i rituali di solstizio ed equinozio.

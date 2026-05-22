@@ -1,2 +1,2 @@
 #### Trauma Team Corporate Living Center
-Housing for [[Trauma Team]] employees.
+Un complesso abitativo situato a [[Watson]] dedicato ai dipendenti di [[Trauma Team]]. 

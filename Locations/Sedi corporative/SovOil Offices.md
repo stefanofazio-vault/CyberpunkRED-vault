@@ -1,2 +1,2 @@
 #### SovOil Offices
-Night City headquarters for SovOil. Completely off-limits to the public. Across the street from the Petrochem Offices.
+Uffici regionali di [[SovOil]], situati a [[Watson]], dall'altra parte della strada rispetto ai [[Petrochem Offices]]. Gli uffici contengono anche un piccolo museo e un negozio di souvenir. Qualunque area dopo il museo, tuttavia, è fortemente protetta.

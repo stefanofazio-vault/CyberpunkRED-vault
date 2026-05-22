@@ -1,2 +1,2 @@
 #### Petrochem & SovOil Joint Temporary Housing Solution
-In a twist of irony, both [[Petrochem]] and [[SovOil]] provide employee housing in the same building. No one is happy about it.
+Complesso abitativo ironicamente condiviso dai dipendenti di [[Petrochem]] e [[SovOil]], situato a [[Watson]]. Petrochem usa l'ascensore di sinistra, SovOil quello di destra. Petrochem usa il campo da tennis di sinistra, SovOil quello di destra. La jacuzzi sul tetto, purtroppo, è condivisa.

@@ -1,2 +1,2 @@
 #### HTown
-A tent city built outside the walls of a gated community. Tensions are high.
+Una tendopoli accentratasi attorno le mura di un distretto murato a [[Watson]]. Ogni settimana, l'[[NCPD]] prova a far sloggiare i senzatetto. Tuttavia, gli [[Arzin Tynon]] hanno preso in simpatia i senzatetto e si ergono costantemente a loro difesa.

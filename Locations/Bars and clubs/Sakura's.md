@@ -1,2 +1,2 @@
 #### Sakura's
-A Night City interpretation of an izakaya, an informal bar.
+L'interpretazione di Night City di un *izakaya*, situata a [[Watson]].

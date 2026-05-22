@@ -1,2 +1,2 @@
 #### Petrochem Offices
-The heavily defended headquarters of Petrochem in Night City. There’s a small museum dedicated to the history of petroleum. Across the street from the SovOil Offices.
+Uffici regionali di [[Petrochem]], situati a [[Watson]], dall'altra parte della strada rispetto ai [[SovOil Offices]]. Gli uffici contengono anche un piccolo museo e un negozio di souvenir. Qualunque area dopo il museo, tuttavia, è fortemente protetta.
