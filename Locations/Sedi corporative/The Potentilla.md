@@ -1,0 +1,2 @@
+#### The Potentilla
+Cinque edifici disposti come i petali di un fiore situati nella [[NorCal Military Zone]] che contengono gli uffici di varie divisioni dell'esercito. È presente un colombario. Come la [[Estero Bay Military COG Academy]], la Potentilla è costruita su un gigantesco ascensore che in caso di calamità discende nel terreno, trasformando il complesso in un bunker.

@@ -1,0 +1,2 @@
+#### Militech Corporate Housing
+Complesso abitativo nella [[NorCal Military Zone]] dove circa metà dei dipendenti di [[Militech]] a Night City risiede. Il terzo piano, dove è possibile trovare una *lounge* dove fumare sigari, è un ottimo posto per fare networking.

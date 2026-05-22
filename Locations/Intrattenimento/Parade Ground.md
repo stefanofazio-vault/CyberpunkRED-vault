@@ -1,0 +1,2 @@
+#### Parade Ground
+Campo di addestramento per la banda della [[NorCal Military Zone]]. Quando non è utilizzato per le prove, viene impiegato come parco. Contiene una cappella, un poligono di tiro e un palco dove la banda si esibisce.
