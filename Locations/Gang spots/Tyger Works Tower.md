@@ -1,0 +1,2 @@
+#### Tyger Works Tower
+Edificio sede delle principali attività dei [[Tyger Claws]], con sede a [[Kabuki]]. L'edificio in stile brutalista è alto dieci piani e ospita Tyger Cab, Tyger Eats, una clinica un agenzia legale.

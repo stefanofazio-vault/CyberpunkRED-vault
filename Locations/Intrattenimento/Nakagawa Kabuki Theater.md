@@ -1,2 +1,2 @@
 #### Nakagawa Kabuki Theater
-The most magnificent building in Northside. Home to a Kabuki troupe said to be the equal of any in Japan, as well as a museum and the central offices of the Tyger Claws leadership.
+Teatro kabuki situato a [[Kabuki]]. È senza dubbio l'edificio più magnifico di tutto il distretto e ospita un teatro, modellato sul più amato teatro di Tokyo, un museo sulla storia del distretto e un negozio di souvenir. È sede della [[Nakagawa Foundation]]. 
