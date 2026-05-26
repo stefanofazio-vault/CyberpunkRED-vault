@@ -1,0 +1,2 @@
+#### Aerocab
+Sede della [[Factions/Corporations/Aerocab|Aerocab]], primo venditore di AV a Night City, situato a [[New Westbrook]]. Gli AV prodotti e venduti da Aerocab sono la scelta di lusso del settore.
