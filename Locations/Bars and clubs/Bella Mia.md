@@ -1,2 +1,2 @@
 #### Bella Mia
-A club where the affluent and most fashionable residents of Night City go to be seen.
+Un club estremamente esclusivo con sede a [[Charter Hill]], con buttafuori addestrati a rifiutare il servizio a chi non rispetti il *dresscode* del mese. Il drink *signature* è il Velvet Lush: Prosecco con polpa di frutto della passione a 20 eddies.

@@ -1,0 +1,2 @@
+#### DRGS 247
+Negozio di droghe di strada creato in cooperazione tra [[Biotechnica]] e [[Trauma Team]]. L'audience di target della catena sono gli exec che hanno bisogno di una spinta per salire la scala sociale. Per fare ciò, la SynthCoke è sempre un fantastico aiuto.
