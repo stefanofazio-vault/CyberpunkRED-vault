@@ -1,2 +1,2 @@
 #### L'Ermitage
-A high-end apartment complex. Most of the units are rented on a short-term basis by Execs visiting Night City for a prolonged period of time.
+Complesso di appartamenti con sede a [[Charter Hill]] indirizzato ai corporativi che per motivi di lavoro sono obbligati a fermarsi a Night City per un periodo di tempo prolungato.

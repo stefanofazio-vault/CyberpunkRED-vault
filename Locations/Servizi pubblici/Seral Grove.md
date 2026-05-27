@@ -1,2 +1,2 @@
 #### Seral Grove
-An art installation turned high-end burial ground located beneath the district. Burial packages include digital reconstructions of the deceased so visitors can “speak” to their loved ones.
+Un'installazione di arte moderna nei sotterranei di [[Charter Hill]] che funge anche da cimitero. Qui, i ricchissimi possono parlare con i propri cari defunti grazie a delle SAAI modellate sulla personalità del defunto che vengono proiettate dalle tombe. 
