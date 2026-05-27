@@ -1,2 +1,2 @@
 #### Network 54 Westbrook Private Acres
-A gated community of duplexes for the use of [[N54|Network 54]] employees.
+Una comunità isolata situata a [[New Westbrook]] dedicata ai dipendenti e agli ospiti di [[N54]]. La corpo prova a creare occasioni di divertimento, a volte, senza riuscirci.

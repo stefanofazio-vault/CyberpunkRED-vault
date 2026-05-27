@@ -1,2 +1,3 @@
 #### Evergreen Apartments
-A former big box store transformed into a cube hotel. For the right price, the landlord is more than happy to evict existing tenants for you.
+Un complesso abitativo a [[New Westbrook]] ricavato da un vecchio magazzino, molte lamiere usate come pareti e ben poche buone maniere.
+I bagni e le cucine sono comuni e, per il giusto costo, il proprietario è ben disposto a sfrattare gli abitanti.
