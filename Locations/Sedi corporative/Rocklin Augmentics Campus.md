@@ -1,2 +1,3 @@
 #### Rocklin Augmentics Campus
-Night City headquarters of Rocklin Augmentics, including offices, meeting spaces, and a research hospital.
+Quartier generale della [[Rocklin Augmentics]] situato a [[New Westbrook]], composto da una serie di strutture connesse tra di loro da ponti sospesi e tunnel sotterranei. 
+La posizione del campus è dettata dalla strategia di Rocklin di offrire "rifugio e cibo" a chi si presti a offrirsi come cavia da laboratorio.

@@ -1,2 +1,2 @@
 #### Rocklin Augmentics Innovation Hub
-Corporate housing for [[Rocklin Augmentics]] employees. They are encouraged to use the various maker spaces built inside.
+Un complesso abitativo della [[Rocklin Augmentics]] situato a [[New Westbrook]] e collegato al [[Rocklin Augmentics Campus]] tramite un tunnel sotterraneo lungo l'intero distretto. Gli appartamenti sono studiati in modo tale da favorire la progettazione... o il lavoro intensivo.
