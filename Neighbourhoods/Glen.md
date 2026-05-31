@@ -309,8 +309,8 @@ ZOOMMAP-DATA id=map-1
     {
       "type": "pin",
       "id": "marker_mofz29",
-      "x": 0.5336330941769165,
-      "y": 0.6036113964426664,
+      "x": 0.533633006742385,
+      "y": 0.598079230552607,
       "layer": "default",
       "link": "Merrill, Asukaga & Finch Offices",
       "iconKey": "pinRed",
@@ -412,6 +412,50 @@ ZOOMMAP-DATA id=map-1
       "y": 0.515380872573931,
       "layer": "default",
       "link": "Worthy Housing",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_nw5iwm",
+      "x": 0.3483906287569647,
+      "y": 0.3257050137594543,
+      "layer": "default",
+      "link": "Esnupi",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_j4vd2d",
+      "x": 0.3395089416116644,
+      "y": 0.4882117668658833,
+      "layer": "default",
+      "link": "Born This Way",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_7s9eon",
+      "x": 0.38162519366010395,
+      "y": 0.45951370247501344,
+      "layer": "default",
+      "link": "Clinica Vogel",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_nesm9e",
+      "x": 0.4188708176962567,
+      "y": 0.46089682308549423,
+      "layer": "default",
+      "link": "SerpentZ",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
