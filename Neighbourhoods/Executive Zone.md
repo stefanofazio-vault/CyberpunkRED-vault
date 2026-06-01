@@ -173,6 +173,105 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_l0jfhc",
+      "x": 0.5204416776350552,
+      "y": 0.5494922704196473,
+      "layer": "default",
+      "link": "Executive Zone Casino - Country Club",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_xy7zch",
+      "x": 0.3139567540273466,
+      "y": 0.2975697567790891,
+      "layer": "default",
+      "link": "Firebird Tearoom & Steam Baths",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_84a52o",
+      "x": 0.27302247654359135,
+      "y": 0.5880946135085005,
+      "layer": "default",
+      "link": "Groundskeeper Shed",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_hsh3av",
+      "x": 0.3689123059989326,
+      "y": 0.351806734279345,
+      "layer": "default",
+      "link": "Growing Shoots Daycare",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_fq8hiq",
+      "x": 0.3396268540983776,
+      "y": 0.5581616284459208,
+      "layer": "default",
+      "link": "HOA Offices",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_j5pjqu",
+      "x": 0.320063684514049,
+      "y": 0.3918938948880255,
+      "layer": "default",
+      "link": "Lazarus Base Of Operation",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_rejdz1",
+      "x": 0.30211777566731896,
+      "y": 0.5250397442223695,
+      "layer": "default",
+      "link": "Monorail Station",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_vvzub9",
+      "x": 0.272148508491126,
+      "y": 0.24088618486253757,
+      "layer": "default",
+      "link": "Oasis (Executive Zone)",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_ttf2xi",
+      "x": 0.6162066045304565,
+      "y": 0.6244764393004517,
+      "layer": "default",
+      "link": "Puddleforge Games",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [

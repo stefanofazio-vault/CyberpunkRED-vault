@@ -1,0 +1,2 @@
+#### Growing Shoots Daycare
+Unico asilo della [[Executive Zone]], dedicato a quelle cinque persone qui residenti che vogliono effettivamente crescere i propri figli. I bambini sono associati ad una *caretaker* personale che fa di tutto per garantire la miglior crescita possibile per il bambino.
