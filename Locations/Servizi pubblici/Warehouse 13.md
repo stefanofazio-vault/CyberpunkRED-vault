@@ -1,0 +1,2 @@
+#### Warehouse 13
+Un gigantesco magazzino nei [[Heywood Docks]] che può essere noleggiato da chiunque ne abbia i soldi. C'è sempre qualcuno che ha bisogno di un grosso edificio, vuoto e senza che nessuno faccia domande.
