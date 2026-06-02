@@ -1,2 +1,2 @@
 #### Eagle Rock Stadium
-A former football field transformed into a cargo container community.
+Uno stadio di calcio a [[Rancho Coronado]] trasformato in comunità cargo dagli [[Steel Vacqueros]]. La zona è decentemente sicura grazie alla protezione della gang, che qui vicino tumula i caduti.

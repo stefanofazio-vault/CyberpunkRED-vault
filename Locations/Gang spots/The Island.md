@@ -1,0 +1,2 @@
+#### The Island
+Quartier generale dei [[Voodoo Boys]] a [[Rancho Coronado]], è un vecchio multisala ben fortificato che ora ospita il loro magazzino di droghe e armi. Attorno si radunano spontaneamente tende di senzatetto che ricevono supporto dalla gang, ma il sistema spinge molto la "schiavitù via favori" così che i Voodoo Boys abbiano sempre lavoratori per crescere la droga o per le XBD.

@@ -1,0 +1,2 @@
+#### Minimallism
+Ex centro commerciale a [[Rancho Coronado]] che dopo l'esplosione della bomba è stato popolato da una grandissima quantità di fixer che lo hanno reso una sorta di centro di interscambio di beni e servizi sottobanco. Sede di svariati Mercati Notturni.
