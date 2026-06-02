@@ -1,2 +1,2 @@
 #### Mister Rice Guy
-An upscale sushi restaurant. Famous for its mascot, Hime Cat.
+Un ristorante di sushi a [[Pacifica]] che offre vero pesce. La mascotte digitale del posto, Hime Cat, manda dei messaggi ai clienti contenenti delle frasi da Biscotto della Fortuna.

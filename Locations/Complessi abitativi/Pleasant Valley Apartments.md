@@ -1,2 +1,2 @@
 #### Pleasant Valley Apartments
-An apartment building designed for neo-luddites who want to escape from technoshock overload.
+Un complesso di appartamenti a [[Pacifica]] pensato per chi vuole astrarsi dalla vita tecnologica della città. La struttura non ha architettura di rete e usa solo controlli manuali per luci e ascensori.

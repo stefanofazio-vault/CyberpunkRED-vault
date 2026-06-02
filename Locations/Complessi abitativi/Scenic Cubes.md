@@ -1,2 +1,2 @@
 #### Scenic Cubes
-A cube hotel covered in some of the most expressive graffiti in Night City.
+Un *cube hotel* a [[Pacifica]] dove rilassarsi e bere con i propri vicini. Ogni piano è adornato con graffiti di alcuni dei più importanti artisti contemporanei.

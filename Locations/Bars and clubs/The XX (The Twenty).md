@@ -1,2 +1,2 @@
 #### The XX (The Twenty)
-A dive punk bar. Breakfist, the owner, serves juice instead of booze.
+*Dive bar* con animo punk situato a [[Pacifica]]. Tuttavia, non è possibile sbronzarsi qui: portare alcool è vietato e al bar viene venduto solo succo di frutta.

@@ -1,2 +1,2 @@
 #### Playhouse
-An apartment complex with a shady past. Rumors suggest it is haunted.
+Complesso di appartamenti a [[Pacifica]] dove una volta si teneva un *reality show* - *battle royale*. Molta gente è morta qui e da allora si dica che sia infestato. L'affitto costa molto poco.
