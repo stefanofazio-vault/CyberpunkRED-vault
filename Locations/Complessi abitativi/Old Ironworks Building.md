@@ -1,2 +1,2 @@
 #### Old Ironworks Building
-The inside has been converted into apartments, and the landlords have stacked cargo container housing on the roof.
+Il più grande complesso abitativo non corporativo della [[Heywood Industrial Zone]], ricavato da un sistema di container, passerelle e camminatoi. 

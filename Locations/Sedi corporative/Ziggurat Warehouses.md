@@ -1,0 +1,2 @@
+#### Ziggurat Warehouses
+Magazzino gigantesco appartenente a [[Ziggurat]] situato nella [[Heywood Industrial Zone]]. Al suo interno sono contenuti chilometri di cavi elettrici, guaine isolanti, generatori e tutto ciò che può servire in caso di mancanza di elettricità o necessità infrastrutturali.
