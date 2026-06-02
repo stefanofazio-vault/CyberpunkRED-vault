@@ -1,2 +1,2 @@
 #### The Armory
-A former National Guard armory transformed into the headquarters of 6th Street.
+Quartier generale dei [[6th Street]] situato a [[North Heywood]] con sede in una vecchia armeria della Guardia Nazionale che è stata ristrutturata. L'edificio è alto nove piani e ospita caserme, armerie, bar e uffici. Nel seminterrato è presente un rifugio antiatomico.

@@ -1,5 +1,6 @@
+#### North Heywood
 ```zoommap
-image: vault_maps/night_city.png
+image: vault_maps/north_heywood.png
 # markers is optional; defaults to <image>.markers.json
 # markers: Assets/Map.jpg.markers.json
 
@@ -26,11 +27,11 @@ align: right             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
 ```
 %%
-ZOOMMAP-DATA id=map-0
+ZOOMMAP-DATA id=map-1
 {
   "size": {
-    "w": 5100,
-    "h": 6600
+    "w": 4073,
+    "h": 3542
   },
   "layers": [
     {
@@ -43,273 +44,274 @@ ZOOMMAP-DATA id=map-0
   "markers": [
     {
       "type": "pin",
-      "id": "marker_ae1evj",
-      "x": 0.44258295283950677,
-      "y": 0.4586131693204507,
+      "id": "marker_tq18cf",
+      "x": 0.5417531647436535,
+      "y": 0.137336342606607,
       "layer": "default",
-      "link": "Zona calda",
+      "link": "Acorn Towers",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_ci5m03",
-      "x": 0.7020332204625772,
-      "y": 0.3975385275472456,
+      "id": "marker_bpn0tm",
+      "x": 0.5829327287682663,
+      "y": 0.7718489773103718,
       "layer": "default",
-      "link": "Executive Zone",
+      "link": "AmeriCar Distribution Center",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_ml6lt5",
-      "x": 0.6524913599076293,
-      "y": 0.36744375303958227,
+      "id": "marker_cxqrfg",
+      "x": 0.24987601397515574,
+      "y": 0.5333614891196106,
       "layer": "default",
-      "link": "Charter Hill",
+      "link": "The Armory",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_7g6gs1",
-      "x": 0.6275773238671748,
-      "y": 0.2966325506831156,
+      "id": "marker_gbo6nn",
+      "x": 0.8733117380072422,
+      "y": 0.3834196578543983,
       "layer": "default",
-      "link": "New Westbrook",
+      "link": "Blue Air Studio Apartments",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_gdi0ul",
-      "x": 0.3761454360054624,
-      "y": 0.2136506729216312,
+      "id": "marker_lyrrxf",
+      "x": 0.7810472095123843,
+      "y": 0.41952575786801527,
       "layer": "default",
-      "link": "NorCal MIlitary Zone",
+      "link": "Byte & Switch",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_bwka2l",
-      "x": 0.31343067904405525,
-      "y": 0.4190031665084671,
+      "id": "marker_t857z5",
+      "x": 0.42481451637483064,
+      "y": 0.11548540421337142,
       "layer": "default",
-      "link": "Little Europe",
+      "link": "Dynalar Campus",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_wpuw9n",
-      "x": 0.5316436773994971,
-      "y": 0.43316539347359545,
+      "id": "marker_kpug0i",
+      "x": 0.4534724858082116,
+      "y": 0.538304624756348,
       "layer": "default",
-      "link": "Upper Marina",
+      "link": "Evergreen Vista Park",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_ebay0q",
-      "x": 0.28107094847266173,
-      "y": 0.44754891895225274,
+      "id": "marker_s8onu5",
+      "x": 0.4578364242810718,
+      "y": 0.04764206939095605,
       "layer": "default",
-      "link": "Downtown",
+      "link": "Forlorn Hope",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_4famcm",
-      "x": 0.5617124048707172,
-      "y": 0.49313361020998076,
+      "id": "marker_h6wj32",
+      "x": 0.3324250990239216,
+      "y": 0.5575028214451149,
       "layer": "default",
-      "link": "Little China",
+      "link": "Haven Spa & Recovery",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_wey8ct",
-      "x": 0.308848760236541,
-      "y": 0.4940187704986841,
+      "id": "marker_56no7j",
+      "x": 0.43740135402391567,
+      "y": 0.3119937514871545,
       "layer": "default",
-      "link": "Quartiere universitario",
+      "link": "Haywire Circuit Gym",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_n5j95z",
-      "x": 0.3996276278806208,
-      "y": 0.5438078971555748,
+      "id": "marker_xdiuka",
+      "x": 0.33890567621817674,
+      "y": 0.36937659488835206,
       "layer": "default",
-      "link": "Glen",
+      "link": "Nana Meow's Nursery",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_k3dp96",
-      "x": 0.5233389987193454,
-      "y": 0.5384970367195921,
+      "id": "marker_gdt0q0",
+      "x": 0.6488460584650426,
+      "y": 0.5991263526694763,
       "layer": "default",
-      "link": "Old Japantown",
+      "link": "Neon Hollow Strip",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_q9p1hu",
-      "x": 0.31457613689772573,
-      "y": 0.5466846090043885,
+      "id": "marker_4xjy3u",
+      "x": 0.5624974835967461,
+      "y": 0.3236713462461756,
       "layer": "default",
-      "link": "South Night City",
-      "iconKey": "pinRed",
-      "tooltip": ""
-    },
-    {
-      "type": "pin",
-      "id": "marker_h0znyt",
-      "x": 0.2701889677735435,
-      "y": 0.584082362070482,
-      "layer": "default",
-      "link": "Porto di Night City",
+      "link": "The Night City Animal Shelter",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_ejeglv",
-      "x": 0.31600716047187116,
-      "y": 0.611743689614964,
+      "id": "marker_3005mz",
+      "x": 0.403386282357648,
+      "y": 0.4777699189197833,
       "layer": "default",
-      "link": "Reclamation Zone",
+      "link": "North Heywood Civic Nexus",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_q61yo4",
-      "x": 0.4989977353021425,
-      "y": 0.5778858085488717,
+      "id": "marker_1ijlol",
+      "x": 0.41553338529509054,
+      "y": 0.6446880399891949,
       "layer": "default",
-      "link": "Old Combat Zone",
+      "link": "Perennial Heights - The Rapture",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_7u0icm",
-      "x": 0.4030641762272969,
-      "y": 0.28180646194281295,
+      "id": "marker_nefma4",
+      "x": 0.5559572606042928,
+      "y": 0.4137212040123554,
       "layer": "default",
-      "link": "Watson",
+      "link": "Sleepeasy Home Solutions",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_je5qr1",
-      "x": 0.47064715091501164,
-      "y": 0.30260723912885995,
+      "id": "marker_3wyrcp",
+      "x": 0.6026186408034795,
+      "y": 0.5365133012708018,
       "layer": "default",
-      "link": "Kabuki",
+      "link": "Turbine Alley",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_cnwuxi",
-      "x": 0.657359577633937,
-      "y": 0.5349564968610163,
+      "id": "marker_7gf571",
+      "x": 0.5091711664634192,
+      "y": 0.08353609589232588,
       "layer": "default",
-      "link": "Heywood Docks",
+      "link": "Biotechnica Palm Grove",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_ksbhcn",
-      "x": 0.7272335554218252,
-      "y": 0.5677066847039646,
+      "id": "marker_15exa1",
+      "x": 0.47938954715430565,
+      "y": 0.06956805691685995,
       "layer": "default",
-      "link": "North Heywood",
+      "link": "Breeze",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_ebvb0p",
-      "x": 0.5920675186535631,
-      "y": 0.5887287604035407,
+      "id": "marker_nvx8i0",
+      "x": 0.4274307105204305,
+      "y": 0.030952851947496068,
       "layer": "default",
-      "link": "Heywood Industrial Zone",
+      "link": "The Palms",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_hc8x6t",
-      "x": 0.6802691716715087,
-      "y": 0.6938391410117593,
+      "id": "marker_w1lo6s",
+      "x": 0.4391490983511761,
+      "y": 0.07395007143370042,
       "layer": "default",
-      "link": "Santo Domingo",
+      "link": "The Shark",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_fqfoy7",
-      "x": 0.35638600400294135,
-      "y": 0.6889708417270839,
+      "id": "marker_sujp8v",
+      "x": 0.4939681346687343,
+      "y": 0.13253676829232727,
       "layer": "default",
-      "link": "Pacifica",
+      "link": "Xanadu",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     },
     {
       "type": "pin",
-      "id": "marker_3zwpgx",
-      "x": 0.42310990714861135,
-      "y": 0.7845659919206438,
+      "id": "marker_tr624v",
+      "x": 0.46437664727352507,
+      "y": 0.09521364036717103,
       "layer": "default",
-      "link": "Rancho Coronado",
+      "link": "Zolletta",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_310xpv",
+      "x": 0.4547210245399955,
+      "y": 0.12974051554957688,
+      "layer": "default",
+      "link": "Woodland Park",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
     }
   ],
   "bases": [
-    "vault_maps/night_city.png"
+    "vault_maps/north_heywood.png"
   ],
   "overlays": [],
-  "activeBase": "vault_maps/night_city.png",
+  "activeBase": "vault_maps/north_heywood.png",
   "measurement": {
     "displayUnit": "km",
     "scales": {},
@@ -318,7 +320,7 @@ ZOOMMAP-DATA id=map-0
     "travelDaysEnabled": false
   },
   "pinSizeOverrides": {
-    "pinRed": 248
+    "pinRed": 168
   },
   "grids": [],
   "panClamp": true,
@@ -331,4 +333,3 @@ ZOOMMAP-DATA id=map-0
 }
 /ZOOMMAP-DATA
 %%
-

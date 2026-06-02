@@ -1,2 +1,2 @@
 #### Forlorn Hope
-The home of The Forlorn Hope, a venerable edgerunner bar and Night City institution (after the events of Tales of the RED: Hope Reborn).
+Nuova sede del Forlorn Hope a [[North Heywood]] dopo che la precedente ha preso fuoco. Uno dei più grandi bar per *edgerunner* a Night City.

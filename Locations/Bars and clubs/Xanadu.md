@@ -1,2 +1,2 @@
 #### Xanadu
-A roller derby rink and disco tech. Home of the Muses.
+Una discoteca e pista per *roller derby* situata nel [[Woodland Park]]. La scelta musicale è incentrata sulla disco retrò e su elettronica moderna. 

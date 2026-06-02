@@ -4,7 +4,7 @@
 
 ---
 #### Background
-Carlos Garcia è un uomo di 33 anni nato nei sobborghi di [[Heywood]]. È un ex-membro degli [[Zoners]] e un attuale affiliato del collettivo [[Etcher]].
+Carlos Garcia è un uomo di 33 anni nato nei sobborghi di [[North Heywood]]. È un ex-membro degli [[Zoners]] e un attuale affiliato del collettivo [[Etcher]].
 
 È innamorato di [[Phoebe Ana Sofia]].
 

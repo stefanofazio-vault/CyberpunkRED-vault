@@ -10,7 +10,7 @@ Phoebe è la persona che si cela dietro Etcher, un artista anti-corporativo anon
 
 Phoebe era precedentemente affiliata agli [[Zoners]] ma, insieme ad un piccolo gruppo allineato con il suo pensiero, si è separata in seguito ad una divergenza di opinioni. Phoebe crede infatti che la violenza non sia auspicabile, ma che sia purtroppo necessaria e a volte sufficientemente efficace da giustificarla in toto. 
 
-Phoebe agisce principalmente nella zona tra [[Heywood]] e [[Pacifica]], dove la maggior parte del collettivo risiede.
+Phoebe agisce principalmente nella zona tra [[North Heywood]] e [[Pacifica]], dove la maggior parte del collettivo risiede.
 
 ---
 #### Personalità

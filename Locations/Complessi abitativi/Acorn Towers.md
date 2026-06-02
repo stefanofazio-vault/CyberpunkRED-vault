@@ -1,2 +1,2 @@
 #### Acorn Towers
-A dual-tower apartment complex housing Dynalar employees.
+Un complesso di appartamenti distribuito su due torri gemelle situate a [[North Heywood]]. Sono occupate principalmente dai dipendenti di [[Dynalar]]. La struttura è sicura e spesso sul tetto vengono organizzati party con droghe fornite dai [[Voodoo Boys]].

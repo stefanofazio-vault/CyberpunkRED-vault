@@ -1,2 +1,2 @@
 #### Dynalar Campus
-The regional headquarters of Dynalar, a popular cyberware and electronics company.
+Quartier generale di [[Dynalar]] situato a [[North Heywood]] che ospita uffici, centri di R&D e un piccolo impianto produttivo. Offre una serie di bonus ai dipendenti come una palestra, un arcade, una mensa.
