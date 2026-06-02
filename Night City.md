@@ -154,8 +154,8 @@ ZOOMMAP-DATA id=map-0
     {
       "type": "pin",
       "id": "marker_n5j95z",
-      "x": 0.3996276278806208,
-      "y": 0.5438078971555748,
+      "x": 0.40093512288856187,
+      "y": 0.5448183017611273,
       "layer": "default",
       "link": "Glen",
       "iconKey": "pinRed",
@@ -274,7 +274,7 @@ ZOOMMAP-DATA id=map-0
     {
       "type": "pin",
       "id": "marker_hc8x6t",
-      "x": 0.6802691716715087,
+      "x": 0.6815766666794496,
       "y": 0.6938391410117593,
       "layer": "default",
       "link": "Santo Domingo",

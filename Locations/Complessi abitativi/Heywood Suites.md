@@ -1,2 +1,2 @@
 #### Heywood Suites
-An apartment complex situated beneath one of the most heavily trafficked overpasses in Night City. Many residents have level-dampening cyberware installed.
+Complesso di appartamenti situato a [[Santo Domingo]], estremamente rumoroso per via della vicinanza all'autostrada. A nulla sono serviti gli impianti di insonorizzazione attivi e passivi che sono stati installati. La zona è però estremamente sicura.

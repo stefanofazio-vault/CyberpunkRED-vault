@@ -1,0 +1,2 @@
+#### Ciudad Techito
+Piccolo quartiere residenziale nato spontaneamente a [[Santo Domingo]]. In qualunque altro quartiere, questa sarebbe diventata una tendopoli. Qui, invece, lo spirito DIY e un forte senso di comunità hanno trasformato la zona in quartiere vivo e fiorente. Dall'alto, i tetti delle case sembrano un mosaico.

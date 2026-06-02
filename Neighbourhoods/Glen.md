@@ -431,7 +431,7 @@ ZOOMMAP-DATA id=map-1
       "type": "pin",
       "id": "marker_j4vd2d",
       "x": 0.3395089416116644,
-      "y": 0.4882117668658833,
+      "y": 0.4911739116595373,
       "layer": "default",
       "link": "Born This Way",
       "iconKey": "pinRed",

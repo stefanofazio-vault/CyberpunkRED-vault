@@ -1,2 +1,2 @@
 #### Metalstorm
-A seemingly indestructible bar located under the Pacifica Bridge. Popular with FBCs.
+Club a [[Santo Domingo]] dove tutto è metallico e indistruttibile. Il target sono cyborg e FBC che per una volta non devono stare attenti a dosare la loro forza.

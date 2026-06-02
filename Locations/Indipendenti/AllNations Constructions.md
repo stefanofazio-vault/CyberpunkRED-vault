@@ -1,0 +1,2 @@
+#### AllNations Constructions
+Sede presso il [[Campo Aldecaldo]] di una organizzazione di famiglie nomadi che gestisce lavori di edilizia. Qui, inoltre, i nomadi si riforniscono di ID temporanei e targhe per le proprie auto.

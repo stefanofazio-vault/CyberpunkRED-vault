@@ -1,2 +1,2 @@
 #### City Police Precinct #2
-Large but overworked, the cops here rely heavily on drones to patrol their beats.
+Distretto di polizia di [[Santo Domingo]]. Grosso e attrezzato, ma privo di personale. 
