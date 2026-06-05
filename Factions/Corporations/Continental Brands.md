@@ -1,0 +1,1 @@
+Azienda alimentare e agricola, una volta parte del gruppo [[Petrochem]].
