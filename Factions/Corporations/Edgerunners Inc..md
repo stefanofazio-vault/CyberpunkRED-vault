@@ -1,0 +1,1 @@
+Corporazione che offre servizi legati a mercenari e guardie del corpo. Mirano alla riunificazione di [[South Night City]] con il resto della città, cosa che li pone in affinità con gli [[Zoners]].

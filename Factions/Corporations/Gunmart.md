@@ -1,0 +1,1 @@
+Produttore di armi a bassissimo costo di ancora più bassa qualità. La corpo ha legami di dubbia natura con gli [[Enhanced]]. 

@@ -1,0 +1,1 @@
+Megacorporazione coreana che solo di recente ha fatto il proprio ingresso a Night City proponendosi come un sostituto alle alternative giapponesi.

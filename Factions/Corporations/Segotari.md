@@ -1,0 +1,1 @@
+La più grande azienda produttrice di videogiochi al mondo. 

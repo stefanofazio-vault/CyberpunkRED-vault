@@ -1,0 +1,1 @@
+Azienda produttrice di cibernetica ed elettronica sui generis. Una volta la più quotata sul suolo americano, è stata di recente superata nelle vendite da [[Dynalar]] e [[Rocklin Augmentics]].

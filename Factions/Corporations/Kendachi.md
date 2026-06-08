@@ -1,0 +1,1 @@
+Azienda giapponese specializzata nella produzione di armi da mischia con un focus sulle katane. 

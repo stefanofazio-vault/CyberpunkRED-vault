@@ -1,0 +1,1 @@
+Azienda produttrice di armi con un forte *imprint* *kawaii*.

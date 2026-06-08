@@ -1,0 +1,1 @@
+Azienda di *intelligence*, sicurezza e che offre servizi di difesa personale. Una delle più ricche corporazioni con sede a Night City. L'estetica è incentrata attorno ai gatti.

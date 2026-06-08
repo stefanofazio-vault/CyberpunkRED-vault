@@ -1,0 +1,1 @@
+Azienda giornalistica con sede a Londra. Il loro focus è la diffusione di informazioni in tutto il mondo, che viene garantito da una incredibile diffusione di piccoli uffici e di un contratto con [[WorldSat]].

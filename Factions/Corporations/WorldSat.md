@@ -1,0 +1,1 @@
+Megacorporazione francese con il monopolio sulla telecomunicazione satellitare.

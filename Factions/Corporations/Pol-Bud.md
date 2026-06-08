@@ -1,0 +1,1 @@
+Azienda di costruzioni di origine polacca che nel 2045 è una delle più influenti sul mercato. 

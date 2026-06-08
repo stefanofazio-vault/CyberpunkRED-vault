@@ -1,0 +1,1 @@
+Azienda produttrice di armi di origine giapponese.

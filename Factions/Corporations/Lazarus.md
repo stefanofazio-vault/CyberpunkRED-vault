@@ -1,0 +1,1 @@
+Azienda americana completamente dedicata a operazioni di natura militare o legate alla sicurezza. È la principale rivale di [[Militech]] per quanto riguarda la milizia privata.

@@ -1,0 +1,1 @@
+Azienda specializzata nella produzione e nella ricerca e sviluppo di tecnologie sottomarine. La scala dell'azienda è molto più grande di quello che la sua impronta pubblica possa suggerire per via di specifiche strategie di *public relations*.

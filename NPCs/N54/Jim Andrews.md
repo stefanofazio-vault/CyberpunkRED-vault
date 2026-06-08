@@ -1,1 +1,1 @@
-Ex-editore di [[Hobbes]] e dipendente di [[N54]]. 
+Ex-editore di [[Hobbes]] e dipendente di [[Network 54]]. 

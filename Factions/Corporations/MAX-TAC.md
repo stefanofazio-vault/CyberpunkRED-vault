@@ -1,0 +1,1 @@
+Corporazione nata da un ramo specializzato dell'[[NCPD]] dedito al controllo dei casi di cyberpsicosi in città. Nel 2045, la MAX-TAC è un'entità indipendente dalla polizia.

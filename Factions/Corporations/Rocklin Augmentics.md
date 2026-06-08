@@ -1,0 +1,1 @@
+Azienda che produce cibernetica con un focus sulle protesi di natura medicale.

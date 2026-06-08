@@ -1,0 +1,1 @@
+Azienda di sanità privata in aperta rivalità con [[Trauma Team]]. 

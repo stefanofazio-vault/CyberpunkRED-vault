@@ -1,3 +1,3 @@
 #### The Combat Zone
 Sede del più grande gioco televisivo di Night City. Questa zona è un quartiere isolato da altissime mura, situato a [[New Westbrook]], dove cinquanta partecipanti si svegliano un giorno a caso dentro una finta zona di combattimento costruita a regola d'arte. Chi sopravvive al gioco diventa sistematicamente una celebrità. La maggior parte di loro muore entro le prime settimane.
-Il gioco è moderato da [[N54]].
+Il gioco è moderato da [[Network 54]].

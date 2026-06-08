@@ -1,0 +1,1 @@
+Azienda di trasporto privato di origine russa che opera a Night City. Il rapporto con le altre aziende di trasporto privato è perlopiù amichevole. 

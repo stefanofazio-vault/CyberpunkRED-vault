@@ -1,0 +1,1 @@
+Azienda giapponese con un focus importante sulla produzione e sviluppo di cyberottiche, nicchia nella quale è leader di settore.

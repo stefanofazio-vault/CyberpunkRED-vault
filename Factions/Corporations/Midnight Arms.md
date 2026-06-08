@@ -1,0 +1,1 @@
+Produttore di armi americano che ha assorbito la precedentemente esistente Mustang Arms. 
