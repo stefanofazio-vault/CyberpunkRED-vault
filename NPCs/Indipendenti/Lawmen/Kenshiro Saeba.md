@@ -1,0 +1,1 @@
+Kenshiro lavora come investigatore privato e ha assunto il nomignolo di "Night Hunter". Opera principalmente a [[Little Europe]].

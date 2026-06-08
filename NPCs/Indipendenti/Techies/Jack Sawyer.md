@@ -1,0 +1,1 @@
+Una fabbro che, incidentalmente, è anche una fantastica giocatrice di biliardo al [[Greta's]]. È sorella di [[Lynx]]. 

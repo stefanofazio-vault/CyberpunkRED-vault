@@ -1,0 +1,1 @@
+Un solo nominato "Il cavaliere bianco di Knight City" perché si è spesso dedicato alla protezione degli indifesi. Attualmente, è impegnato nel crearsi una famiglia, ma è ancora disposto a togliere la polvere dalle pistole. Ha stretto amicizia con [[Father Kevin]] e lo si può trovare spesso alla [[Holy Angel's Church]].
