@@ -1,2 +1,2 @@
 #### Fiddler's Green
-Un pub che di irlandese situato a [[Little Europe]] ha solo le pretese. Tuttavia, la birra che servono qui (una *stout* chiamata Pint'o'Plain) è veramente una birra importata dall'Irlanda.
+Un pub che di irlandese situato a [[Little Europe]] ha solo le pretese. Tuttavia, la birra che servono qui (una *stout* chiamata Pint'o'Plain) è veramente una birra importata dall'Irlanda. Gestito da [[Kate Mulvaney]].

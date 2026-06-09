@@ -1,0 +1,1 @@
+Moglie di [[Father Paul]] e importante assistente per la [[Holy Angel's Church]]. Ha perso una figlia durante la guerra.
