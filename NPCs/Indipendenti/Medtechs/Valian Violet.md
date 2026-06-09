@@ -1,0 +1,1 @@
+Proprietaria del [[Guns & Dolls]] e *edgerunner* ritirata. Si dice sia sulla soglia della cyberpsicosi e questa tesi è supportata dalla sua sfrontatezza negli affari.

@@ -1,0 +1,1 @@
+Proprietario del [[Club Atlantis]], nonchè uno dei più potenti fixer di Night City per via del suo controllo quasi totale della catena di approvvigionamento. Il suo obiettivo è trasformare [[Downtown]] in una fortezza del commercio.

@@ -1,0 +1,1 @@
+Giovane capo della [[Eastern Tiger Triad]], il suo acume le ha permesso di identificare delle falle nella struttura organizzativa criminale della città e di sfruttarle. È in disaccordo con la maggior parte dei capibanda locali, in particolare con [[David Ling Po]], che ritiene troppo occidentalizzato e troppo antico per essere degno del suo rispetto.
