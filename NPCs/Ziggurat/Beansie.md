@@ -1,0 +1,1 @@
+Un dipendente di [[Ziggurat]] che non lavora però nel [[Ziggurat Headquarters]], bensì nell'edificio anti-incendio sottostante. Nessuno sa quanti anni abbia, ma gli piace parlare di come combattesse nelle guerre passate.
