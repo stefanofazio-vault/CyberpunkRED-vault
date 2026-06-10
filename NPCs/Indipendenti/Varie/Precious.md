@@ -1,0 +1,1 @@
+Un particolare individuo che dimora nella [[Zona calda]]. Non parla, segue i visitatori e aiuta chiunque gli offra un poco di cibo.

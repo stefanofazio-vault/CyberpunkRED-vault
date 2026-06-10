@@ -1,0 +1,1 @@
+Patito ed esperto di armi, proprietario del [[Toggle's Temple]].  È completamente pazzo.

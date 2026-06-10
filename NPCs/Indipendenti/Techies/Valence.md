@@ -1,0 +1,1 @@
+Un ex-[[Scavengers]] che ora lavora al [[Forlorn Hope]]. Risiedeva nella [[Zona calda]] e dietro adeguato compenso potrebbe fare da guida.
