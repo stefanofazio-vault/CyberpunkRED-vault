@@ -1,1 +1,7 @@
+---
+role:
+  - nomad
+rank:
+  - "6"
+---
 Nomade che possiede una piccola azienda di taxi acquatici di lusso presso il [[Brownstone Waterfront]]. Fa parte dei [[Prime-Time Players]].

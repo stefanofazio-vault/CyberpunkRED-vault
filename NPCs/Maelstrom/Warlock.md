@@ -1,3 +1,9 @@
+---
+role:
+  - solo
+rank:
+  - "6"
+---
 ![[warlock.png|300]]
 [[#Background]]
 [[#Personalità]]
