@@ -1,1 +1,7 @@
+---
+role:
+  - solo
+rank:
+  - "6"
+---
 Comandante di [[Whitewater Security]]. È una comandate pragmatica e lucida, ma è capitato che accettasse mazzette in vista della sua "pensione". È amica del city manager di [[Downtown]]. 

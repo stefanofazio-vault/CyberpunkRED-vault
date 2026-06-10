@@ -1,1 +1,9 @@
+---
+role:
+  - rockerboy
+  - solo
+rank:
+  - "4"
+  - "1"
+---
 Capo degli [[Undertow]] e fan della cultura pop americana anni '50. Non è particolarmente sveglio, ma dispone di un carisma grezzo che ispira giovani teste calde senza nulla da perdere.
