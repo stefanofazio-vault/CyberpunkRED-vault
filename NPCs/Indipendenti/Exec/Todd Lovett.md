@@ -1,0 +1,1 @@
+Proprietario dell'[[Europa Meatworks]]. Non è chiaro dove acquisisca la carne per la sua macelleria.

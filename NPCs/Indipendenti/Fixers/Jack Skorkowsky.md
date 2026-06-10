@@ -1,0 +1,1 @@
+Un ex-solo che ora lavora come agente immobiliare. Ha un ufficio nel [[Cortex Complex]].
