@@ -1,2 +1,2 @@
 #### Madam Yap's
-Clinica tradizionale e di agopuntura con sede in un vecchio hotel a [[Little China]]. I trattamenti qui sono di primo livello e di conseguenza molto costosi.
+Clinica tradizionale e di agopuntura con sede in un vecchio hotel a [[Little China]]. I trattamenti qui sono di primo livello e di conseguenza molto costosi. Tutte le stanze hanno cimici al loro interno, ma la proprietaria, [[Madam Yap]], è molto onesta a riguardo.

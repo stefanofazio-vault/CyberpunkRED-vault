@@ -1,0 +1,1 @@
+Custode del tempio che c'era prima nel sito del[[La perdita]]. Ancora oggi, cura la statua che è rimasta.

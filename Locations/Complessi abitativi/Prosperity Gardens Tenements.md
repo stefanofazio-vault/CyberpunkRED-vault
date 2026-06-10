@@ -1,2 +1,2 @@
 #### Prosperity Gardens Tenements
-Un quartiere a [[Little China]] composto da svariati appartamenti di stili tra di loro incoerenti che ospitano decisamente troppe persone. Per qualche motivo, è il posto più sicuro dove dormire del quartiere.
+Un quartiere a [[Little China]] composto da svariati appartamenti di stili tra di loro incoerenti che ospitano decisamente troppe persone. Per qualche motivo, è il posto più sicuro dove dormire del quartiere. Viene curato da [[Auntie Hung]].
