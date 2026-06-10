@@ -1,0 +1,1 @@
+Proprietario del [[Buffalo's]] ed esperto di *San Francisco Global Cuisine*. Figlio del precedente barista del Buffalo's.

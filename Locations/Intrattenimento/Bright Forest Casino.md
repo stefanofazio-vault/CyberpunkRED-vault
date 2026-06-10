@@ -1,2 +1,2 @@
 #### Bright Forest Casino
-Un casinò con sede in una vecchia stazione doganale ad [[Upper Marina]]. Lo stile classico del casinò, con roulette e tavoli in finto legno, ben si sposa con la stanza "Oggetti da dichiarare" che ora ospita la hall.
+Un casinò con sede in una vecchia stazione doganale ad [[Upper Marina]]. Lo stile classico del casinò, con roulette e tavoli in finto legno, ben si sposa con la stanza "Oggetti da dichiarare" che ora ospita la hall. Proprietà di [[Marion Robinson]].

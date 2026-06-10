@@ -1,0 +1,1 @@
+Giocatore di *Nuke* presso il [[McCartney Field Stadium]].

@@ -1,0 +1,1 @@
+Proprietario di un negozio per netrunner presso il [[Crystal Park Market]]. 

@@ -1,0 +1,1 @@
+Proprietario di un negozio di scarpe presso il [[Crystal Park Market]].

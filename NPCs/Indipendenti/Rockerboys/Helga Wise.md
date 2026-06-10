@@ -1,0 +1,1 @@
+Artista e pittrice che attualmente ha una mostra in esposizione presso il [[GraffitiX]].

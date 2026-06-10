@@ -1,0 +1,1 @@
+*Solo* leggendaria e proprietaria del [[The Afterlife]]. 
