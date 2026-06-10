@@ -1,1 +1,7 @@
+---
+role:
+  - solo
+rank:
+  - "6"
+---
 *City manager* di [[Little Europe]], Amanda è di origine americo-polacca ed è una ex-soldatessa. Ha una faida con [[Emilia Ortega]] e per danneggiarne la figura finanza gli [[Undertow]] nelle loro proteste a [[Downtown]].

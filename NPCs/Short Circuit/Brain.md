@@ -1,3 +1,11 @@
+---
+role:
+  - tech
+  - netrunner
+rank:
+  - "6"
+  - "2"
+---
 ![[Brain.png|300]]
 Brain è il fondatore, insieme al marito e partner in affari [[3-Piece]], dello [[Short Circuit]]. I due gestiscono il locale insieme alla figlia [[Bug]]. 
 

@@ -1,1 +1,7 @@
+---
+role:
+  - rockerboy
+rank:
+  - "5"
+---
 DJ che trasmette per [[101.1 Killzone]], con una predilizione per l'hard rock.
