@@ -1,0 +1,1 @@
+Una *croupier* di blackjack al [[The Molly May]]. Ha una dipendenza da *synthcoke* che potrebbe essere sfruttata per entrare di sbieco nel locale.
