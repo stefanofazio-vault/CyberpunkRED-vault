@@ -1,3 +1,13 @@
+---
+role:
+  - fixer
+  - medtech
+  - tech
+rank:
+  - "9"
+  - "4"
+  - "4"
+---
 ![[Hornet.png|300]]
 [[#Background]]
 [[#Personalità]]
@@ -13,6 +23,8 @@ Negli anni successivi, ha stretto alleanze con una lunga serie di clan di nomadi
 
 Nel 2045 è uno dei fixer più rispettati della città. 
 Non viene mai visto senza la sua guardia del corpo [[Fox]].
+
+È uno dei principali sponsor degli [[Iron Sights]].
 
 ---
 #### Personalità
