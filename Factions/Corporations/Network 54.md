@@ -2,5 +2,5 @@ Megacorporazione americana di telecomunicazioni e che gestisce il più grande ne
 
 Membri notevoli:
 [[Jim Andrews]]
-[[Hobbes]]
+[[Thomas Watterson]]
 [[Mr. Bunny]]

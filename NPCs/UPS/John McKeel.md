@@ -1,1 +1,1 @@
-Fondatore e CEO di [[UPS]] e mentore di [[Hobbes]]. Amico di [[Jim Andrews]].
+Fondatore e CEO di [[UPS]] e mentore di [[Thomas Watterson]]. Amico di [[Jim Andrews]].

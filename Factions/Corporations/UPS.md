@@ -1,3 +1,3 @@
 Piccola corpo editoriale fondata da [[John McKeel]].
 
-[[Hobbes]] ne ha precedentemente fatto parte.
+[[Thomas Watterson]] ne ha precedentemente fatto parte.

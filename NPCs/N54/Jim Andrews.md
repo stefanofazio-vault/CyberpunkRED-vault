@@ -1,1 +1,1 @@
-Ex-editore di [[Hobbes]] e dipendente di [[Network 54]]. 
+Ex-editore di [[Thomas Watterson]] e dipendente di [[Network 54]]. 

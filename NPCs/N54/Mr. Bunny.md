@@ -1,1 +1,1 @@
-Collega di [[Hobbes]] e dipendente di [[Network 54]].
+Collega di [[Thomas Watterson]] e dipendente di [[Network 54]].
