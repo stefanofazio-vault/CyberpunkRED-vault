@@ -2,7 +2,7 @@
 role:
   - solo
   - lawman
-  - exec
+  - fixer
 rank:
   - "4"
   - "4"
