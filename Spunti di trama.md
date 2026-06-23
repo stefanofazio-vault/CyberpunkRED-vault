@@ -20,11 +20,16 @@ SovOil ha contatti con il Consortium e ha fatto sì che [[Loki]] fosse rapito da
 
 I punti deboli della struttura che circonda Mr. X, attualmente, sono i seguenti:
 - [[Valya]], leader del Consortium (Fixer 6, controllo limitato al porto e poco oltre)
+	- [[Petar Gunn]] ha nel corso degli anni scalato la gerarchia del Consortium fino ad arrivare ad essere uno dei diretti luogotenenti di Valya.
 - [[Agnessa Viktorova]], leader dei Vyriy (Exec 6 / Solo 2, controllo delle tratte commerciali.)
 	- [[Ivan]], un membro dei Vyriy, gira spesso per Night City con l'intento di "bere in tutti i bar che la città ha da offrire".
 - [[Ivan Vetrov]], dipendente di SovOil, padre di [[Yelena Olga Vetrov|Yelena]]. (Exec 7, accesso ai database di SovOil)
 	- [[Dimitri Vladimir Vetrov]] è diretto successore. Nel caso di morte di Ivan, lui prenderebbe il posto.
+	- [[Dimitri Romanov]] conosce Ivan. La fedeltà a SovOil è pressoché totale. 
 - [[Chloe Ashton]], responsabile in Network 54 della divisione *screamsheet*. Effettua censura per Mr. X. (Media 4 / Exec 4)
+	- [[Rosa Lyn]] è estremamente compiacente nei confronti del superiore e opera spesso come braccio destro.
 - [[Valentin Komarov]], leader di un gruppo di Scavengers. (solo 4 / lawman 4 / fixer 2)
+	- [[Ilya 'Razor' Malenkov]] svolge tutt'ora operazioni per conto di Valentin. 
+	- [[Sofiya Fedorova]] è tutt'ora sotto il comando di Valentin, ma dimostra segni di incompatibilità. 
 
 
