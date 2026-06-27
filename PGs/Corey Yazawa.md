@@ -55,18 +55,18 @@ Durante la riunione, Corey conosce [[Maël De Armas]], [[Andres 'Timbò' Yanonam
 Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], il progetto e il prototipo di un ritrovato tecnologico sviluppato da [[Militech]] (l'[[AI-LF]]).
 Corey, come gli altri, accetta il lavoro e iniziano i preparativi.
 
-Corey rimane quindi coinvolta nel [[Sessione 1 - Recupero dei progetti|recupero dei progetti]].
+Corey rimane quindi coinvolta nel [[Sessione A1 - Recupero dei progetti|recupero dei progetti]].
 
 Subito dopo la prima parte del lavoro, Maël ingaggia Corey per una settimana di terapia.
 
 Dopo un ulteriore riunione, la crew riceve consiglio da Robin riguardo il procurarsi l'equipaggiamento adatto per assaltare il convoglio che trasporta il prototipo.
 Per fare ciò, Bellamy riesce a procurare l'invito presso un Mercato Notturno.
-Durante la [[Sessione 2 - Visita al Mercato Notturno|visita al Mercato Notturno]], Corey assiste alla scena di uno dei venditori che giustizia un giovane ragazzo che aveva provato a rubare dell'equipaggiamento. Questo avvenimento la turba profondamente.
+Durante la [[Sessione A2 - Visita al Mercato Notturno|visita al Mercato Notturno]], Corey assiste alla scena di uno dei venditori che giustizia un giovane ragazzo che aveva provato a rubare dell'equipaggiamento. Questo avvenimento la turba profondamente.
 
 Per provare a distrarsi dagli avvenimenti recenti, Corey contatta la sua amica Lorelei, chiedendole di uscire per una cena.
 
 Una volta ottenuto l'equipaggiamento per l'assalto, Robin consiglia di entrare in contatto con gli [[Aldecaldo]], che presiedono la zona dove il convoglio dovrà passare.
-Durante la riunione con gli Aldecaldo, il loro capo, [[Joshua Travis]], chiede un favore per un favore: in virtù di ciò, la crew rimane coinvolta, il 31 ottobre, nel [[Sessione 3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]].
+Durante la riunione con gli Aldecaldo, il loro capo, [[Joshua Travis]], chiede un favore per un favore: in virtù di ciò, la crew rimane coinvolta, il 31 ottobre, nel [[Sessione A3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]].
 Durante questa missione, Corey comincia a rendersi conto della mancanza di empatia di buona parte dei suoi compagni (ecluso Maël). Questo avvenimento la mette in guardia per il futuro.
 
 ##### Novembre
@@ -75,7 +75,7 @@ Qualche giorno dopo uno dei pochi superstiti del rituale dei [[Voodoo Boys]] si 
 Corey, negli stessi giorni, viene incaricata di installare un cyberbraccio su [[Adrienne Montgomery]], su incarico di $€4N.
 Allo stesso modo, si occupa di installare un nuovo cyberbraccio su Maël.
 
-Il 17 novembre la crew rimane coinvolta nell'[[Sessione 4 - Assalto al convoglio|assalto al convoglio]]. Qui, ancora una volta, Corey assiste ad una scena molto cruda: Bellamy decide infatti di giustiziare tutti i superstiti sulla scena. 
+Il 17 novembre la crew rimane coinvolta nell'[[Sessione A4 - Assalto al convoglio|assalto al convoglio]]. Qui, ancora una volta, Corey assiste ad una scena molto cruda: Bellamy decide infatti di giustiziare tutti i superstiti sulla scena. 
 
 Nel periodo immediatamente successivo all'assalto, Corey risulta molto impegnata: tratta infatti le ferite di $€4N, riparandogli la mandibola, di Timbò, stabilizzandogli le fratture alle costole, e quelle superficiali di Bellamy.
 
@@ -85,7 +85,7 @@ Sentite le affermazioni di [[Eliza Coda]] riguardo "J", Corey mette quindi in co
 
 Infine, con l'aiuto di $€4N, Corey riesce finalmente a riparare il suo studio.
 
-Nell'ottica di procurarsi un *netrunner* per ottenere dati su Aiden e sulle squadre di assalto che Militech ha sguinzagliato, Bellamy offre un lavoro alla crew: salvare [[4D4M4NT]] dal [[Totentanz]]. La crew rimane quindi coinvolta nel [[Sessione 5 - Il Totentanz|salvataggio di 4D4M4NT]].
+Nell'ottica di procurarsi un *netrunner* per ottenere dati su Aiden e sulle squadre di assalto che Militech ha sguinzagliato, Bellamy offre un lavoro alla crew: salvare [[4D4M4NT]] dal [[Totentanz]]. La crew rimane quindi coinvolta nel [[Sessione A5 - Il Totentanz|salvataggio di 4D4M4NT]].
 
 ##### Dicembre
 Una volta nascosto il prototipo nell'appartamento di [[Little Europe]], Corey e $€4N lo analizzano il più approfonditamente possibile, apprendendo alcuni dettagli sul suo funzionamento.
@@ -94,7 +94,7 @@ Timbò, inoltre, chiede a sorpresa l'aiuto di Corey per della terapia.
 
 Corey passa, come gli ultimi anni, il Natale con Alphonsus.
 
-Il 31 dicembre Corey rimane coinvolta con la crew nella [[Sessione 6 - Festa di Militech|festa di Capodanno di Militech]].
+Il 31 dicembre Corey rimane coinvolta con la crew nella [[Sessione A6 - Festa di Militech|festa di Capodanno di Militech]].
 
 #### 2046
 ##### Gennaio
@@ -102,22 +102,22 @@ Una volta ricevute le informazioni da 4D4M4NT, Corey contatta nuovamente Lorelei
 
 La crew decide che il miglior modo per ottenere informazioni riguardanti il prototipo sia rapire Aiden. Per fare ciò, Corey si informa con Alphonsus su come funzioni nello specifico la chiamata verso [[Trauma Team]] in modo tale da rapirlo efficacemente.
 
-Il 7 gennaio la crew si riunisce per definire nello specifico come rapire Aiden. Il 14 gennaio, dopo una settimana di ricognizione, la crew [[Sessione 7 - Rapimento di Aiden|rapisce Aiden]].
+Il 7 gennaio la crew si riunisce per definire nello specifico come rapire Aiden. Il 14 gennaio, dopo una settimana di ricognizione, la crew [[Sessione A7 - Rapimento di Aiden|rapisce Aiden]].
 
 Nei giorni successivi il rapimento, Victor torna da Corey, ammettendo la necessità di una sessione di terapia. Durante questa settimana, emerge come il ragazzo stia pensando di lasciare il clan per diventare un *netrunner*.
 
-Il 22 gennaio la crew [[Sessione 8 - Mediazione con gli Zoners|fa da mediatrice per gli Zoners]], in seguito ad una offerta di lavoro arrivata a Bellamy.
+Il 22 gennaio la crew [[Sessione A8 - Mediazione con gli Zoners|fa da mediatrice per gli Zoners]], in seguito ad una offerta di lavoro arrivata a Bellamy.
 Corey, al quartier generale degli [[Zoners]], fornisce supporto ad alcuni sfollati insieme a Maël.
 
-Il 29 gennaio Timbò, Bellamy e $€4N cadono trappola di [[Warrick Sherwood]], che in cambio di informazioni su Jaylin e dello scioglimento delle squadre di assalto li obbliga a partecipare all'[[Sessione 9 - Disturbi sulla Linea Nera|operazione "Disturbi sulla Linea Nera"]].
+Il 29 gennaio Timbò, Bellamy e $€4N cadono trappola di [[Warrick Sherwood]], che in cambio di informazioni su Jaylin e dello scioglimento delle squadre di assalto li obbliga a partecipare all'[[Sessione A9 - Disturbi sulla Linea Nera|operazione "Disturbi sulla Linea Nera"]].
 
 ##### Febbraio
-Grazie alle informazioni ottenute da Sherwood, la crew scopre l'esistenza del [[Sito di ricerca Alpha]], dove avviene il [[Sessione 10 - Il laboratorio|scontro con Eliza Coda e Jemmy Tasker]].
+Grazie alle informazioni ottenute da Sherwood, la crew scopre l'esistenza del [[Sito di ricerca Alpha]], dove avviene il [[Sessione A10 - Il laboratorio|scontro con Eliza Coda e Jemmy Tasker]].
 In seguito all'eliminazione a sangue freddo di Eliza da parte di Timbò, Corey si allontana furiosa dal gruppo per la serata.
 
-Il 26 febbraio 2046 la crew si reca presso l'[[Sessione 11 - L'appartamento di Jaylin|appartamento di Jaylin]], dove vengono rinvenuti alcuni vlog di Jaylin stesso dove viene confermata la sua colpevolezza nell'omicidio dei genitori di Corey.
+Il 26 febbraio 2046 la crew si reca presso l'[[Sessione A11 - L'appartamento di Jaylin|appartamento di Jaylin]], dove vengono rinvenuti alcuni vlog di Jaylin stesso dove viene confermata la sua colpevolezza nell'omicidio dei genitori di Corey.
 
-Ottenuta la chiave di sicurezza per il [[Sito di ricerca Delta]], la crew vi si reca, dove avviene lo [[Sessione 12 - Scontro con Jaylin|scontro con Jaylin]].
+Ottenuta la chiave di sicurezza per il [[Sito di ricerca Delta]], la crew vi si reca, dove avviene lo [[Sessione A12 - Scontro con Jaylin|scontro con Jaylin]].
 
 Il fratello di Timbò, provato dagli anni di prigionia e dai vari esperimenti che ha subito, ha bisogno di un'operazione urgente. 
 Corey, dopo aver avvisato Alphonsus di preparare la clinica, accompagna Timbò in macchina che riesce ad arrivare presso la Clinica Vogel giusto in tempo.

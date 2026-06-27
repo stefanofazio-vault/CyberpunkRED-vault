@@ -60,7 +60,7 @@ Il 20 ottobre 2045 una riunione viene fissata al Born This Way, dove Bellamy con
 Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], il progetto e il prototipo di un ritrovato tecnologico sviluppato da [[Militech]] (l'[[AI-LF]]).
 Bellamy, come gli altri, accetta il lavoro e iniziano i preparativi.
 
-In seguito a questa prima riunione, Bellamy rimane coinvolto nel [[Sessione 1 - Recupero dei progetti|recupero dei progetti]].
+In seguito a questa prima riunione, Bellamy rimane coinvolto nel [[Sessione A1 - Recupero dei progetti|recupero dei progetti]].
 
 Durante le fasi preparatorie della missione, Jonathan Fox decide di mandare qualcuno a vandalizzare il Born This Way come atto di vendetta nei confronti di Bellamy.
 
@@ -70,19 +70,19 @@ Bellamy si fa scappare dei dettagli riguardanti la situazione con Fox.
 Fubuki, oltretutto, consente a Bellamy di ottenere un invito per lui e per la sua crew per il Mercato Notturno tenuto da [[Hornet]]. 
 Il Mercato Notturno è necessario per procurarsi l'equipaggiamento necessario per rubare il prototipo a Militech.
 
-Durante [[Sessione 2 - Visita al Mercato Notturno|la visita della crew al Mercato Notturno]], Bellamy conosce Hornet in seguito ad una piccola commozione che viene gestita con l'aiuto di Maël. 
+Durante [[Sessione A2 - Visita al Mercato Notturno|la visita della crew al Mercato Notturno]], Bellamy conosce Hornet in seguito ad una piccola commozione che viene gestita con l'aiuto di Maël. 
 
 Qualche giorno dopo il Mercato, Bellamy si concede una cena con Fubuki. In questa occasione, Fubuki lascia intendere di aver gestito il problema di Jonathan Fox.
 Inoltre, su indicazione di Timbò, Bellamy entra in contatto con [[Alejandro Yanomami]], che fornisce vari suggerimenti su come contrattare al meglio con [[Joshua Travis]], capo degli [[Aldecaldo]], che su indicazione di Robin è un alleato importante per il successo del colpo. 
 
-La crew, nei giorni successivi, entra in contatto con gli Aldecaldo. In questa occasione, Joshua chiede un favore per un favore. In seguito a questa richiesta, la crew rimane coinvolta nel [[Sessione 3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]] il 31 ottobre 2045.
+La crew, nei giorni successivi, entra in contatto con gli Aldecaldo. In questa occasione, Joshua chiede un favore per un favore. In seguito a questa richiesta, la crew rimane coinvolta nel [[Sessione A3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]] il 31 ottobre 2045.
 
 ##### Novembre
 In attesa che arrivi la data dell'assalto al convoglio (prevista per il 17 novembre 2045) Bellamy decide di espandere la propria rete di contatti nel mondo corporativo. In funzione di ciò, smuove qualche contatto che riesce a procurargli un invito per la festa di [[Biotechnica]] presso il [[La Lune Bleu]]. 
 
 Durante questa festa, Bellamy conosce [[Angelica Agnelli]]. 
 
-Il 17 novembre 2045, la crew rimane coinvolta nell'[[Sessione 4 - Assalto al convoglio|assalto al convoglio]].
+Il 17 novembre 2045, la crew rimane coinvolta nell'[[Sessione A4 - Assalto al convoglio|assalto al convoglio]].
 Dopo l'assalto, Bellamy decide di non correre rischi e giustizia a sangue freddo le guardie rimaste vive. 
 
 In seguito alla chiamata di Robin, con la quale quest'ultima avverte la crew di lasciare perdere il prototipo e di nascondersi, Bellamy incarica alcuni contatti di trovare un nascondiglio sicuro per il maltolto. Viene identificato a questo fine un appartamento a [[Little Europe]]. 
@@ -90,7 +90,7 @@ In seguito alla chiamata di Robin, con la quale quest'ultima avverte la crew di 
 Inoltre, dopo aver sentito da [[Eliza Coda]] parlare di un certo "J", Bellamy si fa mettere in contatto da Corey con [[Lorelei Delgado]], una dipendente di Militech che sostiene di aver visto "J" alcune volte in passato, accompagnato da alcuni dipendenti di alto rango. Lorelei conferma, di fatto, che J è Jaylin, commentando l'estrema somiglianza tra Bellamy e quest'ultimo.
 
 Infine, nel tentativo di ottenere informazioni su [[Aiden]], la cui firma è stata trovata sul prototipo, Bellamy riceve da Angelica il compito di recuperare [[4D4M4NT]] dal [[Totentanz]]. 
-In seguito a questa richiesta, Bellamy e la crew rimangono coinvolti nel [[Sessione 5 - Il Totentanz|recupero al Totentanz]], durante il quale Bellamy conosce [[Warlock]], attuale capo degli [[Aldecaldo]], e [[Flenser]], sua seconda in comando.
+In seguito a questa richiesta, Bellamy e la crew rimangono coinvolti nel [[Sessione A5 - Il Totentanz|recupero al Totentanz]], durante il quale Bellamy conosce [[Warlock]], attuale capo degli [[Aldecaldo]], e [[Flenser]], sua seconda in comando.
 
 ##### Dicembre
 Grazie alla paga, Bellamy paga completamente le riparazioni per i danni subiti al Born This Way per colpa di Fox.
@@ -100,7 +100,7 @@ Alla fine di questa serata, Fubuki si fa avanti, rendendo palesi le sue intenzio
 Qualche giorno dopo, tuttavia, una serie di messaggi felici di Fubuki parlano di "un cambio di idea" da parte di Bellamy e di una "magnifica notte spesa insieme". Il fixer capisce quindi che Jaylin si è finto lui per avvicinarsi a Fubuki, probabilmente per puro diletto.
 Nel momento in cui Fubuki scopre questo fatto, rimane shockato.
 
-Il 31 dicembre la crew rimane coinvolta nell'operazione durante la [[Sessione 6 - Festa di Militech|festa di Capodanno in Militech]]. 
+Il 31 dicembre la crew rimane coinvolta nell'operazione durante la [[Sessione A6 - Festa di Militech|festa di Capodanno in Militech]]. 
 
 #### 2046
 ##### Gennaio
@@ -119,13 +119,13 @@ Con il gruppo, viene deciso che il modo più sensato di proseguire nelle indagin
 Nei dati forniti da 4D4M4NT c'è inoltre riferimento a [[Warrick Sherwood]]: il responsabile dell'organizzazione delle squadre di assalto che stanno dando la caccia a chi ha assaltato il convoglio. Bellamy chiede informazioni ad Angelica riguardo quest'ultimo, senza ottenere però granché.
 
 Il 7 gennaio la crew si riunisce per valutare come eseguire il rapimento di Aiden. La settimana successiva viene riservata alle ricognizioni di Timbò.
-Il 14 gennaio la crew rimane coinvolta nel [[Sessione 7 - Rapimento di Aiden|rapimento di Aiden]]. Una volta portato a compimento, Bellamy, insieme agli altri, lo interroga presso la [[K.A.T.]], ottenendo però poche informazioni di rimando. Ammette, però, di aver lavorato sull'AI-LF fino a pochi anni prima.
+Il 14 gennaio la crew rimane coinvolta nel [[Sessione A7 - Rapimento di Aiden|rapimento di Aiden]]. Una volta portato a compimento, Bellamy, insieme agli altri, lo interroga presso la [[K.A.T.]], ottenendo però poche informazioni di rimando. Ammette, però, di aver lavorato sull'AI-LF fino a pochi anni prima.
 
 Il giorno dopo, la crew stringe un accordo con Aiden: viene lasciato andare, a patto che fornisca fondi e informazioni regolarmente.
 
 Negli stessi giorni, Bellamy incontra [[Nemo]] al Born This Way, che offre un lavoro alla crew: una mediazione tra [[Zoners]] e [[6th Street]], da compiersi il 22 gennaio.
 
-La crew accetta il lavoro e il 22 gennaio viene coinvolta nella [[Sessione 8 - Mediazione con gli Zoners|mediazione per gli Zoners]].
+La crew accetta il lavoro e il 22 gennaio viene coinvolta nella [[Sessione A8 - Mediazione con gli Zoners|mediazione per gli Zoners]].
 
 [[Tyler|Z€N1TH]] segnala la presenza di furgoni Militech che girano nel [[Glen]], vicino alla [[SerpentZ]]. La crew decide quindi di mantenere un basso profilo per quanto tempo sarà necessario.
 Volendo attirare l'attenzione corporativa lontana dalle proprie zone di influenza, Bellamy e $€4N decidono di affittare un motel insieme per nascondersi.
@@ -139,7 +139,7 @@ Warrick propone un lavoro semplice, in cambio della libertà dalle squadre di as
 In seguito a questa decisione, la crew smette di nascondersi.
 
 ##### Febbraio
-L'11 febbraio 2046 la crew esegue l'operazione "[[Sessione 9 - Disturbi sulla Linea Nera|Disturbi sulla Linea Nera]]".
+L'11 febbraio 2046 la crew esegue l'operazione "[[Sessione A9 - Disturbi sulla Linea Nera|Disturbi sulla Linea Nera]]".
 
 Il giorno dopo l'operazione, in occasione di una festa organizzata da Maxime Raunch per festeggiare Bellamy, che ha contribuito economicamente alla maggior parte delle riparazioni del locale, viene rinvenuta [[Aurora]] svenuta in camera sua.
 Dopo aver portato velocemente la ballerina alla [[Clinica Vogel]], per essere curata da Corey, Bellamy analizza le riprese delle telecamere di sicurezza con $€4N, per scoprire chi è stato a drogarla. 
@@ -152,7 +152,7 @@ Warrick Sherwood, in seguito all'operazione "Disturbi sulla Linea Nera", fornisc
 
 Inoltre, qualche giorno dopo Bellamy viene contattato direttamente da Jaylin, tramite un telefono non rintracciabile. Jaylin punzecchia Bellamy, facendolo ragionare su quanto abbia da perdere e quanto poco abbia da guadagnare guastandogli gli affari.
 
-Grazie alle informazioni di Warrick, la crew si reca presso il [[Sito di ricerca Alpha]], dove si scopre l'ubicazione del [[Sito di ricerca Delta]] e dell'appartamento di Jaylin a Night City. Qui si tiene lo [[Sessione 10 - Il laboratorio|scontro con Eliza Coda e Jemmy Tasker]].
+Grazie alle informazioni di Warrick, la crew si reca presso il [[Sito di ricerca Alpha]], dove si scopre l'ubicazione del [[Sito di ricerca Delta]] e dell'appartamento di Jaylin a Night City. Qui si tiene lo [[Sessione A10 - Il laboratorio|scontro con Eliza Coda e Jemmy Tasker]].
 
 Dopo lo scontro, Bellamy, $€4N e Andres interrogheranno [[Jemmy Tasker]] ottenendo poche informazioni utili e, apparentemente, uccidendolo provocandogli una ferita sulla gamba che lo porterà a morire dissanguato.
 
@@ -164,10 +164,10 @@ Fubuki, divertito, non fornisce nessun tipo di aiuto, ma fa presente di tornare 
 
 Per finire, Bellamy ottiene dell'equipaggiamento particolare da Angelica Agnelli.
 
-Il 14 febbraio, la crew si reca presso  l'[[Sessione 11 - L'appartamento di Jaylin|appartamento di Jaylin]], dove vengono trovati dei vlog registrati dallo stesso Jaylin in cui ammette la colpevolezza di una serie di colpe commesse nel corso degli anni. 
+Il 14 febbraio, la crew si reca presso  l'[[Sessione A11 - L'appartamento di Jaylin|appartamento di Jaylin]], dove vengono trovati dei vlog registrati dallo stesso Jaylin in cui ammette la colpevolezza di una serie di colpe commesse nel corso degli anni. 
 Qui, inoltre, la crew ottiene la chiave d'accesso per il Sito di Ricerca Delta. La crew decide di recarvisi immediatamente.
 
-Una volta qui, la crew rimane coinvolta nello [[Sessione 12 - Scontro con Jaylin|scontro con Jaylin]], in cui quest'ultimo rimane ucciso dopo essere stato posseduto dalla [[IA Selvaggia]] che aveva provato a domare.
+Una volta qui, la crew rimane coinvolta nello [[Sessione A12 - Scontro con Jaylin|scontro con Jaylin]], in cui quest'ultimo rimane ucciso dopo essere stato posseduto dalla [[IA Selvaggia]] che aveva provato a domare.
 
 Qui, tra gli altri prigionieri, è presente Robin Maldonado, che era sparita ormai da mesi.
 Bellamy, non soddisfatto delle risposte ottenute e incuriosito dal commento fatto da Jaylin una volta scoperte le identità della crew, fissa un appuntamento con Robin per discutere di chi le abbia fornito le informazioni sul prototipo in primo luogo.
