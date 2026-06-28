@@ -1,5 +1,5 @@
 ### Premessa
-Thomas si sveglia un giorno dell'aprile 2046 nel proprio appartamento. 
+[[Thomas Watterson]] si sveglia un giorno dell'aprile 2046 nel proprio appartamento. 
 Sul suo *agent* è arrivato un messaggio da [[Rosa Lyn]]: come al solito, gli è stato scaricato addosso un lavoro ingrato. 
 Uno dei *reporter* di [[Network 54]] è rimasto ferito in una sparatoria durante delle indagini per il suo ultimo articolo e ora c'è il bisogno urgente di un nuovo pezzo per riempire le pagine dello *screamsheet*.
 Le pretese sono molto basse: l'importante è riempire la pagina. 
