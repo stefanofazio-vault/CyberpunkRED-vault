@@ -32,4 +32,25 @@ I punti deboli della struttura che circonda Mr. X, attualmente, sono i seguenti:
 	- [[Ilya 'Razor' Malenkov]] svolge tutt'ora operazioni per conto di Valentin. 
 	- [[Sofiya Fedorova]] è tutt'ora sotto il comando di Valentin, ma dimostra segni di incompatibilità. 
 
+---
+
+Gli indizi che la crew può trovare sono i seguenti:
+- Consortium <-> Scavengers
+	- Incontri comuni e regolari tra alcuni membri del Consortium e alcuni Scavengers
+	- Possesso da parte del Consortium di cyberware con seriale appartenente a persone scomparse
+	- Segni tipici del passaggio di Sofiya in punti di ritrovo del Consortium 
+	- Trasporto da parte del Consortium di casse di equipaggiamento rubato
+	- Presenza di Ilya nella zona del porto
+	- Presenza di Petar in zone controllate dagli Scavengers
+- Consortium <-> Vyriy 
+	- Conoscenza di [[Dasan Tan]] di dinamiche pre-esistenti
+	- Frequentazione degli stessi posti di ritrovo
+	- Ivan, se trovato, potrebbe parlare della presenza di Valya e di altri del Consortium a riunioni di clan
+- Consortium <-> SovOil 
+	- Presenza di prodotti SovOil (come i lubrificanti - di ogni natura) e di carburante SovOil nei punti di ritrovo del Consortium
+	- Dotazione da parte del Consortium di due SovOil MI-60 (AV-4) e di un SovOil Bombardier.
+- Consortium <-> Mr. X 
+	- Telefonate sull'agent di Valya riferite ad un certo Xavier.
+	- Bonifici da un conto off-shore regolari sia al conto privato di Valya che a quello "funzionale" del Consortium. 
+- 
 
