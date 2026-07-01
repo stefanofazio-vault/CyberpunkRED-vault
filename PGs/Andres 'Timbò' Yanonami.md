@@ -73,16 +73,16 @@ Durante questo incontro, Andres conosce quella che sarebbe diventata la sua crew
 Il lavoro proposto da Robin è il seguente: rubare, per conto di [[Zetatech]], il progetto e il prototipo di un ritrovato tecnologico sviluppato da [[Militech]] (l'[[AI-LF]]).
 Andres, come gli altri, accetta il lavoro e iniziano i preparativi. 
 
-In seguito a questa prima riunione, Andres rimane coinvolto nel [[Sessione 1 - Recupero dei progetti|recupero dei progetti]]. Durante il lavoro, Andres trova, sui progetti, il nome di Joji scarabocchiato in una lista comprendente una serie di altri nomi.
+In seguito a questa prima riunione, Andres rimane coinvolto nel [[Sessione A1 - Recupero dei progetti|recupero dei progetti]]. Durante il lavoro, Andres trova, sui progetti, il nome di Joji scarabocchiato in una lista comprendente una serie di altri nomi.
 Dopo aver incassato la prima parte del compenso, Andres contatta immediatamente Alejandro, che sembra stupito della presenza del nome del fratello lì.
 
 Durante la prima fase del lavoro, Andres comincia già a provare fastidio nei confronti dei propri compagni di squadra, che sono chiassosi e a suo parere invadenti.
 
-In seguito a ciò, la crew [[Sessione 2 - Visita al Mercato Notturno|visiterà un mercato notturno]] per prepararsi all'assalto al convoglio.
+In seguito a ciò, la crew [[Sessione A2 - Visita al Mercato Notturno|visiterà un mercato notturno]] per prepararsi all'assalto al convoglio.
 
 Dopo gli avvenimenti del Mercato Notturno e seguendo i consigli di Robin viene deciso che il prossimo *step* del lavoro sarà contattare [[Joshua Travis]], il capo degli [[Aldecaldo]] a Night City, per chiedere supporto. In vista di ciò, Andres mette in contatto Bellamy con Alejandro, così che possa ricevere delle dritte su come trattare. 
 
-Con gli altri, il 31 stesso del mese, verrà coinvolto nel [[Sessione 3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]] come effetto collaterale del favore richiesto da Joshua in cambio del suo supporto.
+Con gli altri, il 31 stesso del mese, verrà coinvolto nel [[Sessione A3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]] come effetto collaterale del favore richiesto da Joshua in cambio del suo supporto.
 
 ##### Novembre
 In vista dell'assalto, Andres contatta [[Matthew Travis]], figlio di Joshua, per ottenere consigli su come preparare l'assalto dal punto di vista logistico. Gli verrà consigliato di appostarsi nel deserto, ancora prima che il convoglio entri a [[Rancho Coronado]].
@@ -91,7 +91,7 @@ Inoltre, nello stesso periodo, durante un pomeriggio di lavoro all'Esnupi, nota,
 
 Kaya, nello stesso periodo, solleva dei dubbi riguardo la salute mentale di Andres, che da quando il nome di Joji è saltato fuori è peggiorata nuovamente: Andres è iperfissato sul ritrovamento di Joji e non dorme, è sempre nervoso e comincia a comportarsi in maniera quasi violenta. La nonna gli suggerisce di andare in terapia, idea che viene dismessa da Andres.
 
-Infine, il 17 di novembre Andres rimarrà coinvolto nell'[[Sessione 4 - Assalto al convoglio|assalto al convoglio]].
+Infine, il 17 di novembre Andres rimarrà coinvolto nell'[[Sessione A4 - Assalto al convoglio|assalto al convoglio]].
 
 Robin, tramite una chiamata fatta con voce affannata, suggerirà alla crew di lasciar perdere il prototipo. Li informa infatti che Militech ha istituito delle squadre di assalto volte a cacciare i colpevoli dell'assalto al convoglio. Suggerisce quindi di volare basso e gli avverte che si nasconderà per un po' di tempo. 
 
@@ -102,12 +102,12 @@ La crew, in questo periodo, affitta un appartamento a [[Little Europe]] per tene
 Durante una di queste occasioni ha una conversazione con $€4N, che come la nonna pochi giorni prima, gli suggerisce di andare in terapia, facendo commenti su come l'atteggiamento di Andres nei confronti degli altri fosse poco costruttivo e potenzialmente pericoloso. Andres, sotto il peso delle responsabilità e dopo non essersi preso cura di sé per molto tempo, crolla di fronte al compagno di squadra. $€4N lo conforta. In seguito a questo evento, Andres decide di andare in terapia. 
 
 ##### Dicembre
-Bellamy segnala alla crew un lavoro che consiste nel recuperare il netrunner [[4D4M4NT]], rapito dai Maelstrom al [[Totentanz]]. 4D4M4NT è necessario per recuperare dati riguardo le squadre di assalto di Militech. Andres viene coinvolto nel [[Sessione 5 - Il Totentanz|salvataggio al Totentanz]]. 
+Bellamy segnala alla crew un lavoro che consiste nel recuperare il netrunner [[4D4M4NT]], rapito dai Maelstrom al [[Totentanz]]. 4D4M4NT è necessario per recuperare dati riguardo le squadre di assalto di Militech. Andres viene coinvolto nel [[Sessione A5 - Il Totentanz|salvataggio al Totentanz]]. 
 
 Andres passa quindi la settimana successiva in terapia presso la clinica di Corey, dove vede un discreto miglioramento della propria condizione. 
 Passa poi serenamente il Natale in famiglia.
 
-Il lavoro seguente viene svolto il 31 dicembre 2045, presso la [[Sessione 6 - Festa di Militech|festa di Capodanno di Militech]].
+Il lavoro seguente viene svolto il 31 dicembre 2045, presso la [[Sessione A6 - Festa di Militech|festa di Capodanno di Militech]].
 I dati fanno scegliere alla crew di rapire Aiden. 
 
 Andres decide di rimanere sotto i radar per il periodo successivo. 
@@ -117,10 +117,10 @@ Andres decide di rimanere sotto i radar per il periodo successivo.
 La crew si riunisce il 7 gennaio 2046 per decidere come rapire Aiden presso la [[Clinica Vogel]].
 La settimana successiva viene utilizzata da Andres per fare ricognizione nelle zone battute da Aiden secondo le informazioni ottenute da Corey.
 
-Il 14 gennaio 2046 avviene il [[Sessione 7 - Rapimento di Aiden|rapimento di Aiden]], seguito da degli interrogatori che si tengono presso la [[K.A.T.]], luogo scelto per tenerlo lontano da occhi indiscreti durante la notte.
+Il 14 gennaio 2046 avviene il [[Sessione A7 - Rapimento di Aiden|rapimento di Aiden]], seguito da degli interrogatori che si tengono presso la [[K.A.T.]], luogo scelto per tenerlo lontano da occhi indiscreti durante la notte.
 Durante l'interrogatorio viene stretto un accordo secondo il quale Aiden sarebbe stato lasciato libero a patto di fornire informazioni utili e denaro nelle settimane successive.
 
-Secondo accordi presi da Bellamy, la squadra si riunisce il 22 gennaio 2046 per la [[Sessione 8 - Mediazione con gli Zoners|mediazione per gli Zoners]]. 
+Secondo accordi presi da Bellamy, la squadra si riunisce il 22 gennaio 2046 per la [[Sessione A8 - Mediazione con gli Zoners|mediazione per gli Zoners]]. 
 
 Durante questo periodo, la crew è costretta a mantenere un basso tenore per timore di essere ricercati da Militech in seguito ad alcune informazioni riguardanti dei furgoni corporativi avvistati da [[Tyler|Z€N1TH]] vicino la [[SerpentZ]]. 
 
@@ -129,22 +129,22 @@ In questa occasione, Kaya conoscerà Bellamy e $€4N, che si sono nascosti insi
 Il 29 gennaio, insieme a Bellamy e $€4N, Andres è vittima della trappola di Aiden, durante la quale ricevono le indicazioni riguardo il lavoro successivo da [[Warrick Sherwood]]. 
 
 ##### Febbraio
-Insieme al resto del gruppo, l'11 febbraio 2046 Andres svolge l'operazione [[Sessione 9 - Disturbi sulla Linea Nera|"Distubi sulla Linea Nera"]]. 
+Insieme al resto del gruppo, l'11 febbraio 2046 Andres svolge l'operazione [[Sessione A9 - Disturbi sulla Linea Nera|"Distubi sulla Linea Nera"]]. 
 
 Il giorno dopo l'operazione, Kaya, spaventata, avverte Andres che Crag, che nell'ultimo periodo aveva legato molto bene con i suoi fratelli e che cominciava a volere bene anche ad Andres stesso, non è più in casa e sembra scappato.
 Andres lo trova ferito da un coltello in un vicolo vicino. Dopo averlo portato presso la Clinica Vogel da Corey per tenerlo stabile, Andres scopre che Craig stesso è uscito di casa armato di coltello da cucina per cercare di vendicarsi dei due bulli che lo tormentavano tenendoli lontani dalla sua nuova casa ma nel processo è rimasto ferito. 
 
 Un paio di giorni dopo l'operazione, [[Joshua Travis]] contatterà la crew riferendo che [[Eliza Coda]] è fuggita dalla propria prigione presso il [[Campo Aldecaldo]]. 
 
-Grazie alle informazioni ricevute da Sherwood dopo l'operazione, la crew scopre l'esistenza del [[Sito di ricerca Alpha]]. Qui si svolgerà lo [[Sessione 10 - Il laboratorio|scontro con Jemmy Tasker ed Eliza]]. 
+Grazie alle informazioni ricevute da Sherwood dopo l'operazione, la crew scopre l'esistenza del [[Sito di ricerca Alpha]]. Qui si svolgerà lo [[Sessione A10 - Il laboratorio|scontro con Jemmy Tasker ed Eliza]]. 
 Qui Andres scopre che Joji è molto probabilmente ancora vivo, a differenza degli altri bambini vittima degli esperimenti.
 Dopo lo scontro, Bellamy, $€4N e Andres interrogheranno [[Jemmy Tasker]] ottenendo poche informazioni utili e, apparentemente, uccidendolo provocandogli una ferita sulla gamba che lo porterà a morire dissanguato.
 
 Andres viene contattato da Corey, che segnala come Craig si sia ripreso completamente. Andres si reca presto in clinica per poi riportarlo a casa.
 
-Seguendo le indicazioni trovate presso il Sito di ricerca Alpha, il 26 febbraio 2046 la crew si dirige verso il [[Sito di ricerca Delta]], dove si trova [[Sessione 11 - L'appartamento di Jaylin|l'appartamento di Jaylin]]. Qui troveranno delle confessioni esplicite dell'operato di [[Jaylin Ichikawa]] e delle indicazioni che porteranno al [[Sito di ricerca Delta]], detto amorevolmente "Sanitarium". 
+Seguendo le indicazioni trovate presso il Sito di ricerca Alpha, il 26 febbraio 2046 la crew si dirige verso il [[Sito di ricerca Delta]], dove si trova [[Sessione A11 - L'appartamento di Jaylin|l'appartamento di Jaylin]]. Qui troveranno delle confessioni esplicite dell'operato di [[Jaylin Ichikawa]] e delle indicazioni che porteranno al [[Sito di ricerca Delta]], detto amorevolmente "Sanitarium". 
 
-Una volta recuperate le informazioni necessarie, la crew si reca infine presso il Sanitarium, dove avviene [[Sessione 12 - Scontro con Jaylin|lo scontro con Jaylin]].
+Una volta recuperate le informazioni necessarie, la crew si reca infine presso il Sanitarium, dove avviene [[Sessione A12 - Scontro con Jaylin|lo scontro con Jaylin]].
 Joji, vivo, necessita di cure immediate. Su indicazione di Corey, Joji e [[Nova]] vengono caricati sull'auto di Andres che nel minor tempo possibile si reca presso la Clinica Vogel, dove grazie ad un intervento tempestivo, Joji viene salvato.
 
 Nei giorni successivi, Joji viene tenuto d'occhio presso la clinica di Corey, dove Alejandro, sfuggendo agli impegni di capo famiglia, si presenta a salutare il fratellino disperso.
