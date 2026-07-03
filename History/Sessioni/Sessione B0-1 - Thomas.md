@@ -25,3 +25,5 @@ Viceversa, gli Zoners avranno dei discreti alibi a loro carico.
 Il fantomatico serial killer "The Claw" sembra essere ritornato in attività, secondo alcune voci. Il killer, a cui è dedicato un altarino presso il [[Gazebo]] non era in attività da un paio di anni. Tuttavia, presso lo stesso Gazebo pare sia comparso un corpo martoriato. Un testimone pare volesse dichiarare quanto visto alla polizia, ma è stato trovato crivellato di colpi lì vicino.
 
 Alcuni agenti di polizia, visibilmente infastiditi, stanno finendo di stilare il rapporto. 
+
+Gli [[Scavengers]] hanno una base lì vicino, al [[White Side]]. In realtà sono stati loro a commettere l'omicidio.
