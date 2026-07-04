@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Corporations/Biotechnica]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

@@ -1,7 +1,9 @@
 ---
 role:
-  - fixer
+- fixer
 rank:
-  - "5"
+- '5'
+location: '[[Locations/Negozi/Basement]]'
 ---
+
 Proprietario del [[Basement]]. Specializzato nel commercio di merci rare.

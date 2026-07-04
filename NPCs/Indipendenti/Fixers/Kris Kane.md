@@ -1,7 +1,9 @@
 ---
 role:
-  - fixer
+- fixer
 rank:
-  - "8"
+- '8'
+location: '[[Locations/Indipendenti/United States Consulate]]'
 ---
+
 Responsabile [[United States Consulate]]. 

@@ -1,1 +1,5 @@
+---
+affiliation: '[[Factions/Corporations/SovOil]]'
+---
+
 Ex-ragazza di [[Thomas Watterson]], dipendente di [[SovOil]], ragazza di [[Mr. Bunny]].

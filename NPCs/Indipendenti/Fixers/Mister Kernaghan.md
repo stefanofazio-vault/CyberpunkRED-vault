@@ -1,7 +1,9 @@
 ---
 role:
-  - fixer
+- fixer
 rank:
-  - "9"
+- '9'
+location: '[[Locations/Bars and clubs/Club Atlantis]]'
 ---
+
 Proprietario del [[Club Atlantis]], nonchè uno dei più potenti fixer di Night City per via del suo controllo quasi totale della catena di approvvigionamento. Il suo obiettivo è trasformare [[Downtown]] in una fortezza del commercio.

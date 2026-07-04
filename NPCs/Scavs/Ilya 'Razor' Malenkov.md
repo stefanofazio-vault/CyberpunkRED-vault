@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Gangs/Scavengers]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

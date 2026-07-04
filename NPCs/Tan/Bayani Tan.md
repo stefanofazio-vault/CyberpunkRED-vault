@@ -1,1 +1,5 @@
+---
+affiliation: '[[Factions/Nomads/Thelas]]'
+---
+
 Nonno di [[Dasan Tan]]. Padre di [[Lakan Tan]] e [[Maria Tan]]. Ha rapporti lavorativi con i [[Thelas]].

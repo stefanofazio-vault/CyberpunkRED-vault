@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Corporations/Arasaka]]'
+---
+
 [[#Background]]
 
 ---

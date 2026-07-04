@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Corporations/Militech]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

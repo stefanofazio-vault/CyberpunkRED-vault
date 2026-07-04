@@ -1,7 +1,9 @@
 ---
 role:
-  - fixer
+- fixer
 rank:
-  - "3"
+- '3'
+location: '[[Locations/Negozi/Retail Resale]]'
 ---
+
 Proprietario del [[Retail Resale]]. 

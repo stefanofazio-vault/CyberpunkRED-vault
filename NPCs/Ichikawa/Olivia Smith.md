@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Corporations/Arasaka]]'
+---
+
 ![[ichikawa.png|300]]
 
 ---

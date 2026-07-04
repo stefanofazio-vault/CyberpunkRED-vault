@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Corporations/SovOil]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

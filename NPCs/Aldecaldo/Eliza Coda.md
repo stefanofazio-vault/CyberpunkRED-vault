@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Nomads/Aldecaldo]]'
+---
+
 ![[eliza coda.png|300]]
 [[#Background]]
 [[#Personalità]]

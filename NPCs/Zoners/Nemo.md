@@ -1,3 +1,7 @@
+---
+location: '[[Locations/Bars and clubs/Born This Way]]'
+---
+
 ![[nemo.png|300]]
 [[#Background]]
 [[#Personalità]]

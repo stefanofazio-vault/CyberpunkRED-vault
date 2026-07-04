@@ -1,9 +1,12 @@
 ---
 role:
-  - solo
+- solo
 rank:
-  - "6"
+- '6'
+location: '[[Locations/Bars and clubs/Totentanz]]'
+affiliation: '[[Factions/Corporations/Militech]]'
 ---
+
 ![[warlock.png|300]]
 [[#Background]]
 [[#Personalità]]

@@ -1,3 +1,7 @@
+---
+location: '[[Locations/Gang spots/Campo Aldecaldo]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

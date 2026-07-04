@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Nomads/Yanomami]]'
+---
+
 [[#Background]]
 
 ---

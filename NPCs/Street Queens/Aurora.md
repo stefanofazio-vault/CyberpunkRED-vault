@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Gangs/Street Queens]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

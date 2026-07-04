@@ -1,7 +1,9 @@
 ---
 role:
-  - exec
+- exec
 rank:
-  - "5"
+- '5'
+location: '[[Locations/Indipendenti/EEC Consulate]]'
 ---
+
 Responsabile dell'[[EEC Consulate]].

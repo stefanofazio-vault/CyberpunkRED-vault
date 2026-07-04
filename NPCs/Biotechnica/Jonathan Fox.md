@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Corporations/Biotechnica]]'
+---
+
 Jonathan Fox è un dipendente di [[Biotechnica]] che ha provato a rubare dati sensibili dalla corpo. 
 
 Richiede l'aiuto di [[Bellamy Ichikawa]] per creare una squadra che recuperi dei documenti presso il [[Biotechnica Campus]] che lo incriminano, ma la missione non va come sperato.

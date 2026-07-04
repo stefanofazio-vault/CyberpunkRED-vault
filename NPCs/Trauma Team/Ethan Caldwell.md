@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Corporations/Trauma Team]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
