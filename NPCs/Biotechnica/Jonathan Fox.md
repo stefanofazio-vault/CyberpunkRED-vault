@@ -1,6 +1,8 @@
 ---
 affiliation: '[[Factions/Corporations/Biotechnica]]'
+location: '[[Locations/Sedi corporative/Biotechnica Campus]]'
 ---
+
 
 Jonathan Fox è un dipendente di [[Biotechnica]] che ha provato a rubare dati sensibili dalla corpo. 
 

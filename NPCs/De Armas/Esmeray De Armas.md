@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Corporations/Zetatech]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

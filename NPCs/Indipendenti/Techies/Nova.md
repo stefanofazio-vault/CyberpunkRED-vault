@@ -1,6 +1,3 @@
----
-affiliation: '[[Factions/Corporations/Militech]]'
----
 
 ![[Nova.png|300]]
 [[#Background]]

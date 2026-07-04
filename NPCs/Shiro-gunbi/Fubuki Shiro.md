@@ -1,3 +1,8 @@
+---
+location: '[[Locations/Ristoranti/Sapporo Serenade]]'
+affiliation: '[[Factions/Corporations/Shiro-Gunbi]]'
+---
+
 ![[Fubuki Shiro.png|300]]
 [[#Background]]
 [[#Personalità]]

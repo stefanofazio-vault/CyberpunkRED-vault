@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Gangs/Zoners]]'
+---
+
 ![[vanisher.png|300]]
 [[#Background]]
 [[#Personalità]]

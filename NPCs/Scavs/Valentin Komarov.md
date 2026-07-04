@@ -1,13 +1,15 @@
 ---
 role:
-  - solo
-  - lawman
-  - fixer
+- solo
+- lawman
+- fixer
 rank:
-  - "4"
-  - "4"
-  - "2"
+- '4'
+- '4'
+- '2'
+affiliation: '[[Factions/Gangs/Scavengers]]'
 ---
+
 Leader di uno dei gruppi di [[Scavengers]] di Night City. Superiore di [[Ilya 'Razor' Malenkov]] e di [[Sofiya Fedorova]]. Ex-capo di [[Alexandra 'Sasha' Hale]]. 
 
 ##### Obiettivo personale

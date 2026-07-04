@@ -1,6 +1,8 @@
 ---
 affiliation: '[[Factions/Nomads/Aldecaldo]]'
+location: '[[Locations/Gang spots/Campo Aldecaldo]]'
 ---
+
 
 ![[eliza coda.png|300]]
 [[#Background]]

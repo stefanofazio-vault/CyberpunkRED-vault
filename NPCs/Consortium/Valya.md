@@ -1,9 +1,11 @@
 ---
 role:
-  - fixer
+- fixer
 rank:
-  - "6"
+- '6'
+affiliation: '[[Factions/Organizations/Consortium]]'
 ---
+
 Leader del [[Consortium]].
 
 ##### Obiettivo personale

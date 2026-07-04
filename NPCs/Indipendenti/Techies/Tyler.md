@@ -1,3 +1,7 @@
+---
+location: "[[Locations/Indipendenti/SerpentZ]]"
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

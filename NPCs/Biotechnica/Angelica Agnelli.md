@@ -1,6 +1,8 @@
 ---
-affiliation: '[[Factions/Corporations/Biotechnica]]'
+affiliation: "[[Factions/Corporations/Biotechnica]]"
+location: "[[Biotechnica Campus]]"
 ---
+
 
 [[#Background]]
 [[#Personalità]]

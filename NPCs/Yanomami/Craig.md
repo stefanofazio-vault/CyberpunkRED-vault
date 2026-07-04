@@ -1,3 +1,8 @@
+---
+location: "[[Locations/Ristoranti/Esnupi]]"
+affil: "[[Yanomami]]"
+---
+
 ![[Craig.png|300]]
 [[#Background]]
 [[#Personalità]]

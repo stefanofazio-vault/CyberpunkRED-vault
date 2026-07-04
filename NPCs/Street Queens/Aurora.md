@@ -1,6 +1,8 @@
 ---
 affiliation: '[[Factions/Gangs/Street Queens]]'
+location: '[[Locations/Bars and clubs/Born This Way]]'
 ---
+
 
 [[#Background]]
 [[#Personalità]]

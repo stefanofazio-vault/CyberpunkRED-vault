@@ -1,6 +1,8 @@
 ---
-location: '[[Locations/Bars and clubs/Born This Way]]'
+location: "[[South Night City]]"
+affiliation: "[[Factions/Gangs/Zoners]]"
 ---
+
 
 ![[nemo.png|300]]
 [[#Background]]

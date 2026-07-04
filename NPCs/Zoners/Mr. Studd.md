@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Gangs/Zoners]]'
+---
+
 ![[mr studd.png|300]]
 [[#Background]]
 [[#Personalità]]

@@ -1,3 +1,8 @@
+---
+location: '[[Locations/Sedi corporative/Rocket Science]]'
+affiliation: '[[Factions/Corporations/Militech]]'
+---
+
 ![[Garrett Bernard.png|300]]
 [[#Background]]
 [[#Personalità]]

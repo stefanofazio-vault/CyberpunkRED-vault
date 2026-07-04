@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Gangs/Voodoo Boys]]'
+---
+
 ![[Gethro Toussaint.png|300]]
 [[#Background]]
 [[#Personalità]]

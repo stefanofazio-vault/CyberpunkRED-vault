@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Gangs/6th Street]]'
+---
+
 ![[Everest Patton.png|300]]
 [[#Background]]
 [[#Personalità]]

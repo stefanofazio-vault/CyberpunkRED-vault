@@ -1,11 +1,13 @@
 ---
 role:
-  - exec
-  - solo
+- exec
+- solo
 rank:
-  - "6"
-  - "2"
+- '6'
+- '2'
+affiliation: '[[Factions/Nomads/Vyriy]]'
 ---
+
 Leader della divisione di Night City dei [[Vyriy]]. 
 ##### Obiettivo personale
 Prendere il controllo del [[Porto di Night City]]. Soppiantare i [[Thelas]] e godere dei benefici economici derivanti.

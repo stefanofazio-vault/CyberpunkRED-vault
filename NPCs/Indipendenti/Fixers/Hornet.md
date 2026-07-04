@@ -7,7 +7,9 @@ rank:
   - "9"
   - "4"
   - "4"
+affiliation: "[[Iron Sights]]"
 ---
+
 ![[Hornet.png|300]]
 [[#Background]]
 [[#Personalità]]
