@@ -27,3 +27,7 @@ Il fantomatico serial killer "The Claw" sembra essere ritornato in attività, se
 Alcuni agenti di polizia, visibilmente infastiditi, stanno finendo di stilare il rapporto. 
 
 Gli [[Scavengers]] hanno una base lì vicino, al [[White Side]]. In realtà sono stati loro a commettere l'omicidio.
+
+
+---
+Incontra Sevastyan Velov, cassiere dei [[SovOil Offices]].
