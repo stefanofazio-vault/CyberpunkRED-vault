@@ -4,7 +4,9 @@ role:
 rank:
 - '7'
 affiliation: '[[Factions/Corporations/Sanroo]]'
+location: '[[Neighbourhoods/Old Japantown]]'
 ---
+
 
 Responsabile di [[Sanroo]] a Night City e *city manager* di [[Old Japantown]]. Si è trasferita a Night City da Parigi. Ha deciso di far alleare Sanroo e i [[Tyger Claws]] e di instaurare una relazione con [[Ryuji Shimazaki]] così da creare una *corpo spin-off* che sia fedele principalmente a lei.
 

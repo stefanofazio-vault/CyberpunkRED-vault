@@ -1,6 +1,8 @@
 ---
 affiliation: '[[Factions/Gangs/Zoners]]'
+location: '[[Neighbourhoods/South Night City]]'
 ---
+
 
 ![[mr studd.png|300]]
 [[#Background]]

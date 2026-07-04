@@ -6,7 +6,9 @@ rank:
 - '6'
 - '2'
 affiliation: '[[Factions/Nomads/Vyriy]]'
+location: '[[Neighbourhoods/Porto di Night City]]'
 ---
+
 
 Leader della divisione di Night City dei [[Vyriy]]. 
 ##### Obiettivo personale

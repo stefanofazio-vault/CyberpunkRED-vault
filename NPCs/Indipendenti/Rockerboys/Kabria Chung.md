@@ -1,7 +1,9 @@
 ---
 role:
-  - rockerboy
+- rockerboy
 rank:
-  - "5"
+- '5'
+location: '[[Neighbourhoods/Upper Marina]]'
 ---
+
 *City manager* di [[Upper Marina]]. In superficie desidera che Upper Marina diventi quella che Richard Night voleva: metropolitana, ricca, piena di arte e lusso da ammirare. Per fare ciò, approva sostanzialmente qualunque progetto possa sulla carta portare prestigio. Tutti questi progetti, però, tendono inevitabilmente a fallire miseramente e non è chiaro se lei sia cieca ai problemi di corruzione del distretto o se sia parte attiva di suddetta corruzione.
