@@ -1,7 +1,9 @@
 ---
 role:
-  - fixer
+- fixer
 rank:
-  - "6"
+- '6'
+location: '[[Locations/Indipendenti/Archer & Li]]'
 ---
+
 Uno dei due soci di [[Archer & Li]].

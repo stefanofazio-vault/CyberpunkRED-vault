@@ -1,3 +1,9 @@
+---
+affiliation: '[[Factions/Gangs/Zoners]]'
+location: '[[Neighbourhoods/South Night City]]'
+---
+
+
 ![[vanisher.png|300]]
 [[#Background]]
 [[#Personalità]]

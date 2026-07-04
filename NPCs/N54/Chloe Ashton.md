@@ -1,11 +1,13 @@
 ---
 role:
-  - media
-  - exec
+- media
+- exec
 rank:
-  - "4"
-  - "4"
+- '4'
+- '4'
+affiliation: '[[Factions/Corporations/Network 54]]'
 ---
+
 Dipendente di [[Network 54]] e superiore di [[Rosa Lyn]], [[Thomas Watterson]], [[Mr. Bunny]] e [[Chen J.M. Lemon]].
 
 ##### Obiettivo personale

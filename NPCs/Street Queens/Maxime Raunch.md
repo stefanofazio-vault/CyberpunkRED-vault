@@ -1,3 +1,8 @@
+---
+location: '[[Locations/Bars and clubs/Born This Way]]'
+affiliation: '[[Factions/Gangs/Street Queens]]'
+---
+
 ![[Maxime Raunch.png|300]]
 [[#Background]]
 [[#Personalità]]

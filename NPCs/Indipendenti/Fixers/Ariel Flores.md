@@ -1,7 +1,9 @@
 ---
 role:
-  - fixer
+- fixer
 rank:
-  - "6"
+- '6'
+location: '[[Locations/Indipendenti/Mexican Consulate]]'
 ---
+
 Responsabile del [[Mexican Consulate]].

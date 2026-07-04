@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Gangs/6th Street]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

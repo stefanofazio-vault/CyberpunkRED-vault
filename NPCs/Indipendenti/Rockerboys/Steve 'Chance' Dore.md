@@ -1,7 +1,9 @@
 ---
 role:
-  - rockerboy
+- rockerboy
 rank:
-  - "3"
+- '3'
+location: '[[Locations/Bars and clubs/MindNutz Lover]]'
 ---
+
 Proprietario del the [[MindNutz Lover]]. 

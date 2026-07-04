@@ -1,1 +1,5 @@
+---
+location: '[[Neighbourhoods/Zona calda]]'
+---
+
 Tecnicamente la responsabile di gestione della [[Zona calda]]. Non vi si è mai recata ed è una drogata di Boost.

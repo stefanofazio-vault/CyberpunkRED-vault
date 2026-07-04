@@ -1,3 +1,7 @@
+---
+affiliation: "[[Factions/Corporations/Militech]]"
+---
+
 ![[Warrick Sherwood.jpg|300]]
 [[#Background]]
 [[#Personalità]]

@@ -1,3 +1,7 @@
+---
+affiliation: '[[Factions/Corporations/Militech]]'
+---
+
 ![[Aiden.jpg|300]]
 [[#Background]]
 [[#Personalità]]

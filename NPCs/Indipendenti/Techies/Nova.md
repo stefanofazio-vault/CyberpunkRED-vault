@@ -1,3 +1,4 @@
+
 ![[Nova.png|300]]
 [[#Background]]
 [[#Personalità]]

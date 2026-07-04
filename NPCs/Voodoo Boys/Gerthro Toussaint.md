@@ -1,3 +1,9 @@
+---
+affiliation: '[[Factions/Gangs/Voodoo Boys]]'
+location: '[[Neighbourhoods/Pacifica]]'
+---
+
+
 ![[Gethro Toussaint.png|300]]
 [[#Background]]
 [[#Personalità]]

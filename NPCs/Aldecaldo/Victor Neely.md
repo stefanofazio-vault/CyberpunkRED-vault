@@ -1,3 +1,8 @@
+---
+location: '[[Locations/Gang spots/Campo Aldecaldo]]'
+affiliation: '[[Factions/Nomads/Aldecaldo]]'
+---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

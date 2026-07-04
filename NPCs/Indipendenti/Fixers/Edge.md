@@ -1,3 +1,7 @@
+---
+location: '[[Locations/Indipendenti/SerpentZ]]'
+---
+
 ![[edge.jpg|300]]
 [[#Background]]
 [[#Personalità]]

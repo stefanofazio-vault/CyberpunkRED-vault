@@ -16,34 +16,36 @@ armor:
   head: 7
   body: 7
 weapons:
-  - name: Pistola a Doppio Funzionamento Militech Fox
-    damage: 4d6
-    rof: 1
-    hands: 1
-    ammo: 10 + 10
-  - name: Mascella da combattimento
-    damage: 4d6
-    rof: 1
-    hands: 0
-  - name: Nocche blindate
-    damage: 2d6
-    rof: 2
-    hands: 1
-  - name: Piede artigliato
-    damage: 2d6
-    rof: 2
-    hands: 0
+- name: Pistola a Doppio Funzionamento Militech Fox
+  damage: 4d6
+  rof: 1
+  hands: 1
+  ammo: 10 + 10
+- name: Mascella da combattimento
+  damage: 4d6
+  rof: 1
+  hands: 0
+- name: Nocche blindate
+  damage: 2d6
+  rof: 2
+  hands: 1
+- name: Piede artigliato
+  damage: 2d6
+  rof: 2
+  hands: 0
 cyberware:
-  - Mascella da combattimento
-  - Piede artigliato (x2)
-  - Nocche blindate (x2)
-  - Filtri nasali
-  - Filtri antitossine
-  - Skin Weave
-  - Cyberbraccio (x2)
-  - Cybergamba (x2)
-  - Innesto cambio rapido
+- Mascella da combattimento
+- Piede artigliato (x2)
+- Nocche blindate (x2)
+- Filtri nasali
+- Filtri antitossine
+- Skin Weave
+- Cyberbraccio (x2)
+- Cybergamba (x2)
+- Innesto cambio rapido
+affiliation: '[[Factions/Corporations/Militech]]'
 ---
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

@@ -1,10 +1,12 @@
 ---
 role:
-  - fixer
-  - media
+- fixer
+- media
 rank:
-  - "5"
+- '5'
+location: '[[Locations/Bars and clubs/Short Circuit]]'
 ---
+
 ![[3-Piece.png|300]]
 3-piece è il fondatore, insieme al marito e partner in affari [[Brain]], dello [[Short Circuit]]. I due gestiscono il locale insieme alla figlia [[Bug]]. 
 

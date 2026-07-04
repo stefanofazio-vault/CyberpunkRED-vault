@@ -1,7 +1,11 @@
 ---
 role:
-  - solo
+- solo
 rank:
-  - "6"
+- '6'
+affiliation: '[[Factions/Corporations/Whitewater Security]]'
+location: '[[Neighbourhoods/Downtown]]'
 ---
+
+
 Comandante di [[Whitewater Security]]. È una comandate pragmatica e lucida, ma è capitato che accettasse mazzette in vista della sua "pensione". È amica del city manager di [[Downtown]]. 

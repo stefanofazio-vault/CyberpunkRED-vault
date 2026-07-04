@@ -1,11 +1,13 @@
 ---
 role:
-  - tech
-  - netrunner
+- tech
+- netrunner
 rank:
-  - "6"
-  - "2"
+- '6'
+- '2'
+location: '[[Locations/Bars and clubs/Short Circuit]]'
 ---
+
 ![[Brain.png|300]]
 Brain è il fondatore, insieme al marito e partner in affari [[3-Piece]], dello [[Short Circuit]]. I due gestiscono il locale insieme alla figlia [[Bug]]. 
 
