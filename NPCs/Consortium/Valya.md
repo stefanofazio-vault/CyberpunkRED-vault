@@ -1,9 +1,10 @@
 ---
 role:
-- fixer
+  - fixer
 rank:
-- '6'
-affiliation: '[[Factions/Organizations/Consortium]]'
+  - "6"
+affiliation: "[[Factions/Organizations/Consortium]]"
+location: "[[The Amber Room]]"
 ---
 
 Leader del [[Consortium]].

@@ -1,6 +1,6 @@
 ---
 location: "[[Locations/Ristoranti/Esnupi]]"
-affil: "[[Yanomami]]"
+affiliation: "[[Yanomami]]"
 ---
 
 ![[Craig.png|300]]
