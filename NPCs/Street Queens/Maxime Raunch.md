@@ -1,6 +1,10 @@
 ---
-location: '[[Locations/Bars and clubs/Born This Way]]'
-affiliation: '[[Factions/Gangs/Street Queens]]'
+location: "[[Locations/Bars and clubs/Born This Way]]"
+affiliation: "[[Factions/Gangs/Street Queens]]"
+role:
+  - rockerboy
+rank:
+  - "4"
 ---
 
 ![[Maxime Raunch.png|300]]
