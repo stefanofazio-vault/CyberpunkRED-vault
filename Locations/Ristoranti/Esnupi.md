@@ -9,4 +9,4 @@ Il ristorante è ben recensito e apprezzato dalla comunità locale.
 - [[Andres 'Timbò' Yanonami]]
 - [[Julia 'Lucy' Yanomami]]
 - [[Rico 'Linus' Yanomami]]
-- [[Craig]]
+- [[NPCs/Yanomami/Craig]]

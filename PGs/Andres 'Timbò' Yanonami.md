@@ -6,7 +6,7 @@
 
 ---
 #### Background
-Andres Timbò Yanomami è un nomade appartenente alla famiglia degli [[Yanomami]]. È fratello minore di [[Alejandro Yanomami]], [[Lionel Yanomami]] e [[Ronaldo Yanomami]], il nipote di [[Kaya 'Woodstocka' Yanomami]] e [[Gonzalo Yanomami]], il fratello maggiore di [[Julia 'Lucy' Yanomami]], [[Rico 'Linus' Yanomami]] e [[Joji Yanonami]] e il figlio di [[Rosalinda Yanomami]] e [[Carlos Yanomami]]. Funge da fratello adottivo per [[Craig]].
+Andres Timbò Yanomami è un nomade appartenente alla famiglia degli [[Yanomami]]. È fratello minore di [[Alejandro Yanomami]], [[Lionel Yanomami]] e [[Ronaldo Yanomami]], il nipote di [[Kaya 'Woodstocka' Yanomami]] e [[Gonzalo Yanomami]], il fratello maggiore di [[Julia 'Lucy' Yanomami]], [[Rico 'Linus' Yanomami]] e [[Joji Yanonami]] e il figlio di [[Rosalinda Yanomami]] e [[Carlos Yanomami]]. Funge da fratello adottivo per [[NPCs/Yanomami/Craig]].
 
 #### 2027
 Andres nasce nel 2027 in qualche zona non ben specificata del Sudamerica all'interno di una delle varie famiglie del clan Yanomami.
@@ -87,7 +87,7 @@ Con gli altri, il 31 stesso del mese, verrà coinvolto nel [[Sessione A3 - Ritua
 ##### Novembre
 In vista dell'assalto, Andres contatta [[Matthew Travis]], figlio di Joshua, per ottenere consigli su come preparare l'assalto dal punto di vista logistico. Gli verrà consigliato di appostarsi nel deserto, ancora prima che il convoglio entri a [[Rancho Coronado]].
 
-Inoltre, nello stesso periodo, durante un pomeriggio di lavoro all'Esnupi, nota, per strada, un bambino che sta venendo bullizzato da altri due ragazzi. Nell'ottica di evitare danni di immagine al ristorante, Andres caccerà i bulli, generando un senso di gratitudine immenso nel bambino bullizzato ([[Craig]]).Quest'ultimo verrà accolto in casa da Kaya. 
+Inoltre, nello stesso periodo, durante un pomeriggio di lavoro all'Esnupi, nota, per strada, un bambino che sta venendo bullizzato da altri due ragazzi. Nell'ottica di evitare danni di immagine al ristorante, Andres caccerà i bulli, generando un senso di gratitudine immenso nel bambino bullizzato ([[NPCs/Yanomami/Craig]]).Quest'ultimo verrà accolto in casa da Kaya. 
 
 Kaya, nello stesso periodo, solleva dei dubbi riguardo la salute mentale di Andres, che da quando il nome di Joji è saltato fuori è peggiorata nuovamente: Andres è iperfissato sul ritrovamento di Joji e non dorme, è sempre nervoso e comincia a comportarsi in maniera quasi violenta. La nonna gli suggerisce di andare in terapia, idea che viene dismessa da Andres.
 

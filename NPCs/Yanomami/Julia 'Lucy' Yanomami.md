@@ -21,6 +21,6 @@ Le manca moltissimo Joji e nonostante i più grandi abbiano provato a tenerle na
 ---
 #### Ai giorni nostri
 #### 2045
-Nel novembre del 2045, in casa arriva un ospite inatteso: [[Craig]]. In virtù della simile età e, in parte, del vuoto lasciato da Joji, Lucy e Linus stringono immediatamente amicizia con il nuovo arrivato. 
+Nel novembre del 2045, in casa arriva un ospite inatteso: [[NPCs/Yanomami/Craig]]. In virtù della simile età e, in parte, del vuoto lasciato da Joji, Lucy e Linus stringono immediatamente amicizia con il nuovo arrivato. 
 
 ---

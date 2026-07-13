@@ -17,7 +17,7 @@ Gestisce, con l'aiuto di Timbò, il ristorante [[Esnupi]], situato nel [[Glen]].
 #### Personalità
 Kaya è la classica nonna. Stravede per i propri nipoti, per i quali farebbe follie. È una persona gentile e generosa, tratto della personalità che la mette spesso in contrasto ideologico con Timbò. È, tendenzialmente, lei a spuntarla. 
 
-Ha subito in maniera molto profonda la perdita di Joji, motivo principale che l'ha portata ad accogliere [[Craig]] in casa. 
+Ha subito in maniera molto profonda la perdita di Joji, motivo principale che l'ha portata ad accogliere [[NPCs/Yanomami/Craig]] in casa. 
 
 ---
 #### Ai giorni nostri
