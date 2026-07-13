@@ -30,4 +30,9 @@ Gli [[Scavengers]] hanno una base lì vicino, al [[White Side]]. In realtà sono
 
 
 ---
-Incontra Sevastyan Velov, cassiere dei [[SovOil Offices]].
+
+Thomas ha deciso di indagare per prima cosa sulle voci riguardanti il ritorno di 'The Claw'. Per farlo, si è recato presso il Gazebo, dove ha osservato per un po' la vittima, alla quale mancava il braccio sinistro. Non è riuscito a guardarlo a dovere e non si è reso conto che il braccio amputato era un cyberbraccio e che a gocciolare non era sangue, ma olio.
+Ha parlato con alcuni membri della comunità di [[Old Japantown]] e gli è stato riferito il mito di 'The Claw', che anni prima uccideva persone di qualunque classe per poi appenderle al Gazebo, sempre prive del braccio sinistro o della gamba destra.
+Ha visto, inoltre, dei membri gli Scavengers osservare i fatti con interesse.
+
+Si è successivamente recato da [[Kasymbek]], presso [[Kasim's]], e ha pranzato lì. Dopo aver parlato un po' con Kasymbek riguardo le voci su SovOil, è emerso che quest'ultima sta spingendo tantissimo sulla pubblicità e che sta aprendo accademie per astronauti nonostante il numero di navi transitanti nella baia non siano sufficienti a trasportare il carburante necessario per il programma. Thomas viene informato del fatto che la fonte di questa diceria venisse dagli uffici SovOil. 
