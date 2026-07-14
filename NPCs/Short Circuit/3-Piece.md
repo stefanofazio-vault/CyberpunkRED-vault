@@ -1,10 +1,11 @@
 ---
 role:
-- fixer
-- media
+  - fixer
+  - media
 rank:
-- '5'
-location: '[[Locations/Bars and clubs/Short Circuit]]'
+  - "5"
+  - "2"
+location: "[[Locations/Bars and clubs/Short Circuit]]"
 ---
 
 ![[3-Piece.png|300]]
