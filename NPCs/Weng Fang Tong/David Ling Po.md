@@ -1,8 +1,9 @@
 ---
-role: fixer
-rank: '8'
-affiliation: '[[Factions/Organizations/Weng Fang Tong]]'
-location: '[[Neighbourhoods/Little China]]'
+role:
+  - fixer
+rank: "8"
+affiliation: "[[Factions/Organizations/Weng Fang Tong]]"
+location: "[[Neighbourhoods/Little China]]"
 ---
 
 
