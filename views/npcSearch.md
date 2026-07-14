@@ -1,208 +1,116 @@
 ```dataviewjs
 /**********************************************************************
- * NPC SEARCH VIEW
+ * npcSearch.js
  *
  * Parte 1/3
  *
- * Costruzione GUI
- * - scansione ruoli
- * - widget
- * - layout
+ * - Configurazione
+ * - Utility DOM
+ * - Renderer
+ * - Classe Table
  **********************************************************************/
 
-// --------------------------------------------------
-// CONFIG
-// --------------------------------------------------
+// ======================================================
+// CONFIGURATION
+// ======================================================
 
 const NPC_ROOT = '"NPCs"';
 
-// --------------------------------------------------
-// ROOT CONTAINER
-// --------------------------------------------------
+// ======================================================
+// ROOT
+// ======================================================
 
 const root = dv.container;
 
-root.innerHTML = "";
+root.empty();
 
-const wrapper = root.createDiv({
+const appContainer = root.createDiv({
     cls: "npc-search"
 });
 
-wrapper.style.display = "flex";
-wrapper.style.flexDirection = "column";
-wrapper.style.rowGap = "1em";
+appContainer.style.display = "flex";
+appContainer.style.flexDirection = "column";
+appContainer.style.gap = "1rem";
 
-
-// --------------------------------------------------
+// ======================================================
 // TITLE
-// --------------------------------------------------
+// ======================================================
 
-wrapper.createEl("h2", {
+appContainer.createEl("h2", {
     text: "NPC Search"
 });
 
-
-// --------------------------------------------------
+// ======================================================
 // FILTER PANEL
-// --------------------------------------------------
+// ======================================================
 
-const filterPanel = wrapper.createDiv();
+const filterPanel = appContainer.createDiv();
 
 filterPanel.style.display = "flex";
 filterPanel.style.flexWrap = "wrap";
-filterPanel.style.gap = "1em";
-filterPanel.style.alignItems = "flex-end";
+filterPanel.style.alignItems = "end";
+filterPanel.style.gap = "1rem";
 
-
-// --------------------------------------------------
+// ======================================================
 // RESULT PANEL
-// --------------------------------------------------
+// ======================================================
 
-const resultPanel = wrapper.createDiv();
+const resultPanel = appContainer.createDiv();
 
+// ======================================================
+// DOM HELPERS
+// ======================================================
 
-// --------------------------------------------------
-// HELPERS
-// --------------------------------------------------
-
-function makeField(labelText)
+function createField(label)
 {
     const field = filterPanel.createDiv();
 
     field.style.display = "flex";
     field.style.flexDirection = "column";
+    field.style.gap = "4px";
     field.style.minWidth = "180px";
 
     field.createEl("label", {
-        text: labelText
+        text: label
     });
 
     return field;
 }
 
-
-function makeSelect(field)
+function createSelect(parent)
 {
-    const select = field.createEl("select");
+    const select = parent.createEl("select");
 
     select.style.width = "100%";
 
     return select;
 }
 
-
-function makeNumber(field, value = 0)
+function createNumber(parent, value = 0)
 {
-    const input = field.createEl("input");
+    const input = parent.createEl("input");
 
     input.type = "number";
     input.value = value;
 
-    input.style.width = "80px";
+    input.style.width = "90px";
 
     return input;
 }
 
-
-// --------------------------------------------------
-// CONTROLS
-// --------------------------------------------------
-
-const roleField = makeField("Role");
-const roleSelect = makeSelect(roleField);
-
-const operatorField = makeField("Operator");
-const operatorSelect = makeSelect(operatorField);
-
-const rankField = makeField("Minimum rank");
-const rankInput = makeNumber(rankField, 0);
-
-
-// --------------------------------------------------
-// OPERATOR LIST
-// --------------------------------------------------
-
-[
-    "=",
-    ">",
-    ">=",
-    "<",
-    "<="
-].forEach(op =>
+function addOption(select, text, value = text)
 {
     const option = document.createElement("option");
 
-    option.value = op;
-    option.textContent = op;
+    option.textContent = text;
+    option.value = value;
 
-    operatorSelect.appendChild(option);
-});
-
-operatorSelect.value = ">=";
-
-
-// --------------------------------------------------
-// PRE-SCAN NPCs
-// --------------------------------------------------
-
-const npcPages = dv
-    .pages(NPC_ROOT)
-    .where(p => p.role);
-
-
-// --------------------------------------------------
-// EXTRACT ALL ROLES
-// --------------------------------------------------
-
-const roles = new Set();
-
-for (const npc of npcPages)
-{
-    if (!Array.isArray(npc.role))
-        continue;
-
-    for (const role of npc.role)
-    {
-        if (!role)
-            continue;
-
-        roles.add(String(role));
-    }
+    select.appendChild(option);
 }
 
-const sortedRoles =
-    Array.from(roles)
-         .sort((a, b) => a.localeCompare(b));
-
-
-// --------------------------------------------------
-// POPULATE ROLE SELECT
-// --------------------------------------------------
-
-{
-    const any = document.createElement("option");
-
-    any.value = "";
-
-    any.textContent = "Any";
-
-    roleSelect.appendChild(any);
-
-    for (const role of sortedRoles)
-    {
-        const option = document.createElement("option");
-
-        option.value = role;
-        option.textContent = role;
-
-        roleSelect.appendChild(option);
-    }
-}
-
-
-// --------------------------------------------------
-// COMPARISON
-// --------------------------------------------------
+// ======================================================
+// GENERIC HELPERS
+// ======================================================
 
 function compare(left, operator, right)
 {
@@ -228,251 +136,569 @@ function compare(left, operator, right)
     }
 }
 
-
-// --------------------------------------------------
-// NPC MATCH
-// --------------------------------------------------
-
-function npcMatches(npc)
+function getFolder(page)
 {
-    const selectedRole = roleSelect.value;
-    const operator = operatorSelect.value;
-    const wantedRank = Number(rankInput.value);
+    const path = page.file.path.split("/");
 
-    if (!npc.role || !npc.rank)
-        return false;
+    path.pop();
 
-    if (!Array.isArray(npc.role))
-        return false;
+    if (path[0] === "NPCs")
+        path.shift();
 
-    if (!Array.isArray(npc.rank))
-        return false;
+    return path.join(" / ");
+}
 
-    if (npc.role.length !== npc.rank.length)
-        return false;
+function getLinkLabel(value)
+{
+    if (value == null)
+        return "";
 
-    // --------------------------------------------------
-    // Any role
-    // --------------------------------------------------
-
-    if (selectedRole === "")
+    // Link Dataview
+    if (typeof value === "object" && value.path)
     {
-        for (let i = 0; i < npc.rank.length; i++)
-        {
-            const rank = Number(npc.rank[i]);
-
-            if (compare(rank, operator, wantedRank))
-                return true;
-        }
-
-        return false;
+        return value.display ??
+            value.path
+                .split("/")
+                .pop()
+                .replace(/\.md$/, "");
     }
 
-    // --------------------------------------------------
-    // Specific role
-    // --------------------------------------------------
+    // Stringa semplice
+    let text = String(value);
+
+    // Wikilink?
+    const match = text.match(/^\[\[(.+?)\]\]$/);
+
+    if (match)
+    {
+        text = match[1];
+    }
+
+    // Alias?
+    if (text.includes("|"))
+    {
+        text = text.split("|").pop();
+    }
+
+    // Percorso?
+    if (text.includes("/"))
+    {
+        text = text.split("/").pop();
+    }
+
+    return text.replace(/\.md$/, "");
+}
+
+// ======================================================
+// WIKILINK RENDERER
+// ======================================================
+
+function renderWikiLink(parent, page)
+{
+    const link = parent.createEl("a", {
+        text: page.file.name,
+        href: page.file.path
+    });
+
+    link.addClass("internal-link");
+    link.dataset.href = page.file.path;
+}
+
+// ======================================================
+// ROLE RENDERER
+// ======================================================
+
+function renderRoles(parent, npc)
+{
+    if (!npc.role || !npc.rank)
+        return;
 
     for (let i = 0; i < npc.role.length; i++)
     {
-        const role = String(npc.role[i]);
+        const line = parent.createDiv();
 
-        if (role !== selectedRole)
+        line.style.display = "flex";
+        line.style.justifyContent = "space-between";
+        line.style.gap = "1rem";
+
+        line.createSpan({
+            text: String(npc.role[i])
+        });
+
+        const rank = line.createSpan({
+            text: String(npc.rank[i])
+        });
+
+        rank.style.opacity = "0.75";
+        rank.style.fontWeight = "600";
+    }
+}
+
+function renderInternalLink(parent, link)
+{
+    const a = parent.createEl("a", {
+        text: getLinkLabel(link),
+        href: link.path
+    });
+
+    a.addClass("internal-link");
+    a.dataset.href = link.path;
+}
+
+function renderAffiliations(parent, npc)
+{
+    if (!npc.affiliation)
+        return;
+
+    const affiliations = Array.isArray(npc.affiliation)
+        ? npc.affiliation
+        : [npc.affiliation];
+
+    for (const affiliation of affiliations)
+    {
+        const line = parent.createDiv();
+
+		if (typeof affiliation === "object")
+		{
+		    renderInternalLink(line, affiliation);
+		}
+		else
+		{
+		    line.setText(getLinkLabel(affiliation));
+		}
+    }
+}
+
+// ======================================================
+// TABLE COMPONENT
+// ======================================================
+
+class Table
+{
+    constructor(parent)
+    {
+        this.parent = parent;
+        this.columns = [];
+    }
+
+    addColumn(title, renderer)
+    {
+        this.columns.push({
+            title,
+            renderer
+        });
+    }
+
+    render(rows)
+    {
+        this.parent.empty();
+
+        const table = this.parent.createEl("table");
+
+        table.style.width = "100%";
+        table.style.borderCollapse = "collapse";
+
+        //--------------------------------------------------
+
+        const thead = table.createEl("thead");
+
+        const head = thead.createEl("tr");
+
+        for (const column of this.columns)
+        {
+            const th = head.createEl("th");
+
+            th.setText(column.title);
+
+            th.style.textAlign = "left";
+            th.style.padding = "6px";
+            th.style.borderBottom =
+                "1px solid var(--background-modifier-border)";
+        }
+
+        //--------------------------------------------------
+
+        const tbody = table.createEl("tbody");
+
+        for (const row of rows)
+        {
+            const tr = tbody.createEl("tr");
+
+            for (const column of this.columns)
+            {
+                const td = tr.createEl("td");
+
+                td.style.padding = "6px";
+                td.style.verticalAlign = "top";
+
+                column.renderer(td, row);
+            }
+        }
+
+        //--------------------------------------------------
+
+        if (rows.length === 0)
+        {
+            const p = this.parent.createEl("p", {
+                text: "No NPC matches the current filters."
+            });
+
+            p.style.opacity = "0.7";
+        }
+    }
+}
+
+// ======================================================
+// TABLE INSTANCE
+// ======================================================
+
+const table = new Table(resultPanel);
+
+// ======================================================
+// NPC CACHE
+// ======================================================
+
+const npcPages = dv
+    .pages(NPC_ROOT)
+    .where(p => p.file);
+
+// ======================================================
+// EXTRACT AVAILABLE ROLES
+// ======================================================
+
+const availableRoles = new Set();
+
+for (const npc of npcPages)
+{
+    if (!npc.role)
+        continue;
+
+    const roles = Array.isArray(npc.role)
+        ? npc.role
+        : [npc.role];
+
+    for (const role of roles)
+    {
+        if (role == null)
             continue;
 
-        const rank = Number(npc.rank[i]);
+        availableRoles.add(String(role));
+    }
+}
 
-        if (compare(rank, operator, wantedRank))
-            return true;
+const sortedRoles =
+    [...availableRoles]
+        .sort((a, b) => a.localeCompare(b));
+
+// ======================================================
+// EXTRACT AVAILABLE AFFILIATIONS
+// ======================================================
+
+const availableAffiliations = new Set();
+
+for (const npc of npcPages)
+{
+    if (!npc.affiliation)
+        continue;
+
+    const affiliations = Array.isArray(npc.affiliation)
+        ? npc.affiliation
+        : [npc.affiliation];
+
+    for (const affiliation of affiliations)
+    {
+		availableAffiliations.add(getLinkLabel(affiliation));
+    }
+}
+
+const sortedAffiliations =
+    [...availableAffiliations]
+        .sort((a, b) => a.localeCompare(b));
+
+// ======================================================
+// FILTERS
+// ======================================================
+
+const filters = {};
+
+//
+// Role
+//
+
+{
+    const field = createField("Role");
+
+    filters.role = createSelect(field);
+
+    addOption(filters.role, "Any", "");
+
+    for (const role of sortedRoles)
+        addOption(filters.role, role);
+}
+
+//
+// Operator
+//
+
+{
+    const field = createField("Rank");
+
+    filters.operator = createSelect(field);
+
+    [
+        "=",
+        ">",
+        ">=",
+        "<",
+        "<="
+    ].forEach(op =>
+    {
+        addOption(filters.operator, op);
+    });
+
+    filters.operator.value = ">=";
+}
+
+//
+// Rank
+//
+
+{
+    const field = createField("Minimum Rank");
+
+    filters.rank = createNumber(field, 0);
+
+    filters.rank.min = 0;
+}
+
+//
+// Affiliation
+//
+
+{
+	const field = createField("Affiliation");
+	
+	filters.affiliation = createSelect(field);
+	
+	addOption(filters.affiliation, "Any", "");
+	
+	for (const affiliation of sortedAffiliations)
+	{
+	    addOption(filters.affiliation, affiliation);
+	}
+
+}
+
+// ======================================================
+// FILTER STATE
+// ======================================================
+
+filters.values = function ()
+{
+    return {
+
+        role: this.role.value,
+
+        operator: this.operator.value,
+
+        rank: Number(this.rank.value),
+        
+        affiliation: this.affiliation.value
+
+    };
+};
+
+// ======================================================
+// MATCHING
+// ======================================================
+
+function npcMatches(npc)
+{
+    const f = filters.values();
+    
+    if ((f.affiliation === "" || f.affiliation === "Any") && 
+		f.role === "" && f.rank === 0)
+		return true;
+    
+    var affiliationFound = false;
+
+    const roles =
+        Array.isArray(npc.role)
+            ? npc.role
+            : [npc.role];
+
+    const ranks =
+        Array.isArray(npc.rank)
+            ? npc.rank
+            : [npc.rank];
+            
+	const affiliations =
+		(Array.isArray(npc.affiliation)
+			? npc.affiliation
+			: [npc.affiliation]);
+		
+
+    //--------------------------------------------------
+    // Parallel arrays must match
+    //--------------------------------------------------
+
+    if (roles.length !== ranks.length)
+        return false;
+
+	if (f.affiliation !== "" && f.affiliation !== "Any")
+	{
+	    affiliationFound = false;
+	
+	    for (const affiliation of affiliations)
+	    {
+			if (getLinkLabel(affiliation) === f.affiliation)
+			{
+			    affiliationFound = true;
+			    break;
+			}
+	    }
+	
+	    if (!affiliationFound)
+	        return false;
+	}
+	
+    //--------------------------------------------------
+    // Iterate every role
+    //--------------------------------------------------
+    if (f.role !== "" || f.rank > 0)
+    {
+	    for (let i = 0; i < roles.length; i++)
+	    {
+	        const role = String(roles[i]);
+	
+	        const rank = Number(ranks[i]);
+	
+	        //--------------------------------------------------
+	        // Any role selected
+	        //--------------------------------------------------
+	
+	        if (f.role === "")
+	        {
+	            if (compare(rank, f.operator, f.rank))
+	                return true;
+	
+	            continue;
+	        }
+	
+	        //--------------------------------------------------
+	        // Specific role
+	        //--------------------------------------------------
+	
+	        if (role !== f.role)
+	            continue;
+	
+	        if (compare(rank, f.operator, f.rank))
+	            return true;
+	    }
+	}
+	else
+	{
+		return affiliationFound;
     }
 
     return false;
 }
 
+// ======================================================
+// FILTER EVENTS
+// ======================================================
 
-// --------------------------------------------------
-// BUILD RESULT LIST
-// --------------------------------------------------
+filters.role.onchange = refresh;
+
+filters.operator.onchange = refresh;
+
+filters.rank.oninput = refresh;
+
+filters.affiliation.oninput = refresh;
+
+// ======================================================
+// COMPUTE RESULTS
+// ======================================================
 
 function computeResults()
 {
-    const result = [];
+    const results = [];
 
     for (const npc of npcPages)
     {
-        if (!npcMatches(npc))
-            continue;
-
-        result.push(npc);
+        if (npcMatches(npc))
+            results.push(npc);
     }
 
-    result.sort((a, b) =>
-        a.file.name.localeCompare(b.file.name)
+    results.sort((a, b) =>
+        a.file.name.localeCompare(
+            b.file.name,
+            undefined,
+            { sensitivity: "base" }
+        )
     );
 
-    return result;
+    return results;
 }
 
+// ======================================================
+// TABLE DEFINITION
+// ======================================================
 
-// --------------------------------------------------
-// RENDER ENTRY
-// --------------------------------------------------
-
-function buildRoleString(npc)
-{
-    const parts = [];
-
-    for (let i = 0; i < npc.role.length; i++)
+table.addColumn(
+    "NPC",
+    (cell, npc) =>
     {
-        parts.push(
-            `${npc.role[i]} (${npc.rank[i]})`
-        );
+        renderWikiLink(cell, npc);
     }
+);
 
-    return parts.join(", ");
-}
+table.addColumn(
+    "Roles",
+    (cell, npc) =>
+    {
+        renderRoles(cell, npc);
+    }
+);
 
+table.addColumn(
+	"Affiliations",
+	(cell, npc) =>
+	{
+		renderAffiliations(cell, npc);
+	}
+);
 
-// --------------------------------------------------
+table.addColumn(
+    "Folder",
+    (cell, npc) =>
+    {
+        cell.setText(getFolder(npc));
+    }
+);
+
+// ======================================================
 // REFRESH
-// --------------------------------------------------
+// ======================================================
 
 function refresh()
 {
     const results = computeResults();
 
-    resultPanel.innerHTML = "";
+    resultPanel.empty();
 
-    resultPanel.createEl("p", {
+    resultPanel.createEl("div", {
         text: `${results.length} NPC found`
     });
 
-    renderTable(results);
+    table.parent = resultPanel;
+
+    table.render(results);
 }
 
-
-// --------------------------------------------------
+// ======================================================
 // INITIAL RENDER
-// --------------------------------------------------
+// ======================================================
 
 refresh();
-
-
-// --------------------------------------------------
-// EVENTS
-// --------------------------------------------------
-
-roleSelect.onchange = refresh;
-
-operatorSelect.onchange = refresh;
-
-rankInput.oninput = refresh;
-
-// --------------------------------------------------
-// TABLE RENDERING
-// --------------------------------------------------
-
-function getFolder(page)
-{
-    const parts = page.file.path.split("/");
-
-    // Rimuove il nome del file
-    parts.pop();
-
-    // Rimuove "NPCs"
-    if (parts.length && parts[0] === "NPCs")
-        parts.shift();
-
-    return parts.join(" / ");
-}
-
-function renderTable(results)
-{
-    const table = resultPanel.createEl("table");
-
-    table.style.width = "100%";
-    table.style.borderCollapse = "collapse";
-
-    //--------------------------------------------------
-    // HEADER
-    //--------------------------------------------------
-
-    const thead = table.createEl("thead");
-    const headRow = thead.createEl("tr");
-
-    [
-        "NPC",
-        "Roles",
-        "Folder"
-    ].forEach(text =>
-    {
-        const th = headRow.createEl("th", {
-            text
-        });
-
-        th.style.textAlign = "left";
-        th.style.padding = "6px";
-        th.style.borderBottom = "1px solid var(--background-modifier-border)";
-    });
-
-    //--------------------------------------------------
-    // BODY
-    //--------------------------------------------------
-
-    const tbody = table.createEl("tbody");
-
-    for (const npc of results)
-    {
-        const row = tbody.createEl("tr");
-
-        //----------------------------------------------
-        // NPC
-        //----------------------------------------------
-
-		const npcCell = row.createEl("td");
-		
-		npcCell.style.padding = "6px";
-		
-		const link = npcCell.createEl("a", {
-		    text: npc.file.name,
-		    href: npc.file.path
-		});
-		
-		link.addClass("internal-link");
-		link.dataset.href = npc.file.path;
-
-        //----------------------------------------------
-        // Roles
-        //----------------------------------------------
-
-        const roleCell = row.createEl("td", {
-            text: buildRoleString(npc)
-        });
-
-        roleCell.style.padding = "6px";
-
-        //----------------------------------------------
-        // Folder
-        //----------------------------------------------
-
-        const folderCell = row.createEl("td", {
-            text: getFolder(npc)
-        });
-
-        folderCell.style.padding = "6px";
-    }
-
-    //--------------------------------------------------
-    // Empty state
-    //--------------------------------------------------
-
-    if (results.length === 0)
-    {
-        const p = resultPanel.createEl("p", {
-            text: "No NPC matches the current filters."
-        });
-
-        p.style.opacity = "0.7";
-    }
-}
-
 ```
