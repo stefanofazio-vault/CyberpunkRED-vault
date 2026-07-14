@@ -416,6 +416,142 @@ const sortedAffiliations =
         .sort((a, b) => a.localeCompare(b));
 
 // ======================================================
+// DISTRICT CACHE
+// ======================================================
+
+const neighbourhoodPages =
+    dv.pages('"Neighbourhoods"')
+      .where(p => p.file);
+
+const locationPages =
+    dv.pages('"Locations"')
+      .where(p => p.file);
+
+// path -> page
+const locationMap = new Map();
+
+for (const page of locationPages)
+{
+    locationMap.set(page.file.path, page);
+}
+
+// path -> district page
+const districtCache = new Map();
+
+function getLocationTarget(page)
+{
+    if (!page.location)
+        return null;
+
+    const value =
+        Array.isArray(page.location)
+            ? page.location[0]
+            : page.location;
+
+    if (!value)
+        return null;
+
+    if (typeof value === "object")
+        return value;
+
+    return null;
+}
+
+function resolveDistrict(page)
+{
+    if (!page)
+        return null;
+
+    //--------------------------------------------------
+    // depth 0
+    //--------------------------------------------------
+
+    let target = getLocationTarget(page);
+
+    if (!target)
+        return null;
+
+    if (target.path.startsWith("Neighbourhoods/"))
+        return target;
+
+    //--------------------------------------------------
+    // depth 1
+    //--------------------------------------------------
+
+    let page1 = locationMap.get(target.path);
+
+    if (!page1)
+        return null;
+
+    target = getLocationTarget(page1);
+
+    if (!target)
+        return null;
+
+    if (target.path.startsWith("Neighbourhoods/"))
+        return target;
+
+    //--------------------------------------------------
+    // depth 2
+    //--------------------------------------------------
+
+    let page2 = locationMap.get(target.path);
+
+    if (!page2)
+        return null;
+
+    target = getLocationTarget(page2);
+
+    if (!target)
+        return null;
+
+    if (target.path.startsWith("Neighbourhoods/"))
+        return target;
+
+    return null;
+}
+
+//------------------------------------------------------
+// Build cache
+//------------------------------------------------------
+
+for (const page of neighbourhoodPages)
+{
+    districtCache.set(
+        page.file.path,
+        {
+            label: page.file.name,
+            link: page.file.link
+        }
+    );
+}
+
+for (const page of locationPages)
+{
+    const district = resolveDistrict(page);
+
+    if (!district)
+        continue;
+
+    districtCache.set(
+        page.file.path,
+        {
+            label: getLinkLabel(district),
+            link: district
+        }
+    );
+}
+
+// ======================================================
+// AVAILABLE DISTRICTS
+// ======================================================
+
+const availableDistricts =
+    [...neighbourhoodPages]
+        .map(p => p.file.name)
+        .sort((a, b) => a.localeCompare(b));
+
+// ======================================================
 // FILTERS
 // ======================================================
 
@@ -489,6 +625,23 @@ const filters = {};
 
 }
 
+//
+// District
+//
+
+{
+    const field = createField("District");
+
+    filters.district = createSelect(field);
+
+    addOption(filters.district, "Any", "");
+
+    for (const district of availableDistricts)
+    {
+        addOption(filters.district, district);
+    }
+}
+
 // ======================================================
 // FILTER STATE
 // ======================================================
@@ -503,10 +656,74 @@ filters.values = function ()
 
         rank: Number(this.rank.value),
         
-        affiliation: this.affiliation.value
+        affiliation: this.affiliation.value,
+        
+        district: this.district.value
 
     };
 };
+
+// ======================================================
+// DISTRICT MATCHING
+// ======================================================
+
+function npcInDistrict(npc, districtName)
+{
+    if (!npc.location)
+        return false;
+
+    const locations =
+        Array.isArray(npc.location)
+            ? npc.location
+            : [npc.location];
+
+    for (const location of locations)
+    {
+        if (!location)
+            continue;
+
+        //--------------------------------------------------
+        // Dataview Link
+        //--------------------------------------------------
+
+        if (typeof location === "object" && location.path)
+        {
+            const district = districtCache.get(location.path);
+
+            if (!district)
+                continue;
+
+            if (district.label === districtName)
+                return true;
+
+            continue;
+        }
+
+        //--------------------------------------------------
+        // String wikilink
+        //--------------------------------------------------
+
+        const text = String(location);
+
+        const match =
+            text.match(/^\[\[(.+?)(\|.+?)?\]\]$/);
+
+        if (!match)
+            continue;
+
+        const path = match[1];
+
+        const district = districtCache.get(path);
+
+        if (!district)
+            continue;
+
+        if (district.label === districtName)
+            return true;
+    }
+
+    return false;
+}
 
 // ======================================================
 // MATCHING
@@ -515,90 +732,103 @@ filters.values = function ()
 function npcMatches(npc)
 {
     const f = filters.values();
-    
-    if ((f.affiliation === "" || f.affiliation === "Any") && 
-		f.role === "" && f.rank === 0)
-		return true;
-    
-    var affiliationFound = false;
+
+    //--------------------------------------------------
+    // No filters
+    //--------------------------------------------------
+
+    if (
+        (f.affiliation === "" || f.affiliation === "Any") &&
+        (f.district === "" || f.district === "Any") &&
+        f.role === "" &&
+        f.rank === 0
+    )
+    {
+        return true;
+    }
+
+    //--------------------------------------------------
+    // Roles / Ranks
+    //--------------------------------------------------
 
     const roles =
         Array.isArray(npc.role)
             ? npc.role
-            : [npc.role];
+            : (npc.role ? [npc.role] : []);
 
     const ranks =
         Array.isArray(npc.rank)
             ? npc.rank
-            : [npc.rank];
-            
-	const affiliations =
-		(Array.isArray(npc.affiliation)
-			? npc.affiliation
-			: [npc.affiliation]);
-		
-
-    //--------------------------------------------------
-    // Parallel arrays must match
-    //--------------------------------------------------
+            : (npc.rank ? [npc.rank] : []);
 
     if (roles.length !== ranks.length)
         return false;
 
-	if (f.affiliation !== "" && f.affiliation !== "Any")
-	{
-	    affiliationFound = false;
-	
-	    for (const affiliation of affiliations)
-	    {
-			if (getLinkLabel(affiliation) === f.affiliation)
-			{
-			    affiliationFound = true;
-			    break;
-			}
-	    }
-	
-	    if (!affiliationFound)
-	        return false;
-	}
-	
     //--------------------------------------------------
-    // Iterate every role
+    // Affiliation
     //--------------------------------------------------
-    if (f.role !== "" || f.rank > 0)
+
+    if (f.affiliation !== "" && f.affiliation !== "Any")
     {
-	    for (let i = 0; i < roles.length; i++)
-	    {
-	        const role = String(roles[i]);
-	
-	        const rank = Number(ranks[i]);
-	
-	        //--------------------------------------------------
-	        // Any role selected
-	        //--------------------------------------------------
-	
-	        if (f.role === "")
-	        {
-	            if (compare(rank, f.operator, f.rank))
-	                return true;
-	
-	            continue;
-	        }
-	
-	        //--------------------------------------------------
-	        // Specific role
-	        //--------------------------------------------------
-	
-	        if (role !== f.role)
-	            continue;
-	
-	        if (compare(rank, f.operator, f.rank))
-	            return true;
-	    }
-	}
-	else
-	{
-		return affiliationFound;
+        const affiliations =
+            Array.isArray(npc.affiliation)
+                ? npc.affiliation
+                : (npc.affiliation ? [npc.affiliation] : []);
+
+        let found = false;
+
+        for (const affiliation of affiliations)
+        {
+            if (getLinkLabel(affiliation) === f.affiliation)
+            {
+                found = true;
+                break;
+            }
+        }
+
+        if (!found)
+            return false;
+    }
+
+    //--------------------------------------------------
+    // District
+    //--------------------------------------------------
+
+    if (f.district !== "" && f.district !== "Any")
+    {
+        if (!npcInDistrict(npc, f.district))
+            return false;
+    }
+
+    //--------------------------------------------------
+    // Role disabled
+    //--------------------------------------------------
+
+    if (f.role === "" && f.rank === 0)
+        return true;
+
+    //--------------------------------------------------
+    // Role matching
+    //--------------------------------------------------
+
+    for (let i = 0; i < roles.length; i++)
+    {
+        const role = String(roles[i]);
+        const rank = Number(ranks[i]);
+
+        if (f.role === "")
+        {
+            if (compare(rank, f.operator, f.rank))
+                return true;
+
+            continue;
+        }
+
+        if (role !== f.role)
+            continue;
+
+        if (compare(rank, f.operator, f.rank))
+            return true;
     }
 
     return false;
@@ -614,7 +844,9 @@ filters.operator.onchange = refresh;
 
 filters.rank.oninput = refresh;
 
-filters.affiliation.oninput = refresh;
+filters.affiliation.onchange = refresh;
+
+filters.district.onchange = refresh;
 
 // ======================================================
 // COMPUTE RESULTS
