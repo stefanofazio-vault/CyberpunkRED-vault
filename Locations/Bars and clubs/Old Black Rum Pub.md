@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Watson]]'
+---
+
 #### Old Black Rum Pub
 Un pub situato nel [[Watson]], vicino agli [[Ebunike Docks]], molto popolare poichè il *bartender*, oltre all'alcool, fornisce anche Surge per tenere svegli i lavoratori dei turni di notte.

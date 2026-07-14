@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Quartiere universitario]]'
+---
+
 #### Biotechnica Campus
 Quartier generale di [[Biotechnica]], con sede nel [[Quartiere universitario]]. Oltre a essere il luogo dove si trovano gli uffici corporativi, parte dell'edificio è a libero accesso del pubblico e funge da zoo, parco botanico e macchina da pubblicità corporativa.
 

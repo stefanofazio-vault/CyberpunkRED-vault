@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Heywood Industrial Zone]]'
+---
+
 #### Aldecaldo Depot
 "Replica" del [[Campo Aldecaldo]] situata nella [[Heywood Industrial Zone]] che funge da punto di contatto con gli [[Aldecaldo]] senza avere la necessità di uscire dal territorio di Night City. La struttura consiste in un grosso magazzino pieno di tende gestite da nomadi che offrono vari servizi.

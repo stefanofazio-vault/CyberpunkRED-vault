@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Old Japantown]]'
+---
+
 #### Kakoi-chō
 Un quartiere a [[Old Japantown]] che funge sostanzialmente da riflesso di com'era Japantown prima dell'esplosione della bomba. Alcune ricche famiglie si sono rifiutate di traslocare ai tempi del disastro, creando quello che è a tutti gli effetti un forte difeso dalla [[Kimen-Gumi]].

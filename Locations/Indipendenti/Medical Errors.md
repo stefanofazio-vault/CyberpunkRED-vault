@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/New Westbrook]]'
+---
+
 #### Medical Errors
 Una clinica a [[New Westbrook]] nota per non far pagare i clienti che sono disposti a sottoporsi a *check-up* regolari per aiutare la ricerca sugli effetti dell'inquinamento che il proprietario sta seguendo da anni. I *check-up* sono dolorosi poiché la clinica non ha fondi per l'anestetico.

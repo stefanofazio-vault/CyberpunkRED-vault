@@ -1,3 +1,6 @@
+---
+location: "[[Neighbourhoods/Quartiere universitario]]"
+---
 #### K.A.T.
 La K.A.T. è stata un'officina di tecnici, locata tra il [[Quartiere universitario]] e il [[Porto di Night City]]. 
 

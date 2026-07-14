@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Kabuki]]'
+---
+
 #### Tengen Towers
 Coppia di torri situate a [[Kabuki]] che fungono da sede centrale degli uffici di [[Factions/Corporations/Kendachi|Kendachi]] e [[Factions/Corporations/Kiroshi|Kiroshi]]. I piani dal piano terra al quarto sono condivisi, prima che le torri si separino, e ospitano uno showroom e una clinica comuni.

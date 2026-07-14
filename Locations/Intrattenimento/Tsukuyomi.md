@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Old Japantown]]'
+---
+
 #### Tsukuyomi
 Un bordello gestito dalle lavoratrici situato a [[Old Japantown]]. Il posto è pulito e l'ambiente lavorativo rispetta sia le lavoratrici che i clienti. La proprietaria ([[Kotone Shiomi]]) sta dialogando con i [[Piranhas]] per far mettere il posto sotto la loro protezione.

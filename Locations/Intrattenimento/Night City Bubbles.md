@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Upper Marina]]'
+---
+
 #### Night City Bubbles
 Night City Bubbles è una SPA di altissimo livello con un forte focus sulla prostituzione d'alta classe. È qui possibile noleggiare dei servizi *on site* ma anche assumere dei dipendenti come escort da portare fuori. 
 

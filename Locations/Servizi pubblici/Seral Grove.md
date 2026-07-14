@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Charter Hill]]'
+---
+
 #### Seral Grove
 Un'installazione di arte moderna nei sotterranei di [[Charter Hill]] che funge anche da cimitero. Qui, i ricchissimi possono parlare con i propri cari defunti grazie a delle SAAI modellate sulla personalità del defunto che vengono proiettate dalle tombe. 

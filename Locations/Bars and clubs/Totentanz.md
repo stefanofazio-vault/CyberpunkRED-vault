@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Zona calda]]'
+---
+
 #### Totentanz
 Il Totentanz è un rave bar localizzato nella [[Zona calda]] di Night City e base operativa dei [[Maelstrom]]. Il Totentanz attivo nel 2045 è il secondo Totentanz, aperto in sostituzione al primo rimasto distrutto nell'Olocausto di Night City. 
 

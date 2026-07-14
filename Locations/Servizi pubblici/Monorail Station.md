@@ -1,2 +1,5 @@
+---
+location: "[[Neighbourhoods/Executive Zone]]"
+---
 #### Monorail Station
 Stazione della monorotaia dedicata ai corporativi di alto livello con sede nella [[Executive Zone]]. La monorotaia si ferma solo a [[Charter Hill]] per poi fermarsi nelle varie sedi corporative più importanti. La sicurezza è fornita da [[Lazarus]].

@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Upper Marina]]'
+---
+
 #### La Lune Bleu
 La Lune Bleu è un ristorante francese d'alta classe situato ad [[Upper Marina]]. 
 Il locale segue rigide regolamentazioni riguardo il *dress code* arrivando a negare il servizio nei casi in cui qualcuno si presenti vestito in maniera non consona. 

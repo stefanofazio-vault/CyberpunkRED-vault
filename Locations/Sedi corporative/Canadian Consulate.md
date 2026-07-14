@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Watson]]'
+---
+
 #### Canadian Consulate
 Consolato canadese situato a [[Watson]]. Alleati diretti di [[Petrochem]]. Girano voci che il posto sia una base d'operazione da parte dei canadesi per recuperare informazioni dalla [[Vecchia Rete]].

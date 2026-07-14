@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Santo Domingo]]'
+---
+
 #### Coronado Dam
 Diga gestita da [[Petrochem]] situata a [[Santo Domingo]] che fornisce acqua potabile alla città. Gli [[Aldecaldo]] proteggono la zona poiché non vogliono che il [[Campo Aldecaldo]] venga allagato in seguito a qualche attentato terroristico.

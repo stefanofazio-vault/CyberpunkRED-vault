@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Pacifica]]'
+---
+
 #### WNS Offices
 La sede di [[WNS]] a [[Pacifica]]. Non paragonabile con quella della diretta concorrenza di [[Network 54]]. 

@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Glen]]'
+---
+
 #### Seafoam
 Un *cube hotel* situato nel [[Glen]], che condivide molta della clientela con il [[Club Atlantis]]. Spesso, però, i beni di chi alloggia qui spariscono, di solito per colpa dei [[Reckoners]].

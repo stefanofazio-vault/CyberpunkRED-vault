@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Little China]]'
+---
+
 #### Guăngbō Tower
 Una torre a [[Little China]] che era stata inizialmente costruita come simbolo delle speranze che i precedenti city manager riponevano nel quartiere. Ora è decaduta, ma contiene comunque una serie di attività commerciali.

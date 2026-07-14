@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Glen]]'
+---
+
 #### Clinica Vogel
 La clinica Vogel è una clinica privata locata nel [[Glen]]. È stata aperta e gestita da [[Alphonsus Vogel]] per più di trent'anni, fornendo cure a costi onesti a molti sfortunati di Night City. 
 

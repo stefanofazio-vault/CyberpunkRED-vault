@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Old Japantown]]'
+---
+
 #### Highcourt Plaza Hotel
 Un hotel di classe ed estremamente ben difeso ad [[Old Japantown]]. Un'eccezione nel panorama del distretto, gli ospiti vengono portati qui tramite AV-4 per evitare la zona di combattimento.

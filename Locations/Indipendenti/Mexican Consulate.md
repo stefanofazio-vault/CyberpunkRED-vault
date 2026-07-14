@@ -1,2 +1,6 @@
+---
+location: '[[Locations/Indipendenti/Consulate Causeway]]'
+---
+
 #### Mexican Consulate
 Consolato messicano con sede nella [[Consulate Causeway]]. I politici qui hanno ben poco potere; ogni *task* che esuli dal rinnovo degli ID viene mandato direttamente in Messico.

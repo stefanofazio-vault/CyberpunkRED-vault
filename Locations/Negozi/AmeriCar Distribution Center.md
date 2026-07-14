@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/North Heywood]]'
+---
+
 #### AmeriCar Distribution Center
 Centro di vendita e stoccaggio automobili situato a [[North Heywood]] che contiene centinaia di automobili pronte a essere vendute. È protetto dai [[6th Street]] e una volta a settimana gli [[Aldecaldo]] vengono a portare o ritirare automobili.

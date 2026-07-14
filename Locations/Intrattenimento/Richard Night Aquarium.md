@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Little China]]'
+---
+
 #### Richard Night Aquarium
 Vecchio acquario pubblico a [[Little China]] che non è sopravvissuto all'esplosione della bomba. È stato recentemente acquistato da [[Factions/Corporations/Hydrosubsidium|Hydrosubsidium]] nell'ottica di sfruttarlo come marketing. Attualmente è sede di uno squalo bianco. Curato da [[Director Krista Chung]].

@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Watson]]'
+---
+
 #### The Pachinko Carnival
 Una fiera che ha messo radici a [[Watson]] che sembra non aver intenzione di andarsene. Le macchine sono ben mantenute e i proprietari truccano i giochi solo quando a giocare sono gli adulti. 

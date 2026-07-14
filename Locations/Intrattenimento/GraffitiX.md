@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Upper Marina]]'
+---
+
 #### GraffitiX
 Il GraffitiX è una mostra d'arte permanente dedicata ai principali artisti emergenti di Night City. 
 

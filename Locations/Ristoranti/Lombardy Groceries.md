@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Old Japantown]]'
+---
+
 #### Lombardy Groceries
 *Bodega* della [[Night City University]]. Attualmente gestita da un'imprenditrice di [[Old Japantown]]. Il rettore sta ricevendo pressioni da [[Continental Brands]] e [[Petrochem]] per sostituire la gestione con dei loro *franchise*.

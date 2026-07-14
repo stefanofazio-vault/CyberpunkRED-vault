@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Upper Marina]]'
+---
+
 #### Upper Marina Substation #2
 Una delle centrali elettriche di Night City che però ha ricevuto il "trattamento [[Upper Marina]]". Infatti, il posto viene utilizzato dai residenti alla stregua di un parco grazie al verde (sintetico, ovviamente) installato da [[Biotechnica]]. 

@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Charter Hill]]'
+---
+
 #### Your Big Next Crèche
 Asilo per bambini da zero a sette anni con sede a [[Charter Hill]] che offre due pacchetti diversi: il "Working Parent", che prevede capsule criostatiche, BD educative e un'ora garantita di gioco all'aperto e il "Protect and Learn", con educazione *live* con personale altamente qualificato.
 [[Militech]] offre la sicurezza qui, prioritizzando i clienti del pacchetto "Protect and Learn".

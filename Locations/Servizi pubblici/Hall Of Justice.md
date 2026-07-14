@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Glen]]'
+---
+
 #### Hall Of Justice
 Corte di giustizia situata nel [[Glen]]. È uno degli edifici più appariscenti della città. Qui sono situate sia la prigione che il tribunale. All'esterno è presente un anfiteatro dove vengono giustiziati i prigionieri soggetti a pena di morte. È possibile acquistare un biglietto per assistere alle esecuzioni. I posti sono sempre pieni.

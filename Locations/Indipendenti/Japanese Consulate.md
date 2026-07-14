@@ -1,2 +1,6 @@
+---
+location: '[[Locations/Indipendenti/Consulate Causeway]]'
+---
+
 #### Japanese Consulate
 Consolato giapponese con sede nella [[Consulate Causeway]]. Ci sono voci riguardanti il supporto che il consolato offre ad [[Arasaka]] per riprendere le operazioni a Night City, ma le informazioni non sono certe.

@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Reclamation Zone]]'
+---
+
 #### Foundry Tech School
 Scuola professionalizzante che mira a creare uomini capaci di svolgere lavori veri, come riparazione cyberware, manutenzione dei treni o idraulica.
 

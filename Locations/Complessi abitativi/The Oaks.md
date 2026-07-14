@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/NorCal MIlitary Zone]]'
+---
+
 #### The Oaks
 Quartiere residenziale sito all'interno della [[NorCal Military Zone]], dove i militari possono ottenere degli appartamenti dove vivere con le proprie famiglie o, se il grado è sufficientemente alto, delle case vere e proprie.

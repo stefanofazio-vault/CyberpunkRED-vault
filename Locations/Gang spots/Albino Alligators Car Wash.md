@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Rancho Coronado]]'
+---
+
 #### Albino Alligators Carwash
 Base degli [[Albino Alligators]] a [[Rancho Coronado]]. Questo posto dona loro un certo potere nel quartiere in quanto sede di una delle poche fonti di acqua potabile della zona. L'unico motivo per il quale l'acqua non viene bloccata prima di arrivare qui è che gli stessi tubi servono i [[Tanson Group Headquarters]]. 

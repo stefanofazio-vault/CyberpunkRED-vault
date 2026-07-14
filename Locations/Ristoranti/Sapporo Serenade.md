@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Upper Marina]]'
+---
+
 #### Sapporo Serenade
 Sushi bar di alto livello situato ad [[Upper Marina]], vicino alla Old Japantown. 
 La clientela media del locale ha soldi da spendere oppure vuole far credere che ne abbia. 

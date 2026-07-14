@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Old Combat Zone]]'
+---
+
 #### Kibble Kirble
 Una bodega nella [[Old Combat Zone]] specializzata nella vendita di prodotti utili ma di bassa qualità. Curiosamente, tutti i dipendenti hanno nomi che iniziano per K (Ken, Kandi, Kerri, etc...) e qualcuno pensa che la bodega sia in realtà la copertura per una setta.

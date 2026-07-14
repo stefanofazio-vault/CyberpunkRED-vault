@@ -1,2 +1,5 @@
+---
+location: "[[Neighbourhoods/Old Japantown]]"
+---
 #### White Side
 Questo punto di scambio vicino alla [[Zona calda]] e ancora situato a [[Old Japantown]] è un posto di ritrovo popolare per gli [[Scavengers]]. La proprietà del posto viene contesa con la [[Red Chrome Legion]]. I muri sono pieni di graffiti fascisti.

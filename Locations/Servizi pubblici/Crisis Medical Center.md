@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Old Japantown]]'
+---
+
 #### Crisis Medical Center
 Una clinica che non fa nessun tipo di domanda sul tipo di intervento che viene (o che è) richiesto. Si trova ad [[Old Japantown]]. Molte corpo usano strutture come queste per effettuare esperimenti.

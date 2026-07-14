@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/North Heywood]]'
+---
+
 #### Haywire Circuit Gym
 Una palestra lungi dall'essere moderna (o ben mantenuta) ma certamente storica situata a [[North Heywood]]. Il proprietario è un *solo* ritirato che a volte procura ai migliori clienti dei lavoretti sotto banco.

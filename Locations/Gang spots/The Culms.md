@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Rancho Coronado]]'
+---
+
 #### The Culms
 Foresta di bamboo misteriosamente mutato a [[Rancho Coronado]]. È controllata dai [[Weng Fang Tong]] che vendono il bamboo come materiale edile. Non smette mai di crescere, tanto che se ci si avvicina si sente lo scricchiolio delle fibre che si stendono.

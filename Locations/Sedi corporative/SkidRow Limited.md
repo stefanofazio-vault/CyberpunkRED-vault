@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Watson]]'
+---
+
 #### SkidRow Limited
 Un'azienda di abiti e design che combina l'estetica *edgerunner* con l'alta moda. Pare che siano in trattativa con [[Danger Gal]] per creare una linea di abbigliamento ispirata all'agenzia. Situata a [[Watson]].

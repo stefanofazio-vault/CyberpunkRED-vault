@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/New Westbrook]]'
+---
+
 #### Rocklin Augmentics Innovation Hub
 Un complesso abitativo della [[Rocklin Augmentics]] situato a [[New Westbrook]] e collegato al [[Rocklin Augmentics Campus]] tramite un tunnel sotterraneo lungo l'intero distretto. Gli appartamenti sono studiati in modo tale da favorire la progettazione... o il lavoro intensivo.

@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/NorCal MIlitary Zone]]'
+---
+
 #### USO Hall
 Coppia di club situati nella [[NorCal Military Zone]]. Il primo, il "*Relief Valve*" è un locale tranquillo rispetto alla media di Night City ma è comunque una buona scelta per bere o ballare. Frequentato principalmente dai bassi gradi.
 

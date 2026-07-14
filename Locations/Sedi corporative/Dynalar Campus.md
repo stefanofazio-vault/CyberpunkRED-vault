@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/North Heywood]]'
+---
+
 #### Dynalar Campus
 Quartier generale di [[Dynalar]] situato a [[North Heywood]] che ospita uffici, centri di R&D e un piccolo impianto produttivo. Offre una serie di bonus ai dipendenti come una palestra, un arcade, una mensa.

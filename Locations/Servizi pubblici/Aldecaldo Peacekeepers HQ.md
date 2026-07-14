@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Santo Domingo]]'
+---
+
 #### Aldecaldo Peacekeepers HQ
 Quartier generale della divisione sicurezza degli [[Aldecaldo]] presso [[Santo Domingo]]. Sembra, a tutti gli effetti, un distretto di polizia ed è un ottimo punto di riferimento nel quartiere.

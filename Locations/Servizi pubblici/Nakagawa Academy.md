@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Kabuki]]'
+---
+
 #### Nakagawa Academy
 Un istituto educativo fondato dalla Nakagawa Foundation con sede a [[Kabuki]]. Offre servizi dall'asilo fino alle scuole superiori e le rette sono particolarmente convenienti (si parla di 100 eddies/mese). 
 

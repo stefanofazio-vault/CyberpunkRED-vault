@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Quartiere universitario]]'
+---
+
 #### University Crèche
 Asilo nido situato nel [[Quartiere universitario]] e gestito dalla [[Night City University]]. Molti degli insegnanti sono studenti di psicologia dell'università. I costi sono contenuti.

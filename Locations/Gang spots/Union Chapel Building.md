@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/South Night City]]'
+---
+
 #### Union Chapel Building
 Una volta era uno dei punt di interesse architetturali e artistici di [[South Night City]]. Ora, invece, è un grosso edificio ufficialmente abbandonato. Gira voce che i [[Reckoners]] abbiano messo base qui.

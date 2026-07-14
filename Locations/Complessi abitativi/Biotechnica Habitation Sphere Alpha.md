@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Quartiere universitario]]'
+---
+
 #### Biotechnica Habitation Sphere Alpha
 Circa metà dei dipendenti di [[Biotechnica]] di Night City vivono in questa struttura nel [[Quartiere universitario]], composta da un sistema di cupole interconnesse da tunnel di vetro.
 

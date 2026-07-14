@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/North Heywood]]'
+---
+
 #### Perennial Heights - The Rapture
 Al piano terra, il Perennial Heights è solo un edificio amministrativo completamente anonimo situato a [[North Heywood]]. Nel seminterrato, tuttavia, è situato il Rapture, un *fight club* con focus sulla sicurezza e privacy di chi lo frequenta. Il *fight club* è principalmente frequentato da gente non addestrata che vuole sfogare la rabbia quotidiana o farsi un nome, piuttosto che da *solo* ben addestrati.

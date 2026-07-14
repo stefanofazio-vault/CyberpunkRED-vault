@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Pacifica]]'
+---
+
 #### Quaid Winston Memorial De-Salinization Plant
 Struttura di de-salinizzazione dell'acqua gestita da [[Factions/Corporations/Hydrosubsidium|Hydrosubsidium]] a [[Pacifica]].
 

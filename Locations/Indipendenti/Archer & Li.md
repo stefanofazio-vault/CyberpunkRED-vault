@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Glen]]'
+---
+
 #### Archer & Li
 Uno studio di architettura situato nel [[Glen]] caratterizzato dall'insolita storia che li precede. Infatti, i due sono due ex *edgerunners* che si sono finti architetti fino a che non sono riusciti ad ottenere un importante appalto. Una volta finito il lavoro, il tutto è uscito allo scoperto... ma per evitare lo scandalo, i due sono stati eletti architetti *ad honorem*.

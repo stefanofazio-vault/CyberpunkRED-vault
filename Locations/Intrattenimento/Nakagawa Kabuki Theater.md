@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Kabuki]]'
+---
+
 #### Nakagawa Kabuki Theater
 Teatro kabuki situato a [[Kabuki]]. È senza dubbio l'edificio più magnifico di tutto il distretto e ospita un teatro, modellato sul più amato teatro di Tokyo, un museo sulla storia del distretto e un negozio di souvenir. È sede della [[Nakagawa Foundation]]. 

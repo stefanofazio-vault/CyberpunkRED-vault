@@ -1,2 +1,6 @@
+---
+location: '[[Locations/Gang spots/Campo Aldecaldo]]'
+---
+
 #### Sol Canela Park
 Zona del [[Campo Aldecaldo]] dove i nomadi con il pollice verde possono curare degli spazi verdi. La zona è anche adibita per giocare a calcio, fare picnic ed è una zona consigliata per gli appuntamenti.

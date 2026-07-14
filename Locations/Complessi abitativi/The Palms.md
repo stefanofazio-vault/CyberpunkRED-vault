@@ -1,2 +1,6 @@
+---
+location: '[[Locations/Complessi abitativi/Woodland Park]]'
+---
+
 #### The Palms
 Una comunità cargo situata nel [[Woodland Park]] che offre alloggio ma anche cibo grazie al *food truck* sempre parcheggiato di fronte alla struttura. Vive di spirito DIY e senso di comunità.

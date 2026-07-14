@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Glen]]'
+---
+
 #### SerpentZ
 La SerpentZ è un'officina di tecnici situata nel [[Glen]] e fondata nel 2039 da [[Kyle '$€4N' Léger]] (ora $€4N) e [[Tyler]] (ora Z€N1TH). 
 

@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Porto di Night City]]'
+---
+
 #### Floatsam
 Una piccola comunità al largo del [[Porto di Night City]] costruita su una struttura di zattere, pontili, barche e quant'altro. Ha qui sede il Randy Dandy, un locale gestito da [[Skipper]], un membro dei [[Thelas]].

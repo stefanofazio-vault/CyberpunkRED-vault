@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Little Europe]]'
+---
+
 #### Kaito Market
 Un mercato a cielo aperto situato a [[Little Europe]] che apre i battenti solo da giovedì a domenica, con i vari *stand* che vengono affittati su base settimanale portando ad un *turnover* di venditori estremo. Non viene pubblicizzato.

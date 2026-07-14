@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Little Europe]]'
+---
+
 #### Greta's
 Il locale di Greta era un locale situato a [[Little Europe]] principalmente frequentato da lesbiche che però ha dovuto re-inventarsi in una sala da biliardo. La maggior parte dei giocatori di Night City si trova qui e, sebbene non esistano veri e propri professionisti, molti di loro sopravvivono grazie alle scommesse.
 

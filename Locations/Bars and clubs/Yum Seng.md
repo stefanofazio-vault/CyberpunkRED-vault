@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Kabuki]]'
+---
+
 #### Yum Seng
 Un *host and hostesses* bar situato a [[Kabuki]], noto per gli host e le hostess particolarmente attraenti (la maggior parte ricorrono alla bioscultura). I frutti di mare che si possono mangiare qui sono i migliori di Night City e le cabine per il karaoke sono ottimamente insonorizzate, ma nessuno fa affari illeciti qui perchè non si può avere accesso alle cabine senza avere un host o una hostess associati.

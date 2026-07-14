@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Executive Zone]]'
+---
+
 #### HOA Offices
 Uffici nella [[Executive Zone]] della *Home Owners Association*. La struttura è ovviamente di primo livello e prevede uffici, sale relax, appartamenti e una architettura di rete *custom* fornita da [[Ziggurat]].

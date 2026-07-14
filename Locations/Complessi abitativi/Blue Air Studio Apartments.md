@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/North Heywood]]'
+---
+
 #### Blue Air Studio Apartments
 Complesso di appartamenti situato a [[North Heywood]] ricavato da un vecchio motel. Lo stile è uno strano mix della nostalgia 2020 con lo spirito DIY del 2045. È principalmente abitato da nomadi che stanno pensando di abbandonare la vita sulla strada.

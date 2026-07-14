@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Reclamation Zone]]'
+---
+
 #### Booster Bistro
 Locale della [[Reclamation Zone]] in cui la gente solitamente entra cercando degli uomini da ingaggiare. Gli stessi, poi, rimangono per il fantastico cibo.

@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Executive Zone]]'
+---
+
 #### Oasis (Executive Zone)
 L'Oasis che si trova nella [[Executive Zone]] si distingue dagli altri per via della qualità dei prodotti che offre. È uno dei pochi posti in tutta Night City dove è possibile acquistare fiori.

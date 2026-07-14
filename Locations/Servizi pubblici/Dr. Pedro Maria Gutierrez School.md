@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Santo Domingo]]'
+---
+
 #### Dr. Pedro Maria Gutierrez School
 Scuola principale di tutta [[Santo Domingo]], con sede presso il [[Campo Aldecaldo]]. Gestita dai nomadi, che offrono educazione gratis incoraggiando però donazioni per sostenere la struttura. 
 

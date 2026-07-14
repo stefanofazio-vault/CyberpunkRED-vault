@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Old Japantown]]'
+---
+
 #### Unnamed Cube Hotel
 Un *cube hotel* misterioso (e terribile) situato a [[Old Japantown]]. Non c'è staff, non c'è sicurezza, i pagamenti sono solo elettronici e le stanze vengono "pulite" tramite degli irrigatori montati sul soffitto.

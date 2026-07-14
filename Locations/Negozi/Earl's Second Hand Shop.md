@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Reclamation Zone]]'
+---
+
 #### Earl's Second Hand Shop
 Un negozio della [[Reclamation Zone]] estremamente claustrofobico che offre prodotti di seconda mano a prezzi da nuovo, ma offre anche un comodissimo servizio di prestiti a tassi ragionevoli.
 

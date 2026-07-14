@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Kabuki]]'
+---
+
 #### Toranoko Gakuen
 Orfanotrofio gestito dai [[Tyger Claws]] situato a [[Kabuki]]. L'educazione dei bambini viene impartita nell'ottica di far entrare i bambini più promettenti nelle corpo facenti parte dell'NCCS. Gira voce che i bambini vengano condizionati tramite *braindance* a essere leali alla gang.

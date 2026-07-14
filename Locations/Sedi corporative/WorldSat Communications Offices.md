@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/New Westbrook]]'
+---
+
 #### WorldSat Communications Offices
 Sede a [[New Westbrook]] della [[WorldSat]] e principale punto di contatto tra Night City e il resto del mondo. Per questo motivo, la struttura è arroccata su una collina rocciosa e pesantemente difesa.

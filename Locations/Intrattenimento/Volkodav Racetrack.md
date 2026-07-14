@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Pacifica]]'
+---
+
 #### Volkodav Racetrack
 Un circuito di scommesse su corse e combattimenti di cani robot situato a [[Pacifica]]. Offre anche servizi come prostitute, XBD e affini. Gestito dai [[Voodoo Boys]], che registrano le XBD nel seminterrato.

@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Upper Marina]]'
+---
+
 #### Otter Docks Transfer Station
 Centro di interscambio ad [[Upper Marina]] dove i materiali di scarto di vari cantieri sparsi per la città vengono separati, imballati e spediti per essere riutilizzati. La sicurezza è blanda e gli [[Scavengers]] spesso si intrufolano per curiosare nelle pile di scarto o per utilizzare i macchinari per "separare meccanicamente" qualcuno.

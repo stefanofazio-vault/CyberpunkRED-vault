@@ -1,2 +1,5 @@
+---
+location: "[[Neighbourhoods/Quartiere universitario]]"
+---
 #### Parkside Living
 Complesso abitativo nel [[Quartiere universitario]], abitato principalmente da studenti. Gli appartamenti sono di alta qualità e la vicinanza al [[Glen]] fa alzare molto l'affitto.

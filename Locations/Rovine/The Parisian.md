@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Little China]]'
+---
+
 #### The Parisian
 Vecchio centro di ritrovo a [[Little China]] della Yakuza, è rimasto completamente impraticabile dopo l'esplosione. I lavori di ristrutturazione sono appena iniziati e finora viene solo affittato per fare da scenografia per film e BD.

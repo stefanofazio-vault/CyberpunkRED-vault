@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Kabuki]]'
+---
+
 #### Cyborg Station
 Negozio di un tech a [[Kabuki]] specializzato nell'upgrade estremo di qualunque cyberware. Il valore di questa attività è ben noto ed è nell'interesse di tutti nel quartiere che rimanga a Kabuki. Per questo i [[Tyger Claws]] offrono protezione costante.

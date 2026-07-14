@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Upper Marina]]'
+---
+
 #### Great River Storehouse
 L'ultimo ritrovato per quello che concerne lo shopping a Night City, situato ad [[Upper Marina]]. [[Ziggurat]] permette tramite questa struttura la possibilità a pochi eletti di acquistare prodotti esclusivi che vengono consegnati dove richiesto (ma solo in zone sicure) nel giro di un'ora.
 Il magazzino è enormemente fornito con beni di alto valore, motivo per il quale la sicurezza è molto stringente.

@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Upper Marina]]'
+---
+
 #### The Grand Illusion
 Un locale ad [[Upper Marina]] acquistato da Kerry Eurodyne e Johnny Silverhand per promuovere la musica dal vivo. È il sogno di molte piccole band dato che gira voce che la *manager* riferisca direttamente a Kerry nel caso in cui un vero talento si presenti a suonare.

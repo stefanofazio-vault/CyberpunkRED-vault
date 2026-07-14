@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Kabuki]]'
+---
+
 #### Kabuki Ceremonial Hall
 Una location particolare situata a [[Kabuki]] che mira ad essere un "centro commerciale di *location* cerimoniali". Infatti, questo strano edificio è costituito da un tempio *shinto*, un tempio buddhista e una cappella cristiana.
 In questo modo, i clienti che vogliono sposarsi in chiesa ma avere foto di matrimonio a tema shintoista o viceversa non devono spostarsi di molto tra una cosa e l'altra.

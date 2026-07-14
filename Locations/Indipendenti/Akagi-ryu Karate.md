@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Watson]]'
+---
+
 #### Akagi-ryu Karate
 Dojo situato a [[Watson]] che offre lezioni di lingua e cultura giapponese oltre a quelle di arti marziali. Il figlio del proprietario è il capo del [[Kimen-Gumi]] e capita che passi a cercare reclute promettenti.

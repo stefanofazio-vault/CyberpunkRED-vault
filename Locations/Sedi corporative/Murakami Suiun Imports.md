@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Kabuki]]'
+---
+
 #### Murakami Suiun Imports
 Il principale importatore di beni generici dal Giappone, con sede a [[Kabuki]]. Una volta al mese, qui viene tenuto un Mercato Notturno incentrato su auto e moto giapponesi modificate per essere guidate legalmente a Night City. Di proprietà di [[Yoshiki Murakami]].

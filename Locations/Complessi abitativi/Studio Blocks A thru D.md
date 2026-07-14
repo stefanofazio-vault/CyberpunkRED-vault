@@ -1,3 +1,7 @@
+---
+location: '[[Neighbourhoods/Downtown]]'
+---
+
 #### Studio Blocks A thru D
 Un complesso abitativo situato a [[Downtown]] composto di quattro edifici. A e D sono distrutti e disabitati, ma sono sede di alcuni graffiti di ottima qualità.
 

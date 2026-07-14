@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Old Combat Zone]]'
+---
+
 #### Jesse James' Kosher Deli
 Sede centrale nella [[Old Combat Zone]] della [[Edgerunners Inc.]] e pub di buon livello. Le regole del posto promuovono la risoluzione pacifica delle incomprensioni ma quando ciò non fosse possibile viene ricavata un'arena dal centro del locale dove i due litiganti possono risolvere la questione con i pugni.

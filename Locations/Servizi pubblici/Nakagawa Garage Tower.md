@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Kabuki]]'
+---
+
 #### Nakagawa Garage Tower
 Un colossale parcheggio per automobili situato a [[Kabuki]]. Si sviluppa per cinque piani sotterranei e cinque piani in altezza. Funziona sostanzialmente come un magazzino automatico. È estremamente ben difeso.

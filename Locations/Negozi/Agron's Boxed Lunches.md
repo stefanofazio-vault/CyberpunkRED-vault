@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Heywood Industrial Zone]]'
+---
+
 #### Agron's Boxed Lunches
 Negozio che vende pasti pronti ai lavorato della [[Heywood Industrial Zone]]. Il proprietario, inoltre, offre prestiti senza fare nessun tipo di domande. Chi salta una rata riceve una visita da qualcuno del [[Consortium]].

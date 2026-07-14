@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Executive Zone]]'
+---
+
 #### Executive Zone Casino - Country Club
 *Country club* e casinò esclusivo situato nella [[Executive Zone]]. L'accesso non è limitato ai soli residenti e chiunque possa permettersi un abbonamento può usufruire dei servizi della struttura.

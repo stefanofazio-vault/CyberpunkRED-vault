@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Downtown]]'
+---
+
 #### Folio
 Lo studio di una preveggente ([[Madame Folio]]) situato a [[Downtown]] che nel momento stesso in cui si accetta il suo "tè d'erbe" sta in realtà drogandoti per poi analizzare tutti i segnali vitali del malcapitato in modo da proporre delle "letture" interessanti. 

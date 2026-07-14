@@ -1,2 +1,6 @@
+---
+location: '[[Neighbourhoods/Downtown]]'
+---
+
 #### Europa Meatworks
 Un macellaio più unico che raro ricavato dalla struttura appartenente ad un vecchio sito industriale situato a [[Downtown]]. Meta obbligata per tutti gli appassionati di cibo di Night City, poiché qui si trovano salsicce e tagli di carne impossibili da reperire altrove.
