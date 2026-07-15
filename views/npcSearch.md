@@ -236,13 +236,30 @@ function renderRoles(parent, npc)
 
 function renderInternalLink(parent, link)
 {
+    if (!link)
+        return;
+
+    let path;
+    let label;
+
+    if (typeof link === "object")
+    {
+        path = link.path;
+        label = getLinkLabel(link);
+    }
+    else
+    {
+        path = String(link);
+        label = getLinkLabel(link);
+    }
+
     const a = parent.createEl("a", {
-        text: getLinkLabel(link),
-        href: link.path
+        text: label,
+        href: path
     });
 
     a.addClass("internal-link");
-    a.dataset.href = link.path;
+    a.dataset.href = path;
 }
 
 function renderAffiliations(parent, npc)
@@ -266,6 +283,58 @@ function renderAffiliations(parent, npc)
 		{
 		    line.setText(getLinkLabel(affiliation));
 		}
+    }
+}
+
+function renderDistrict(parent, npc)
+{
+    if (!npc.location)
+        return;
+
+    const locations =
+        Array.isArray(npc.location)
+            ? npc.location
+            : [npc.location];
+
+    const rendered = new Set();
+
+    for (const location of locations)
+    {
+        if (!location)
+            continue;
+
+        let path = null;
+
+        if (typeof location === "object" && location.path)
+        {
+            path = location.path;
+        }
+        else
+        {
+            const match =
+                String(location)
+                    .match(/^\[\[(.+?)(\|.+?)?\]\]$/);
+
+            if (match)
+                path = match[1];
+        }
+
+        if (!path)
+            continue;
+
+        const district = districtCache.get(path);
+
+        if (!district)
+            continue;
+
+        if (rendered.has(district.label))
+            continue;
+
+        rendered.add(district.label);
+
+        const line = parent.createDiv();
+
+        renderInternalLink(line, district.link);
     }
 }
 
@@ -517,13 +586,14 @@ function resolveDistrict(page)
 
 for (const page of neighbourhoodPages)
 {
-    districtCache.set(
-        page.file.path,
-        {
-            label: page.file.name,
-            link: page.file.link
-        }
-    );
+	districtCache.set(
+	    page.file.path,
+	    {
+	        label: page.file.name,
+	        link: page.file.link,
+	        path: page.file.path
+	    }
+	);
 }
 
 for (const page of locationPages)
@@ -533,13 +603,14 @@ for (const page of locationPages)
     if (!district)
         continue;
 
-    districtCache.set(
-        page.file.path,
-        {
-            label: getLinkLabel(district),
-            link: district
-        }
-    );
+	districtCache.set(
+	    page.file.path,
+	    {
+	        label: getLinkLabel(district),
+	        link: district,
+	        path: district.path
+	    }
+	);
 }
 
 // ======================================================
@@ -899,6 +970,14 @@ table.addColumn(
 	{
 		renderAffiliations(cell, npc);
 	}
+);
+
+table.addColumn(
+    "District",
+    (cell, npc) =>
+    {
+        renderDistrict(cell, npc);
+    }
 );
 
 table.addColumn(
