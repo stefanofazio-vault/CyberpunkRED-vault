@@ -136,7 +136,7 @@ ZOOMMAP-DATA id=map-1
       "x": 0.5393077622690076,
       "y": 0.3477024471601972,
       "layer": "default",
-      "link": "SK Securities",
+      "link": "Locations/Sedi corporative/SK Securities",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
