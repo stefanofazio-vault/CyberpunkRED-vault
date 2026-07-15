@@ -1,0 +1,1 @@
+Lavoratore presso il [[The Yard]]. Spia di [[Yago Abdulbaki]] per tenere d'occhio gli equilibri di potere al [[Porto di Night City]].
