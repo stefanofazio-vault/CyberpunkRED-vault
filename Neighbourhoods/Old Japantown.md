@@ -267,7 +267,7 @@ ZOOMMAP-DATA id=map-1
       "x": 0.5164236672434457,
       "y": 0.397931981581711,
       "layer": "default",
-      "link": "Mrs Suzuki's Bodega",
+      "link": "Mrs. Suzuki's Bodega",
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
