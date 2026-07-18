@@ -7,6 +7,7 @@ rank:
 - '4'
 affiliation: '[[Factions/Corporations/Network 54]]'
 ---
+![[chloe ashton.png|300]]
 
 Dipendente di [[Network 54]] e superiore di [[Rosa Lyn]], [[Thomas Watterson]], [[Mr. Bunny]] e [[Chen J.M. Lemon]].
 

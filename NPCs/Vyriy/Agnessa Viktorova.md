@@ -8,7 +8,7 @@ rank:
 affiliation: '[[Factions/Nomads/Vyriy]]'
 location: '[[Neighbourhoods/Porto di Night City]]'
 ---
-
+![[Agnessa.png|300]]
 
 Leader della divisione di Night City dei [[Vyriy]]. 
 ##### Obiettivo personale

@@ -6,6 +6,7 @@ rank:
 affiliation: "[[Factions/Organizations/Consortium]]"
 location: "[[The Amber Room]]"
 ---
+![[Valya.png|300]]
 
 Leader del [[Consortium]].
 
