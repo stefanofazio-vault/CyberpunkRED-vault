@@ -558,6 +558,17 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_j246fg",
+      "x": 0.6695388423774982,
+      "y": 0.5799487898374174,
+      "layer": "default",
+      "link": "Watson Residence",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [

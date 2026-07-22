@@ -294,6 +294,17 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_3n5tqg",
+      "x": 0.10886134078931627,
+      "y": 0.3858710122510349,
+      "layer": "default",
+      "link": "Black Hand",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [
