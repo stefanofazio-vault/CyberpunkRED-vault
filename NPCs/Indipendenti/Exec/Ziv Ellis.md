@@ -1,9 +1,11 @@
 ---
 role:
-- exec
+  - exec
 rank:
-- '6'
-affiliation: '[[Factions/Corporations/Clean Sweep Enterprises]]'
+  - "6"
+affiliation: "[[Factions/Corporations/Clean Sweep Enterprises]]"
+location:
+  - "[[Neighbourhoods/Glen]]"
 ---
 
-Proprietario del [[Clean Sweep Enterprises]]. Si dice che abbia ereditato l'azienda uccidendo il precedente proprietario. 
+Proprietaria del [[Clean Sweep Enterprises]]. Si dice che abbia ereditato l'azienda uccidendo il precedente proprietario. 
