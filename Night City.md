@@ -48,7 +48,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.4586131693204507,
       "layer": "default",
       "link": "Zona calda",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -59,7 +59,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.3975385275472456,
       "layer": "default",
       "link": "Executive Zone",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -70,7 +70,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.36744375303958227,
       "layer": "default",
       "link": "Charter Hill",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -81,7 +81,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.2966325506831156,
       "layer": "default",
       "link": "New Westbrook",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -92,7 +92,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.2136506729216312,
       "layer": "default",
       "link": "NorCal MIlitary Zone",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -103,7 +103,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.4190031665084671,
       "layer": "default",
       "link": "Little Europe",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -114,7 +114,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.43316539347359545,
       "layer": "default",
       "link": "Upper Marina",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -125,7 +125,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.44754891895225274,
       "layer": "default",
       "link": "Downtown",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -136,7 +136,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.49313361020998076,
       "layer": "default",
       "link": "Little China",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -147,7 +147,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.4940187704986841,
       "layer": "default",
       "link": "Quartiere universitario",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -158,7 +158,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.5448183017611273,
       "layer": "default",
       "link": "Glen",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -169,7 +169,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.5384970367195921,
       "layer": "default",
       "link": "Old Japantown",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -180,7 +180,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.5466846090043885,
       "layer": "default",
       "link": "South Night City",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": ""
     },
     {
@@ -190,7 +190,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.584082362070482,
       "layer": "default",
       "link": "Porto di Night City",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -201,7 +201,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.611743689614964,
       "layer": "default",
       "link": "Reclamation Zone",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -212,7 +212,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.5778858085488717,
       "layer": "default",
       "link": "Old Combat Zone",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -223,9 +223,11 @@ ZOOMMAP-DATA id=map-0
       "y": 0.28180646194281295,
       "layer": "default",
       "link": "Watson",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
-      "scaleLikeSticker": true
+      "scaleLikeSticker": true,
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
     },
     {
       "type": "pin",
@@ -234,7 +236,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.30260723912885995,
       "layer": "default",
       "link": "Kabuki",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -245,7 +247,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.5349564968610163,
       "layer": "default",
       "link": "Heywood Docks",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -256,7 +258,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.5677066847039646,
       "layer": "default",
       "link": "North Heywood",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -267,7 +269,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.5887287604035407,
       "layer": "default",
       "link": "Heywood Industrial Zone",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -278,7 +280,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.6938391410117593,
       "layer": "default",
       "link": "Santo Domingo",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -289,7 +291,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.6889708417270839,
       "layer": "default",
       "link": "Pacifica",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     },
@@ -300,7 +302,7 @@ ZOOMMAP-DATA id=map-0
       "y": 0.7845659919206438,
       "layer": "default",
       "link": "Rancho Coronado",
-      "iconKey": "pinRed",
+      "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
     }
@@ -318,7 +320,8 @@ ZOOMMAP-DATA id=map-0
     "travelDaysEnabled": false
   },
   "pinSizeOverrides": {
-    "pinRed": 248
+    "pinBlue": 248,
+    "pinBlue": 248
   },
   "grids": [],
   "panClamp": true,
