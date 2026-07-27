@@ -305,6 +305,226 @@ ZOOMMAP-DATA id=map-0
       "iconKey": "pinBlue",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_jnbcdg",
+      "x": 0.1528677245181202,
+      "y": 0.3372411920923575,
+      "layer": "default",
+      "link": "107.3 Morro Rock Radio",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_qp0tk0",
+      "x": 0.8731540542829506,
+      "y": 0.588239190422566,
+      "layer": "default",
+      "link": "Edgewood Farm",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_obk5wo",
+      "x": 0.9447531017149599,
+      "y": 0.6356356351793029,
+      "layer": "default",
+      "link": "Ingall Farm",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_c9pags",
+      "x": 0.7776887159743925,
+      "y": 0.8134181945962344,
+      "layer": "default",
+      "link": "Poppy Farm",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_hqma82",
+      "x": 0.5235120975907602,
+      "y": 0.9509968940957428,
+      "layer": "default",
+      "link": "Jackson Plains Regional Airport",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_qsrqmp",
+      "x": 0.8726766690326165,
+      "y": 0.7444445356197673,
+      "layer": "default",
+      "link": "Laguna Bend",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_fg4l9f",
+      "x": 0.8089536916204905,
+      "y": 0.607419101486779,
+      "layer": "default",
+      "link": "Municipal Landfill",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_ubboel",
+      "x": 0.1788819868176295,
+      "y": 0.3857441338134964,
+      "layer": "default",
+      "link": "Night City Spaceport",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_3kdipl",
+      "x": 0.947617238414602,
+      "y": 0.5177901121105276,
+      "layer": "default",
+      "link": "NorCal Marshal Station",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_nohddp",
+      "x": 0.5781660662642543,
+      "y": 0.11187774361742349,
+      "layer": "default",
+      "link": "Militech Ballistics and Explosive Range",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_vl3owx",
+      "x": 0.5984524921703838,
+      "y": 0.8929040306111354,
+      "layer": "default",
+      "link": "Night Corp Solar Station",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_b4lv8v",
+      "x": 0.35048100802928434,
+      "y": 0.05378489701713515,
+      "layer": "default",
+      "link": "Northern Oil Fields",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_6266ui",
+      "x": 0.8325813772730535,
+      "y": 0.5705346986939236,
+      "layer": "default",
+      "link": "Petrochem CHOOH2 Station",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_j34d6x",
+      "x": 0.9531063821828148,
+      "y": 0.7213917669899136,
+      "layer": "default",
+      "link": "Pol-Bud Cement Factory",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_3g2w40",
+      "x": 0.8929631823399271,
+      "y": 0.4908645534523098,
+      "layer": "default",
+      "link": "Pol-Bud Miasto",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_86bioa",
+      "x": 0.8349679539199999,
+      "y": 0.46246357545852074,
+      "layer": "default",
+      "link": "Pol-Bud Mine",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_bxpsh7",
+      "x": 0.828285259624771,
+      "y": 0.8901377037785351,
+      "layer": "default",
+      "link": "Sheriff's Station",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_1t7c0z",
+      "x": 0.4471398094636775,
+      "y": 0.870957860251598,
+      "layer": "default",
+      "link": "SovOil CHOOH2 Station",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_i4ansd",
+      "x": 0.9476172384146021,
+      "y": 0.5683217047651197,
+      "layer": "default",
+      "link": "Sunshine Motel",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_msuwss",
+      "x": 0.8392638967659203,
+      "y": 0.5342036288048644,
+      "layer": "default",
+      "link": "Union Railroad Station",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [
@@ -321,7 +541,7 @@ ZOOMMAP-DATA id=map-0
   },
   "pinSizeOverrides": {
     "pinBlue": 248,
-    "pinBlue": 248
+    "pinRed": 220
   },
   "grids": [],
   "panClamp": true,
