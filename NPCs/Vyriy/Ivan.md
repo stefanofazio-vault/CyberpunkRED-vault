@@ -15,3 +15,5 @@ Lavora principalmente come scaricatore per i Vyriy e di conseguenza conosce molt
 È un uomo socievole e in qualche modo riesce a fare gruppo con chiunque trovi nel bar di turno. Difficile quindi trovarlo da solo. Non è particolarmente sveglio, ma è comunque in grado di sopravvivere a Night City in uno stato di quasi perenne ebbrezza. 
 
 Al porto, ha assistito più volte all'arrivo di auto con rappresentanti di SovOil. 
+Ha dovuto più volte trasportare casse agli [[Scavengers]], contenenti solitamente armi e cyberware di scarsa qualità. Il luogo più comune di consegna è un magazzino vicino al [[White Side]]. Dice di vedere spesso una "bella donna" ([[Sofiya Fedorova]]).
+Ha notato che le riunioni tra il Consortium e i Vyriy si sono intensificate. Spesso alcune operazioni notturne vengono interrotte perchè dei magazzini al porto vengono occupati dalle suddette riunioni, alle quale partecipano [[Petar Gunn]] come rappresentante del Consortium e vari Vyriy. 
