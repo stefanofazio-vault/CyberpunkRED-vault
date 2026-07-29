@@ -1,5 +1,6 @@
 ---
-role: solo
+role:
+  - solo
 rank:
   - "7"
 location:
