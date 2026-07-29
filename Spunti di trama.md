@@ -63,6 +63,7 @@ Per fare ciò, verranno forniti vari ordini ai vari gruppi mirati a creare caos 
 	1) Quando scoppiano proteste sindacali violente, gli Scavengers piazzano armi riconducibili agli Zoners.
 9) SovOil -> Thelas
 	1) SovOil fornisce CHOOH2 di qualità inferiore ai Thelas. 
+	2) Contratti rescissi all'ultimo secondo.
 
 L'obiettivo a lungo termine è che i Thelas vedano i disordini di South Night City come una minaccia e che gli Zoners interpretino il successivo aumento della sicurezza come un esercizio di repressione.
 
@@ -107,4 +108,8 @@ Gli indizi che la crew può trovare sono i seguenti:
 	- Alcuni covi vengono evacuati poche ore prima di retate della NCPD.
 	- Pagamenti provenienti da numerose società differenti ma sempre con modalità identiche.
 	- Comparsa improvvisa di nuovi gruppi Scavengers nelle aree dove aumentano le tensioni sociali.
+- Network 54 <-> SovOil
+	- Inserzioni pubblicitarie SovOil aumentano sensibilmente nei periodi di crisi del porto.
+	- Alcuni servizi critici verso SovOil sono stati ritirati di recente da Chloe.
+	- Comunicazioni frequenti tra Chloe Ashton e l'ufficio stampa regionale di SovOil.
 
