@@ -32,6 +32,17 @@ I punti deboli della struttura che circonda Mr. X, attualmente, sono i seguenti:
 	- [[Ilya 'Razor' Malenkov]] svolge tutt'ora operazioni per conto di Valentin. 
 	- [[Sofiya Fedorova]] è tutt'ora sotto il comando di Valentin, ma dimostra segni di incompatibilità. 
 
+
+---
+
+I vari gruppi hanno disponibilità crescenti di denaro e risorse, in quest'ordine:
+1) SovOil
+2) Consortium
+3) Vyriy
+4) Scavengers
+
+I Vyriy, in particolare, sono invidiosi del trattamento e dell'equipaggiamento che il Consortium riceve. 
+
 ---
 
 Gli indizi che la crew può trovare sono i seguenti:
@@ -41,16 +52,19 @@ Gli indizi che la crew può trovare sono i seguenti:
 	- Segni tipici del passaggio di Sofiya in punti di ritrovo del Consortium 
 	- Trasporto da parte del Consortium di casse di equipaggiamento rubato
 	- Presenza di Ilya nella zona del porto
-	- Presenza di Petar in zone controllate dagli Scavengers
 - Consortium <-> Vyriy 
 	- Conoscenza di [[Dasan Tan]] di dinamiche pre-esistenti
 	- Frequentazione degli stessi posti di ritrovo
-	- Ivan, se trovato, potrebbe parlare della presenza di Valya e di altri del Consortium a riunioni di clan
+	- Incontri frequenti nel magazzino del Molo 15 del Porto (Petar è presente).
 - Consortium <-> SovOil 
 	- Presenza di prodotti SovOil (come i lubrificanti - di ogni natura) e di carburante SovOil nei punti di ritrovo del Consortium
 	- Dotazione da parte del Consortium di due SovOil MI-60 (AV-4) e di un SovOil Bombardier.
 - Consortium <-> Mr. X 
 	- Telefonate sull'agent di Valya riferite ad un certo Xavier.
 	- Bonifici da un conto off-shore regolari sia al conto privato di Valya che a quello "funzionale" del Consortium. 
-- 
+- Vyriy <-> Scavengers
+	- Consegne agli scavengers (consegne di cyberware e armi scarse in un magazzino vicino al [[White Side]] curati da Sofiya)
+- Vyriy <-> SovOil 
+	- Incontri notturni frequenti al porto con rappresentati della corpo.
+	- Rappresentati dei nomadi visti presso gli uffici di SovOil. 
 
