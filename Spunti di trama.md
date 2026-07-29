@@ -35,13 +35,36 @@ I punti deboli della struttura che circonda Mr. X, attualmente, sono i seguenti:
 
 ---
 
-I vari gruppi hanno disponibilità crescenti di denaro e risorse, in quest'ordine:
-1) SovOil
-2) Consortium
-3) Vyriy
-4) Scavengers
+La linea di principio è che ogni gruppo sa esclusivamente ciò che è di sua stretta pertinenza. 
+Il fine ultimo di Mr. X è creare i presupposti affinché gli Zoners assaltino i Thelas o viceversa.
+Per fare ciò, verranno forniti vari ordini ai vari gruppi mirati a creare caos in questo senso. 
+1) Vyriy -> Zoners 
+	1) Trasportano armi di scarsa qualità da oltre oceano di fabbricazione non apertamente sovietica
+	2) I trasporti dei Thelas con beni diretti anche agli Zoners vengono ritardati quel tanto che basta per risultare meno efficaci 
+2) Vyriy -> Thelas
+	1) I Vyriy abbassano i costi dei trasporti, lavorando in perdita, ma rubando clienti ai Thelas
+3) Consortium -> Zoners
+	1) Mandano infiltrati negli Zoners, che agiscono più violentemente dei veri attivisti
+	2) Pagano criminali slegati dal gruppo da South Night City per far loro sabotare mezzi dei Thelas.
+4) Consortium -> Thelas
+	1) Sabotano merce trasportata dai Thelas, macchiandone l'immagine
+	2) Ricattano parti terze per diffondere disinformazione per passaparola da fonti esterne al gruppo
+5) Network 54 -> Zoners 
+	1) I servizi sugli Zoners sono scelti accuratamente così da mostrare solo le rivolte finite male.
+	2) Le interviste sugli Zoners si concentrano sugli infiltrati del Consortium.
+6) Network 54 -> Thelas
+	1) I ritardi dei trasporti dei Thelas vengono ingigantiti, dando risonanza ai Vyriy
+	2) Durante le proteste sindacali create ad hoc dagli infiltrati del Consortium, le interviste si concentrano su di loro
+7) Scavengers -> Zoners
+	1) Gli Scavengers, quando possibile, rapiscono o sciacallano membri dei Thelas e degli Zoners
+	2) Gli Scavengers sanno in anticipo quando le rivolte scoppieranno. Ogni volta si presentano in loco piazzando cyberware e armi riconducibili ai Thelas. 
+	3) Gli Scavengers provvedono a promettere cibo ai nuovi membri che dopo le proteste diventa un'offerta particolarmente sensibile. 
+8) Scavengers -> Thelas
+	1) Quando scoppiano proteste sindacali violente, gli Scavengers piazzano armi riconducibili agli Zoners.
+9) SovOil -> Thelas
+	1) SovOil fornisce CHOOH2 di qualità inferiore ai Thelas. 
 
-I Vyriy, in particolare, sono invidiosi del trattamento e dell'equipaggiamento che il Consortium riceve. 
+L'obiettivo a lungo termine è che i Thelas vedano i disordini di South Night City come una minaccia e che gli Zoners interpretino il successivo aumento della sicurezza come un esercizio di repressione.
 
 ---
 
@@ -62,9 +85,26 @@ Gli indizi che la crew può trovare sono i seguenti:
 - Consortium <-> Mr. X 
 	- Telefonate sull'agent di Valya riferite ad un certo Xavier.
 	- Bonifici da un conto off-shore regolari sia al conto privato di Valya che a quello "funzionale" del Consortium. 
-- Vyriy <-> Scavengers
-	- Consegne agli scavengers (consegne di cyberware e armi scarse in un magazzino vicino al [[White Side]] curati da Sofiya)
-- Vyriy <-> SovOil 
-	- Incontri notturni frequenti al porto con rappresentati della corpo.
-	- Rappresentati dei nomadi visti presso gli uffici di SovOil. 
+- Network 54 <-> Consortium
+	- Chloe Ashton incontra regolarmente rappresentanti del Consortium fuori dagli uffici di Network54.
+	- Articoli riguardanti incidenti al porto vengono modificati poco prima della pubblicazione.
+	- Alcuni giornalisti ricevono suggerimenti su quali eventi seguire provenienti da contatti del Consortium.
+	- Riprese di telecamere vicine ai magazzini del Consortium risultano spesso mancanti.
+ - Vyriy <-> Scavengers
+	- Consegne agli Scavengers (consegne di cyberware e armi scarse in un magazzino vicino al [[White Side]] curati da Sofiya).
+	- Veicoli Vyriy osservati nei pressi di rifugi Scavengers.
+	- Equipaggiamento ancora imballato con sigilli dei Vyriy rinvenuto in covi Scavengers.
+	- Alcuni scaricatori raccontano di consegne effettuate sempre agli stessi intermediari.
+- Vyriy <-> SovOil
+	- Incontri notturni frequenti al porto con rappresentanti della corporazione.
+	- Rappresentanti dei nomadi visti presso gli uffici di SovOil.
+	- Navi provenienti da tratte SovOil vengono scaricate esclusivamente dai Vyriy.
+	- Personale SovOil presente durante alcune operazioni di scarico notturne.
+- Vyriy <-> Mr. X
+	- ???
+- Scavengers <-> Mr. X
+	- Gli Scavengers ricevono rifornimenti costanti nonostante le continue perdite.
+	- Alcuni covi vengono evacuati poche ore prima di retate della NCPD.
+	- Pagamenti provenienti da numerose società differenti ma sempre con modalità identiche.
+	- Comparsa improvvisa di nuovi gruppi Scavengers nelle aree dove aumentano le tensioni sociali.
 
