@@ -73,13 +73,11 @@ Gli indizi che la crew può trovare sono i seguenti:
 - Consortium <-> Scavengers
 	- Incontri comuni e regolari tra alcuni membri del Consortium e alcuni Scavengers
 	- Possesso da parte del Consortium di cyberware con seriale appartenente a persone scomparse
-	- Segni tipici del passaggio di Sofiya in punti di ritrovo del Consortium 
 	- Trasporto da parte del Consortium di casse di equipaggiamento rubato
 	- Presenza di Ilya nella zona del porto
 - Consortium <-> Vyriy 
-	- Conoscenza di [[Dasan Tan]] di dinamiche pre-esistenti
 	- Frequentazione degli stessi posti di ritrovo
-	- Incontri frequenti nel magazzino del Molo 15 del Porto (Petar è presente).
+	- Incontri frequenti nel magazzino del [[Dock 15]] del Porto (Petar è presente).
 - Consortium <-> SovOil 
 	- Presenza di prodotti SovOil (come i lubrificanti - di ogni natura) e di carburante SovOil nei punti di ritrovo del Consortium
 	- Dotazione da parte del Consortium di due SovOil MI-60 (AV-4) e di un SovOil Bombardier.
