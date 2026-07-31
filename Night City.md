@@ -525,6 +525,18 @@ ZOOMMAP-DATA id=map-0
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_ugxfh5",
+      "x": 0.47394037501662656,
+      "y": 0.06570781349759415,
+      "layer": "default",
+      "link": "Pista di Valya",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
     }
   ],
   "bases": [
