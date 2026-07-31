@@ -1,7 +1,6 @@
 ---
 location: '[[Neighbourhoods/Watson]]'
 ---
-
 #### Smash/Cut
 Lo Smash/Cut è un locale nel quartiere di [[Watson]], principalmente dedicato alla musica EDM. La clientela tipo è composta da raver, spesso drogati e pieni di cyberware.
 
