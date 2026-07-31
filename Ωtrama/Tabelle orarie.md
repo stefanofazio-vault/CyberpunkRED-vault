@@ -117,3 +117,15 @@
 | Venerdì   | ???                       | Incontro con [[Mr. X]]                 |
 | Sabato    | [[Hillside Country Club]] | Giornata privata                       |
 | Domenica  | [[SovOil Residence]]      | Pranzo con [[Dimitri Vladimir Vetrov]] |
+
+### [[Rosa Lyn]]
+
+| Giorno    | Location                               | Evento                                                            |
+| --------- | -------------------------------------- | ----------------------------------------------------------------- |
+| Lunedì    | [[Network 54 Plaza]]                   | Analizza i prodotti dei sottoposti                                |
+| Martedì   | [[Fur fur u]]                          | Passa tempo con degli *exotic*.                                   |
+| Mercoledì | [[Network 54 Plaza]]                   | Rielabora gli articoli scartati da Chloe.                         |
+| Giovedì   | [[Dock 15]]                            | Riprende immagini del porto evitando deliberatamente alcune aree. |
+| Venerdì   | [[Network 54 Plaza]]                   | Weekly scrum con [[Chloe Ashton]].                                |
+| Sabato    | [[Downtown]]                           | Riunione con i sottoposti                                         |
+| Domenica  | [[Network 54 Westbrook Private Acres]] | Prepara il piano editoriale della settimana successiva.           |
