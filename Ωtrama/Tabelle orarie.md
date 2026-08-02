@@ -3,8 +3,8 @@
 | Giorno    | Location                     | Evento                                                                                  |
 | --------- | ---------------------------- | --------------------------------------------------------------------------------------- |
 | Lunedì    | [[MetalStorm]]               | Bevute con i cyborg                                                                     |
-| Martedì   | [[Dock 15]]                  | Lavoro al porto. Scarica casse per gli [[Scavengers]]                                   |
-| Mercoledì | [[White Side]]               | Consegna di casse agli [[Scavengers]]                                                   |
+| Martedì   | [[Dock 15]] / [[White Side]] | Lavoro al porto. Scarica casse per gli [[Scavengers]] e le consegna                     |
+| Mercoledì | [[Dock 15]]                  | Lavora al porto                                                                         |
 | Giovedì   | [[Lovely Drone Heroes Cafè]] | Bevute in compagnia delle hostess                                                       |
 | Venerdì   | [[Dock 15]]                  | Lavoro al porto. Si finisce prima perchè c'è una riunione con quelli del [[Consortium]] |
 | Sabato    | [[Dock 18]]                  | Manutenzione del molo per le "navi importanti". Mezza giornata libera                   |
@@ -89,7 +89,7 @@
 | Lunedì    | [[White Base]]       | Organizza i trasporti della settimana                                |
 | Martedì   | [[White Side]]       | Ricezione delle casse provenienti dai [[Vyriy]]                      |
 | Mercoledì | [[Bridgetown]]       | Passa del tempo con la figlia                                        |
-| Giovedì   | [[White Clinic]]     | Installazione di cyberware                                           |
+| Giovedì   | [[Dock 15]]          | Visita il porto                                                      |
 | Venerdì   | [[Bridgetown]]       | Passa del tempo con la figlia                                        |
 | Sabato    | [[South Night City]] | Recupero di materiale dopo gli scontri con [[Ilya 'Razor' Malenkov]] |
 | Domenica  | [[White Base]]       | Riunione con [[Ilya 'Razor' Malenkov]] e [[Valentin Komarov]]        |
