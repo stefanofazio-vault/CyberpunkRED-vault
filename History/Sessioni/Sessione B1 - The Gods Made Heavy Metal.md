@@ -24,6 +24,7 @@ In mezzo a questo mare di metallo, Ivan spicca, completamente biologico, mentre 
 
 ![[Cyborg1.png|300]] ![[Cyborg2.png|300]]
 
+Avery Turner e Michaela Winship.
 I due sembrano star parlando amichevolmente con Ivan. Quest'ultimo è apertamente sbronzo. Anche i due cyborg, tuttavia, non sembrano completamente sobri. Trovano esilarante la compagnia di Ivan e proveranno a "tenerlo stretto". 
 
 Il barista non è un barista, bensì un [[Hammered]] DrinkMaster 5000, collegato all'architettura di rete locale. 
@@ -40,3 +41,14 @@ L'architettura ha una serie di accessi, tra cui un paio di interfacce dietro il 
 | 7       | Sabertooth                     |
 | 8       | Asp                            |
 | 9       | Raven                          |
+
+---
+
+### Riassunto
+- Aumentata la mole di lavoro per i Vyriy di recente
+- Aumentato il peso medio delle casse per gli [[Scavengers]]
+- Consegnano casse agli [[Scavengers]] al [[White Side]]
+- Chiudono il [[Dock 15]] prima del solito il venerdì
+- C'è una donna molto bella con un cyberbraccio e i capelli rossi che frequenta il [[Dock 15]] e è presente al [[White Side]]. Parla russo e ha una figlia
+- Sanno che il capo dei [[Vyriy]] e [[Agnessa Viktorova]] e il capo del [[Consortium]] è [[Valya]].
+- Sasha suppone che la ragazza sia [[Sofiya Fedorova]].
