@@ -8,7 +8,9 @@ location: "[[The Amber Room]]"
 ---
 ![[Valya.png|300]]
 
-Leader del [[Consortium]].
+Leader del [[Consortium]]. In una relazione segreta con [[Agnessa Viktorova]].
+
+![[Tabelle orarie#Valya]]
 
 ##### Obiettivo personale
 Prendere il controllo del [[Porto di Night City]] e guadagnare il benestare di [[SovOil]] per una partnership duratura.
@@ -22,3 +24,4 @@ Zoners in tumulto, mancanza di equipaggiamento, fondi, uomini. Perdita di reputa
 Proverà prima ad ingaggiare dei sicari qualificati con molto da perdere per eliminare le minacce. Dopodichè, dispiegherà i mezzi del gruppo criminale.
 ##### Cosa succede alla rete se il nodo cade
 La presenza al porto di Night City dei Thelas ne uscirebbe rinforzata perché uno dei due coinquilini rimarrebbe senza organizzazione. Probabilmente, molti degli uomini di Valya entrerebbero nei Vyriy.
+
