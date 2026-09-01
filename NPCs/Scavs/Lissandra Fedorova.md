@@ -1,0 +1,6 @@
+---
+affiliation:
+  - "[[Scavengers]]"
+location:
+  - "[[Bridgetown]]"
+---
