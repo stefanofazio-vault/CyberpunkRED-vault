@@ -148,7 +148,7 @@ Una volta recuperate le informazioni necessarie, la crew si reca infine presso i
 Joji, vivo, necessita di cure immediate. Su indicazione di Corey, Joji e [[Nova]] vengono caricati sull'auto di Andres che nel minor tempo possibile si reca presso la Clinica Vogel, dove grazie ad un intervento tempestivo, Joji viene salvato.
 
 Nei giorni successivi, Joji viene tenuto d'occhio presso la clinica di Corey, dove Alejandro, sfuggendo agli impegni di capo famiglia, si presenta a salutare il fratellino disperso.
-Dopo gli avvenimenti legati al [[Progetto Master Of Puppets]], Andres si ritira dalla vita da *edgerunner* concentrandosi sull'attività di famiglia e sulla cura dei propri fratelli (adottivi e di sangue).
+Dopo gli avvenimenti legati al [[Progetto 'Master Of Puppets']], Andres si ritira dalla vita da *edgerunner* concentrandosi sull'attività di famiglia e sulla cura dei propri fratelli (adottivi e di sangue).
 
 ![[Timbò_final.jpeg]]
 

@@ -64,7 +64,7 @@ Non sembra particolarmente interessato a relazioni di tipo romantico. I suoi ami
 ---
 #### Ai giorni nostri
 ##### 2045
-Dall'ottobre del 2045 fino alla risoluzione della questione, Z€N1TH viene informato riguardo l'evolversi della situazione riguardante il [[Progetto Master Of Puppets]]. 
+Dall'ottobre del 2045 fino alla risoluzione della questione, Z€N1TH viene informato riguardo l'evolversi della situazione riguardante il [[Progetto 'Master Of Puppets']]. 
 Durante tutto questo periodo, Z€N1TH fornisce supporto quando necessario. 
 
 Z€N1TH passa, come ogni anno, il Natale in compagnia di $€4N. I due vanno a bere al [[Devil's Cut]] e dopo un po' di cocktail si trovano entrambi così sbronzi da non ricordarsi ancora oggi cosa avvenuto quella sera.

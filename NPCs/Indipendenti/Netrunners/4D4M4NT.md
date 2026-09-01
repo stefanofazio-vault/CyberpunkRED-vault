@@ -22,6 +22,6 @@ Angelica, conscia che le informazioni potrebbero essere ricavate da una delle se
 
 4D4M4NT verrà quindi liberato dalla crew. 
 
-Il 31 dicembre 2045, 4D4M4NT e la crew si infiltrano alla festa di Militech che si è tenuta nella sede di [[Upper Marina]]. Durante quest'incursione, 4D4M4NT recupera dati importanti riguardo [[Jaylin Ichikawa]] e il [[Progetto Master Of Puppets]].
+Il 31 dicembre 2045, 4D4M4NT e la crew si infiltrano alla festa di Militech che si è tenuta nella sede di [[Upper Marina]]. Durante quest'incursione, 4D4M4NT recupera dati importanti riguardo [[Jaylin Ichikawa]] e il [[Progetto 'Master Of Puppets']].
 
 ---

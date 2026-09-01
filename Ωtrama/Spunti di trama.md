@@ -1,4 +1,4 @@
-[[Mr. X]] è un individuo con soldi e contatti ma che, pubblicamente, non si mostra mai. Passa la vita a finanziare progetti che lo divertono e che solo in alcuni casi si rivelano redditizi. Uno di questi è il [[Progetto Master Of Puppets]]. 
+[[Mr. X]] è un individuo con soldi e contatti ma che, pubblicamente, non si mostra mai. Passa la vita a finanziare progetti che lo divertono e che solo in alcuni casi si rivelano redditizi. Uno di questi è il [[Progetto 'Master Of Puppets']]. 
 
 Uno dei collaboratori fidati di Mr. X si è allontanato da lui e sarà il mezzo attraverso il quale il gruppo verrà riunito.
 

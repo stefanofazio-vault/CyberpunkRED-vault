@@ -6,7 +6,7 @@ L'AI-LF avrebbe dovuto essere un ausilio a persone con limitazioni motorie deriv
 
 #### 2032
 Nel 2032 un primo prototipo viene realizzato da una *shell corp* di Arasaka, che in quel momento non poteva ufficialmente operare a Night City. 
-Tramite fonti interne, [[Mr. X]] viene a conoscenza del progetto e decide di cambiare il corso dello sviluppo dando vita al [[Progetto Master Of Puppets]].
+Tramite fonti interne, [[Mr. X]] viene a conoscenza del progetto e decide di cambiare il corso dello sviluppo dando vita al [[Progetto 'Master Of Puppets']].
 
 [[Jaylin Ichikawa]] viene incaricato di rubare i progetti, eliminare i responsabili di progetto (i suoi genitori) e di distruggere il laboratorio contenente gli sviluppi principali.
 
