@@ -1,8 +1,8 @@
-
-![[Nova.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[Nova.png|300]]
 
 ---
 #### Background

@@ -1,12 +1,12 @@
 ---
 affiliation: '[[Factions/Corporations/Militech]]'
 ---
-
-![[Aiden.jpg|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
+
+![[Aiden.jpg|300]]
 
 ---
 #### Background

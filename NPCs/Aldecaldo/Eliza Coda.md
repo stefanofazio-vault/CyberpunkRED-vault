@@ -2,13 +2,12 @@
 affiliation: '[[Factions/Nomads/Aldecaldo]]'
 location: '[[Locations/Gang spots/Campo Aldecaldo]]'
 ---
-
-
-![[eliza coda.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
+
+![[eliza coda.png|300]]
 
 ---
 #### Background

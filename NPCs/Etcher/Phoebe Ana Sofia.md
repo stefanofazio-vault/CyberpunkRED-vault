@@ -1,11 +1,11 @@
 ---
 affiliation: '[[Factions/Gangs/Etcher]]'
 ---
-
-![[Phoebe Ana Sofìa.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[Phoebe Ana Sofìa.png|300]]
 
 ---
 #### Background

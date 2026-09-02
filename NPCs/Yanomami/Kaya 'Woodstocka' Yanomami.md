@@ -2,7 +2,6 @@
 location: '[[Locations/Ristoranti/Esnupi]]'
 affiliation: '[[Factions/Nomads/Yanomami]]'
 ---
-
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

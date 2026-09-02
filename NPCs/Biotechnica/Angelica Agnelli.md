@@ -2,8 +2,6 @@
 affiliation: "[[Factions/Corporations/Biotechnica]]"
 location: "[[Biotechnica Campus]]"
 ---
-
-
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

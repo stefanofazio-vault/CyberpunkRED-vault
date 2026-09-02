@@ -9,11 +9,11 @@ rank:
   - "4"
 affiliation: "[[Iron Sights]]"
 ---
-
-![[Hornet.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[Hornet.png|300]]
 
 ---
 #### Background

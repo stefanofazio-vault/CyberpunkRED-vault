@@ -1,7 +1,6 @@
 ---
 affiliation: '[[Factions/Corporations/Trauma Team]]'
 ---
-
 [[#Background]]
 [[#Personalità]]
 

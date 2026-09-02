@@ -1,11 +1,11 @@
 ---
 affiliation: '[[Factions/Corporations/Trauma Team]]'
 ---
-
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
-[[#Scheda personaggio]]
+
+![[Ethan caldwell.png|300]]
 
 ---
 #### Background
@@ -18,4 +18,3 @@ Ethan Caldwell è un *medtech* e *exec* dipendente di [[Trauma Team]]. Gestisce 
 #### Ai giorni nostri
 
 ---
-#### Scheda personaggio

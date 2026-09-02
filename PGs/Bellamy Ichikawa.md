@@ -1,14 +1,16 @@
-![[Bellamy.jpg|300]]
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
 
----
-#### Background
+![[Bellamy.jpg|300]]
+
 Bellamy Ichikawa è un *fixer* di Night City. È il figlio di [[Saito Ichikawa]] e [[Olivia Smith]] e il fratello gemello di [[Jaylin Ichikawa]].
 
-#### 2019 - 2031
+---
+#### Background
+##### 2019 - 2031
 Bellamy nasce nel 2019 da Saito Ichikawa e Olivia Smith, due corporativi dipendenti di Arasaka. 
 
 L'infanzia e la prima adolescenza di Bellamy passano in piena serenità grazie agli ottimi stipendi che Arasaka forniva ai suoi genitori.
@@ -17,14 +19,14 @@ Il rapporto con il fratello gemello sembrava essere nella norma.
 
 L'istruzione ricevuta da Bellamy è in linea con il tenore di vita della famiglia.
 
-#### 2032
+##### 2032
 Nel 2032, il laboratorio dove i genitori di Bellamy lavoravano prende fuoco, generando a catena diverse esplosioni.
 Entrambi i genitori, in questo contesto, perdono la vita.
 
 Ufficialmente, nessuno è stato mai incriminato per l'accaduto. Tuttavia, l'ultima persona ad entrare nel laboratorio prima del fatto è Jaylin. Quest'ultimo, oltretutto, si da' alla macchia. 
 Questo porta Bellamy a sospettare fortemente che il fratello sia in qualche modo collegato con l'accaduto, se non addirittura colpevole. Questa convinzione si radica molto negli anni a seguire.
 
-#### 2033-2045
+##### 2033-2045
 In seguito alla morte dei genitori, Bellamy si trova senza fondi e senza casa. 
 Dopo aver vagato un po' per le strade in cerca di un luogo dove stare, viene accolto da [[Maxime Raunch]] presso il [[Born This Way]]. 
 Con quest'ultima Bellamy stringe un legame fortissimo che perdura ancora oggi. Inoltre, per via dell'estrema vicinanza con buona parte dei membri, Bellamy diventa *de facto* un membro delle [[Street Queens]].
@@ -42,8 +44,8 @@ In gruppo dimostra di essere un buon leader, tentando dove possibile di mediare 
 
 ---
 #### Ai giorni nostri
-#### 2045
-##### Settembre
+##### 2045
+###### Settembre
 Bellamy, nel settembre del 2045, commissiona il recupero di alcuni documenti secondo richiesta del cliente [[Jonathan Fox]] a una coppia di solo con i quali aveva già lavorato in passato.
 I solo, recuperati le informazioni, avvertono Bellamy che hanno intenzione di vendere privatamente i dati. 
 Bellamy richiede un incontro con i due solo presso un vecchio edificio di Arasaka caduto in disuso. Un avventore del Born This Way si offre volontario per aiutare il fixer nelle trattative.
@@ -53,7 +55,7 @@ Una volta arrivati sul posto, i solo chiedono la paga raddoppiata. Bellamy gliel
 Questo atto fa scoppiare una sparatoria durante la quale l'avventore del Born This Way rimane ucciso. Bellamy fugge utilizzando una pistola a rampino e saltando fuori dalla finestra. I solo vengono poi eliminati dai *bouncer*. 
 I documenti, tuttavia, sono stati contemporaneamente inviati a vari soggetti sensibili. Questo fatto complica la vita a Fox.
 
-##### Ottobre
+###### Ottobre
 Bellamy viene contattato da [[Robin Maldonado]], che gli propone un lavoro.
 Il 20 ottobre 2045 una riunione viene fissata al Born This Way, dove Bellamy conosce [[Kyle '$€4N' Léger|$€4N]], [[Maël De Armas]], [[Andres 'Timbò' Yanonami]] e [[Corey Yazawa]]. 
 
@@ -77,7 +79,7 @@ Inoltre, su indicazione di Timbò, Bellamy entra in contatto con [[Alejandro Yan
 
 La crew, nei giorni successivi, entra in contatto con gli Aldecaldo. In questa occasione, Joshua chiede un favore per un favore. In seguito a questa richiesta, la crew rimane coinvolta nel [[Sessione A3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]] il 31 ottobre 2045.
 
-##### Novembre
+###### Novembre
 In attesa che arrivi la data dell'assalto al convoglio (prevista per il 17 novembre 2045) Bellamy decide di espandere la propria rete di contatti nel mondo corporativo. In funzione di ciò, smuove qualche contatto che riesce a procurargli un invito per la festa di [[Biotechnica]] presso il [[La Lune Bleu]]. 
 
 Durante questa festa, Bellamy conosce [[Angelica Agnelli]]. 
@@ -92,7 +94,7 @@ Inoltre, dopo aver sentito da [[Eliza Coda]] parlare di un certo "J", Bellamy si
 Infine, nel tentativo di ottenere informazioni su [[Aiden]], la cui firma è stata trovata sul prototipo, Bellamy riceve da Angelica il compito di recuperare [[4D4M4NT]] dal [[Totentanz]]. 
 In seguito a questa richiesta, Bellamy e la crew rimangono coinvolti nel [[Sessione A5 - Il Totentanz|recupero al Totentanz]], durante il quale Bellamy conosce [[Warlock]], attuale capo degli [[Aldecaldo]], e [[Flenser]], sua seconda in comando.
 
-##### Dicembre
+###### Dicembre
 Grazie alla paga, Bellamy paga completamente le riparazioni per i danni subiti al Born This Way per colpa di Fox.
 Inoltre, a questo riguardo, Fubuki fa recapitare il dito mozzato di Fox proprio al Born This Way. Bellamy, curiosamente, reagisce con un certo interesse, che porta ad un'ulteriore serata spesa insieme.
 Alla fine di questa serata, Fubuki si fa avanti, rendendo palesi le sue intenzioni romantiche. Bellamy, tuttavia, lo respinge educatamente, scatenando una certa delusione nell'ospite, che se ne va dopo essersi congedato.
@@ -102,8 +104,8 @@ Nel momento in cui Fubuki scopre questo fatto, rimane shockato.
 
 Il 31 dicembre la crew rimane coinvolta nell'operazione durante la [[Sessione A6 - Festa di Militech|festa di Capodanno in Militech]]. 
 
-#### 2046
-##### Gennaio
+##### 2046
+###### Gennaio
 In attesa che 4D4M4NT analizzi i dati ottenuti durante la festa in Militech, Bellamy va a visitare Fubuki, che non vede e non sente dalla sera al Born This Way.
 Una volta arrivato a casa sua, trova tutte le serrande chiuse e Fubuki in stato quasi catatonico.
 Quest'ultimo si lamenta di come sia stato abbandonato da Bellamy in un momento di difficoltà estrema e di come desideri non vederlo più.
@@ -138,7 +140,7 @@ Warrick propone un lavoro semplice, in cambio della libertà dalle squadre di as
 
 In seguito a questa decisione, la crew smette di nascondersi.
 
-##### Febbraio
+###### Febbraio
 L'11 febbraio 2046 la crew esegue l'operazione "[[Sessione A9 - Disturbi sulla Linea Nera|Disturbi sulla Linea Nera]]".
 
 Il giorno dopo l'operazione, in occasione di una festa organizzata da Maxime Raunch per festeggiare Bellamy, che ha contribuito economicamente alla maggior parte delle riparazioni del locale, viene rinvenuta [[Aurora]] svenuta in camera sua.

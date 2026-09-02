@@ -1,7 +1,6 @@
 ---
 location: "[[Locations/Indipendenti/Clinica Vogel]]"
 ---
-
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

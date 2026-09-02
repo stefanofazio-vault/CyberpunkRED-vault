@@ -1,7 +1,6 @@
 ---
 affiliation: '[[Factions/Gangs/Zoners]]'
 ---
-
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

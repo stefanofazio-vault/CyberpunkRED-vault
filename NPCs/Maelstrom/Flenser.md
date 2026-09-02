@@ -2,11 +2,11 @@
 location: '[[Locations/Bars and clubs/Totentanz]]'
 affiliation: '[[Factions/Gangs/Maelstrom]]'
 ---
-
-![[flenser.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[flenser.png|300]]
 
 ---
 #### Background

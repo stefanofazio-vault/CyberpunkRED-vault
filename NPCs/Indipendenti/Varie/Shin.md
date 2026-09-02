@@ -1,7 +1,6 @@
 ---
 location: '[[Locations/Indipendenti/Nezumi Den (鼠殿)]]'
 ---
-
 [[#Background]]
 [[#Personalità]]
 

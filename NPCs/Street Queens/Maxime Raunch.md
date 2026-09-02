@@ -6,11 +6,11 @@ role:
 rank:
   - "4"
 ---
-
-![[Maxime Raunch.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[Maxime Raunch.png|300]]
 
 ---
 #### Background

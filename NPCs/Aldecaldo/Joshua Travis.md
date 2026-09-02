@@ -2,11 +2,11 @@
 location: '[[Locations/Gang spots/Campo Aldecaldo]]'
 affiliation: '[[Factions/Nomads/Aldecaldo]]'
 ---
-
-![[Joshua Travis.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[Joshua Travis.png|300]]
 
 ---
 #### Background

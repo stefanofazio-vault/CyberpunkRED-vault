@@ -2,12 +2,11 @@
 location: "[[South Night City]]"
 affiliation: "[[Factions/Gangs/Zoners]]"
 ---
-
-
-![[nemo.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[nemo.png|300]]
 
 ---
 #### Background

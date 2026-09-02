@@ -1,7 +1,8 @@
-![[Adrienne.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[Adrienne.png|300]]
 
 ---
 #### Background

@@ -2,12 +2,11 @@
 affiliation: '[[Factions/Gangs/6th Street]]'
 location: '[[Neighbourhoods/South Night City]]'
 ---
-
-
-![[Everest Patton.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[Everest Patton.png|300]]
 
 ---
 #### Background

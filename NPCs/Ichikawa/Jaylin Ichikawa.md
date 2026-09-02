@@ -1,8 +1,9 @@
-![[jaylin Ichikawa.jpg|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
+
+![[jaylin Ichikawa.jpg|300]]
 
 ---
 #### Background

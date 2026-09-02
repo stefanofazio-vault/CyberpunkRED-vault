@@ -7,11 +7,12 @@ role:
 rank:
   - "5"
 ---
-![[Ilya.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
+
+![[Ilya.png|300]]
 
 ---
 #### Background

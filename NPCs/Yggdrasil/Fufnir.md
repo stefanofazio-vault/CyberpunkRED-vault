@@ -1,7 +1,6 @@
 ---
 affiliation: '[[Factions/Gangs/Yggdrasil]]'
 ---
-
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

@@ -1,8 +1,9 @@
-![[Jemmy Tasker.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
+
+![[Jemmy Tasker.png|300]]
 
 ---
 #### Background

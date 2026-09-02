@@ -1,11 +1,12 @@
 ---
 affiliation: '[[Factions/Corporations/SovOil]]'
 ---
-![[ivan vetrov.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
+
+![[ivan vetrov.png|300]]
 
 ---
 

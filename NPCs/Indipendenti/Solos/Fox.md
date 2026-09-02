@@ -1,7 +1,8 @@
-![[fox.png|150]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[fox.png|150]]
 
 ---
 #### Background

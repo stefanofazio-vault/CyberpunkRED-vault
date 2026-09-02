@@ -2,11 +2,11 @@
 location: "[[Locations/Ristoranti/Esnupi]]"
 affiliation: "[[Yanomami]]"
 ---
-
-![[Craig.png|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
+
+![[Craig.png|300]]
 
 ---
 #### Background

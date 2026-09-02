@@ -1,27 +1,28 @@
-![[Maël.jpg|300]]
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
 
----
-#### Background
+![[Maël.jpg|300]]
+
 Maël De Armas è un *solo* di Night City. È figlio di [[Javier De Armas]] e [[Estelle De Armas]] e fratello di [[Esmeray De Armas]] e [[Arik De Armas]].
 
-#### 2020-2037
+---
+#### Background
+##### 2020-2037
 Maël nasce nel 2020, insieme ad Arik, suo gemello, da una famiglia di buon livello di origini cubano-francesi.
 Il padre, Javier, era un *fixer* di medio-alto livello che negli anni formativi di Maël e dei suoi fratelli ha sempre fornito la miglior educazione possibile e ha provato a far vivere la propria famiglia nell'agio.
 
 La madre, pur godendosi i frutti del lavoro del marito, ha sempre preferito evitare di parlarne direttamente, creando un clima di sottinteso in nell'ambiente domestico.
 
 I tre fratelli sono sempre andati molto d'accordo.
-#### 2038
+##### 2038
 Nel gennaio del 2038 il padre viene assassinato da [[Jaylin Ichikawa]]. La madre, che era con lui in quel momento, rimane traumatizzata dall'avvenuto. 
 Le indagini della polizia, svolte visibilmente con mancanza di cura e attenzione, non portano a nulla di concreto e il caso viene archiviato come "omicidio colposo portato a termine da un tossicodipendente in cerca di una dose".
 
 I tre fratelli reagiscono in maniera profondamente diversa a questo evento: Maël, in particolare, perde completamente la fiducia nelle istituzioni, diventando un *solo*. Arik, invece, prende a cuore l'obiettivo di migliorare la polizia, così che casi così non succedano più.
 
-#### 2039-2045
+##### 2039-2045
 Parallelamente all'attività da *solo*, ormai avviata, Maël passa gli anni, insieme ai fratelli, a curare la madre, che dopo l'omicidio del marito è stata ricoverata in un centro di riabilitazione in seguito a due overdose.
 
 ---
@@ -34,12 +35,12 @@ Risulta, comunque, ottimista e apprezza il divertimento e lo svago, evitando per
 
 ---
 #### Ai giorni nostri
-#### 2045
-##### Settembre
+##### 2045
+###### Settembre
 Maël è stato assoldato, come altre volte in passato, da [[Robin Maldonado]] per un lavoro. In particolare, l'obiettivo è recuperare [[Carson Toole]], un cliente di Robin che a sua detta ha informazioni sensibili. Insieme a lui sono stati ingaggiati [[Vince Cortès]] e [[Maribel Ford]], altri due solo, in vista dell'inevitabile scontro con i [[Tyger Claws]], la gang che ha rapito Carson.
 Purtroppo, in seguito ad una serie di sfortunati eventi, lo scontro viene perso. Dopo che, sconfitti, Vince e Maribel sono fuggiti dal luogo dello scontro, i Tyger Claws portano via il cliente, lasciano Maël senza paga.
 
-##### Ottobre
+###### Ottobre
 In ottobre, Maël viene contattato nuovamente da Robin, che gli offre un secondo lavoro per ripagarla dell'ultimo.
 Viene fissato un incontro al [[Born This Way]] il 20 ottobre 2045. In questa occasione, Maël conosce [[Bellamy Ichikawa]], [[Kyle '$€4N' Léger|$€4N]], [[Corey Yazawa]] e [[Andres 'Timbò' Yanonami]].
 
@@ -62,7 +63,7 @@ Inoltre, durante le sue indagini, Maël attira l'attenzione di [[Phoebe Ana Sofi
 
 La crew, dopo qualche giorno, incontra gli Aldecaldo. Chiedendo un favore per un favore, incaricano la crew di indagare sul [[Sessione A3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]]. È il 31 ottobre 2045.
 
-##### Novembre
+###### Novembre
 In seguito alla missione, durante il periodo di preparazione per l'assalto, Maël contatta Phoebe con l'intenzione di chiederle di uscire.
 Dopo essersi procurato un braccio nuovo grazie a [[Tyler|Z€N1TH]] e Corey, Maël esce con Phoebe, che lo porta ad esplorare un complesso abitativo abbandonato. 
 Durante l'appuntamento pare assente e ad un certo punto è costretta a congedarsi improvvisamente. 
@@ -79,15 +80,15 @@ Bellamy contatta tutta la crew, avvertendoli che Robin ha suggerito di lasciare 
 Inoltre, le prime indagini eseguite sul prototipo da parte di $€4N e Corey hanno evidenziato il nome di [[Aiden]], un dipendente Militech e vecchia conoscenza di $€4N. Per ottenere dati su di lui serve un *netrunner* e Bellamy offre un lavoro che se portato a termine permetterebbe di sfruttare [[4D4M4NT]] per i propri fini.
 
 La crew rimane quindi coinvolta nel [[Sessione A5 - Il Totentanz|salvataggio di 4D4M4NT]].
-##### Dicembre
+###### Dicembre
 Durante il mese di dicembre, in attesa dell'occasione giusta per rubare i dati a Militech (la festa di Capodanno), Maël spende del tempo con Phoebe, che lo porta in giro in moto per tutta la città. Il suo focus sembra concentrato sulla statua del CEO di [[Petrochem]].
 
 Maël passa serenamente il Natale in famiglia, in compagnia di suo fratello, sua sorella e sua madre.
 
 Il 31 dicembre 2045, la crew rimane coinvolta nella [[Sessione A6 - Festa di Militech|festa di Capodanno di Militech]].
 
-#### 2046
-##### Gennaio
+##### 2046
+###### Gennaio
 Nei file ottenuti da 4D4M4NT durante la festa citano il nome dei De Armas. Maël prende la cosa sul personale e decide di parlarne con suo fratello Arik che, però, nel momento in cui si rende conto che il fratello sta cominciando a spingere per scoprire le dinamiche della morte del padre comincia ad andare sulla difensiva. Segue un litigio tra i due, non dissimile da quello avuto in novembre.
 
 Inoltre, ci sono riferimenti a [[Warrick Sherwood]], il responsabile in Militech delle squadre di assalto che sono state formate in seguito all'assalto al convoglio per trovare i colpevoli.
@@ -108,7 +109,7 @@ Dopo la missione, Z€N1TH avverte la crew che alcuni furgoni Militech sono stat
 
 La settimana dopo, in concomitanza con il primo incontro con Aiden, Bellamy, Timbò e $€4N si trovano in trappola con Warrick Sherwood, che in cambio di informazioni su [[Jaylin Ichikawa]] e dello scioglimento delle squadre d'assalto affida il compito che sfocerà nell'[[Sessione A9 - Disturbi sulla Linea Nera|operazione Disturbi sulla Linea Nera]].
 
-##### Febbraio
+###### Febbraio
 Durante un'uscita, Phoebe rivela a Maël di essere in realtà [[Etcher]] e gli propone di unirsi al gruppo. Maël accetta e conosce alcuni dei membri del collettivo, tra cui [[Carlos Garcia]].
 
 Qualche giorno dopo, inoltre, Phoebe invita Maël ad un incontro importante mirato a dare una voce al progetto. L'incontro è con [[Adrienne Montgomery]], *media* con una discreta fama a Night City. $€4N, a sorpresa, è l'accompagnatore di Adrienne. Le due stipulano un'alleanza che sfocia in un blog a nome Etcher.

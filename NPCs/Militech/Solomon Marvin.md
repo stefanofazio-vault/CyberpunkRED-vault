@@ -45,7 +45,6 @@ cyberware:
 - Innesto cambio rapido
 affiliation: '[[Factions/Corporations/Militech]]'
 ---
-
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]

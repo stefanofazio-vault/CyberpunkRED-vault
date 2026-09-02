@@ -1,30 +1,32 @@
-![[Corey.jpg|300]]
+
 [[#Background]]
 [[#Personalità]]
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
 
----
-#### Background
+![[Corey.jpg|300]]
+
 Corey Yazawa è una *medtech* di Night City. È figlia di [[Yasuo Yazawa]] e [[Susan Koromi]] ed è stata apprendista di [[Alphonsus Vogel]].
 
+---
+#### Background
 ##### 2018-2035
 Corey nasce nel 2018 da una famiglia con legami con [[Arasaka]]. Yasuo, infatti, era un *medtech* di alto livello operante a Night City.
 Grazie all'ottimo stipendio di Yasuo, l'infanzia di Corey scorre tranquilla e anche l'Olocausto di Night City non riesce a rompere questa stabilità.
 
-#### 2036-2040
+##### 2036-2040
 Dopo un'adolescenza serena e anni di scuole di buon livello, Corey si iscrive all'università di Detroit. 
 Durante la sua permanenza a Detroit, Corey si forma con successo come medico. Stringe inoltre amicizia con [[Robert Jung]] e [[Lorelei Delgado]], due giovani *medtech* che, come lei, si erano trasferiti da Night City per studiare. 
 I tre rimarranno amici anche nel momento in cui torneranno a Night City.
 
-#### 2040-2044
+##### 2040-2044
 Nel marzo del 2040, mentre Corey era ancora a Detroit, i suoi genitori vengono uccisi nel loro appartamento da [[Jaylin Ichikawa]]. Il terminato rapporto di lavoro tra Yasuo e Arasaka determinato dalla sua morte causa un immediato congelamento dei conti, causando l'espulsione dall'università di Corey.
 
 Una volta tornata a casa, Corey ha provato a capire cosa fosse successo ma le indagini della polizia, sommarie e sbrigative, si chiudono in un nulla di fatto, archiviando precocemente il caso.
 
 Corey, ora senza casa, trova rifugio presso la [[Clinica Vogel]], dove Alphonsus, il medico residente, la prende come apprendista. 
 
-#### 2045
+##### 2045
 Alphonsus, dopo anni di *tutoring*, decide di ritirarsi e lascia la clinica in mano a Corey.
 
 
@@ -35,8 +37,8 @@ Odia che le vite vadano perse e questa propensione la porta spesso a scontrarsi 
 
 ---
 #### Ai giorni nostri
-#### 2045 
-##### Settembre
+##### 2045 
+###### Settembre
 Durante una normale giornata di lavoro nel settembre del 2045, Corey viene interrotta da un rombo di motori che sembra fermarsi proprio di fronte alla clinica.
 Prima che Corey possa pienamente accertarsi della fonte del rumore, un membro dei [[Prime-Time Players]], in particolare della sottodivisione dei "Fist Of The North Star", si precipita dentro lo studio, portando un suo compagno gravemente ferito.
 Prima che Corey possa provare a fare qualcosa, il ferito muore, scatenando l'ira del compagno, che comincia a devastare l'equipaggiamento della clinica.
@@ -46,7 +48,7 @@ I due si trovano a loro sorpresa coinvolti in una rissa che si risolve con i mem
 Il *techie*, scherzosamente, manda una fattura in casa di Corey, contenente il saldo dei danni dovuti ai mancati affari futuri.
 Corey decide invece di pagarlo in pieno non appena sarebbe stato possibile.
 
-##### Ottobre
+###### Ottobre
 Nell'ottobre del 2045, [[Robin Maldonado]] contatta Corey, offrendole un lavoro ben remunerato.
 Viene fissata, il 20 ottobre 2045, una riunione presso il [[Born This Way]]. Con sorpresa di Corey, anche $€4N è diretto lì. I due fanno la strada insieme.
 
@@ -69,7 +71,7 @@ Una volta ottenuto l'equipaggiamento per l'assalto, Robin consiglia di entrare i
 Durante la riunione con gli Aldecaldo, il loro capo, [[Joshua Travis]], chiede un favore per un favore: in virtù di ciò, la crew rimane coinvolta, il 31 ottobre, nel [[Sessione A3 - Rituale dei Voodoo Boys|rituale dei Voodoo Boys]].
 Durante questa missione, Corey comincia a rendersi conto della mancanza di empatia di buona parte dei suoi compagni (ecluso Maël). Questo avvenimento la mette in guardia per il futuro.
 
-##### Novembre
+###### Novembre
 Qualche giorno dopo uno dei pochi superstiti del rituale dei [[Voodoo Boys]] si presenta in clinica da Corey. Il ragazzo si chiama [[Victor Neely]] e nonostante il trattamento iniziale fornito da Corey presso il [[Campo Aldecaldo]], presenta ferite ben aperte e ancora fresche. Corey fa il possibile per trattarle al meglio, ma si rende immediatamente conto che il ragazzo ha bisogno di terapia che, però, non vuole.
 
 Corey, negli stessi giorni, viene incaricata di installare un cyberbraccio su [[Adrienne Montgomery]], su incarico di $€4N.
@@ -87,7 +89,7 @@ Infine, con l'aiuto di $€4N, Corey riesce finalmente a riparare il suo studio.
 
 Nell'ottica di procurarsi un *netrunner* per ottenere dati su Aiden e sulle squadre di assalto che Militech ha sguinzagliato, Bellamy offre un lavoro alla crew: salvare [[4D4M4NT]] dal [[Totentanz]]. La crew rimane quindi coinvolta nel [[Sessione A5 - Il Totentanz|salvataggio di 4D4M4NT]].
 
-##### Dicembre
+###### Dicembre
 Una volta nascosto il prototipo nell'appartamento di [[Little Europe]], Corey e $€4N lo analizzano il più approfonditamente possibile, apprendendo alcuni dettagli sul suo funzionamento.
 
 Timbò, inoltre, chiede a sorpresa l'aiuto di Corey per della terapia.
@@ -96,8 +98,8 @@ Corey passa, come gli ultimi anni, il Natale con Alphonsus.
 
 Il 31 dicembre Corey rimane coinvolta con la crew nella [[Sessione A6 - Festa di Militech|festa di Capodanno di Militech]].
 
-#### 2046
-##### Gennaio
+##### 2046
+###### Gennaio
 Una volta ricevute le informazioni da 4D4M4NT, Corey contatta nuovamente Lorelei per chiedere informazioni su [[Aiden]], il cui nome è stato trovato nella lista dipendenti, associata ad un grosso stipendio. Lorelei indica come Aiden sia effettivamente un suo collega che non va d'accordo con nessuno e spesso viene spostato di reparto per lunghi periodi.
 
 La crew decide che il miglior modo per ottenere informazioni riguardanti il prototipo sia rapire Aiden. Per fare ciò, Corey si informa con Alphonsus su come funzioni nello specifico la chiamata verso [[Trauma Team]] in modo tale da rapirlo efficacemente.
@@ -111,7 +113,7 @@ Corey, al quartier generale degli [[Zoners]], fornisce supporto ad alcuni sfolla
 
 Il 29 gennaio Timbò, Bellamy e $€4N cadono trappola di [[Warrick Sherwood]], che in cambio di informazioni su Jaylin e dello scioglimento delle squadre di assalto li obbliga a partecipare all'[[Sessione A9 - Disturbi sulla Linea Nera|operazione "Disturbi sulla Linea Nera"]].
 
-##### Febbraio
+###### Febbraio
 Grazie alle informazioni ottenute da Sherwood, la crew scopre l'esistenza del [[Sito di ricerca Alpha]], dove avviene il [[Sessione A10 - Il laboratorio|scontro con Eliza Coda e Jemmy Tasker]].
 In seguito all'eliminazione a sangue freddo di Eliza da parte di Timbò, Corey si allontana furiosa dal gruppo per la serata.
 
