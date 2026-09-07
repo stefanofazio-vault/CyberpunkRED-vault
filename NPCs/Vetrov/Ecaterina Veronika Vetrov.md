@@ -6,9 +6,12 @@ affiliation: '[[Factions/Corporations/SovOil]]'
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
 
+![[ecaterina.jpg|300]]
+
+Ecaterina Veronika Vetrov è un membro della famiglia Vetrov, dipendente di [[SovOil]], figlia di [[Ivan Vetrov]] e [[Marya Boscovich Vetrov]] e sorella di [[Yelena Olga Vetrov]], [[Dimitri Vladimir Vetrov]] e [[Yuri Viktor Vetrov]].
+
 ---
 #### Background
-Ecaterina Veronika Vetrov è un membro della famiglia Vetrov, dipendente di [[SovOil]], figlia di [[Ivan Vetrov]] e [[Marya Boscovich Vetrov]] e sorella di [[Yelena Olga Vetrov]], [[Dimitri Vladimir Vetrov]] e [[Yuri Viktor Vetrov]].
 
 ---
 #### Personalità
