@@ -20,12 +20,12 @@ L'atteggiamento di Dimitri non cambia neanche con l'arrivo della prima sorella m
 
 Ivan Vetrov, il padre dei due bambini, comincia a nutrire dei dubbi riguardo l'approccio educativo dei figli.
 
-##### 2023 - 2026
+##### 2023 - 2027
 In concomitanza con l'esplosione della bomba, che lascia fortunatamente illese le strutture di SovOil e le residenze di famiglia, nasce la seconda sorella minore, Yelena. 
 
 Nonostante le mire a lungo termine dei genitori non siano cambiate, Ivan seleziona dei tutori più gentili per Yelena rispetto a quanto avesse fatto con Dimitri. Questo porta quest'ultimo a nutrire una profonda gelosia nei confronti della sorella, che viene sfogata tramite lo studio intenso e una ricerca disperata di approvazione genitoriale. 
 
-##### 2028 - 2039
+##### 2028 - 2038
 La nascita del fratello Yuri peggiora ulteriormente le cose, vedendo il trattamento riservato a Yelena ripetersi. 
 Gli anni successivi passano nel livore e nella fatica, con addestramenti sempre più pesanti e una ricerca d'affetto sempre maggiore, che culmina, infine, con la fuga di Yelena e Yuri. 
 
