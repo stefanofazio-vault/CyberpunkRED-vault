@@ -247,6 +247,28 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_644jfd",
+      "x": 0.3866951616534994,
+      "y": 0.44021059408947016,
+      "layer": "default",
+      "link": "Dock 15",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_5g4shb",
+      "x": 0.33632984681457034,
+      "y": 0.4143148987048056,
+      "layer": "default",
+      "link": "Dock 18",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [
