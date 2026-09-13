@@ -30,7 +30,7 @@
 | Martedì   | [[Pista di Valya]]        | Passa del tempo con [[Valya]]                                                                     |
 | Mercoledì | [[Night City Spaceport]]  | Supervisione logistica del programma spaziale di [[SovOil]] con [[Dimitri Vladimir Vetrov]]       |
 | Giovedì   | [[Dock 15]], [[Sakura's]] | Si incontra con [[Chloe Ashton]] per definire le strategie comunicative. Dopodichè, cena da sola. |
-| Venerdì   | [[Dock 15]], [[Dock 18]]  | Incontro settimanale con [[Petar Gunn]]. Incontro settimanale con [[Dimitri Vladimir Vetrov]]     |
+| Venerdì   | [[Dock 18]], [[Dock 15]]  | Incontro settimanale con [[Dimitri Vladimir Vetrov]]. Incontro settimanale con [[Petar Gunn]].    |
 | Sabato    | [[Dock 18]]               | Accoglienza delle navi [[SovOil]] con [[Dimitri Vladimir Vetrov]] e [[Petar Gunn]]                |
 | Domenica  | [[Le Jardin]]             | Cena con [[Valya]] e pochi intimi                                                                 |
 
