@@ -57,4 +57,6 @@ Sparsi per il molo ci sono alcuni piccoli gruppi di guardie che pattugliano in m
 Il molo dall'esterno si presenta come nella mappa soprastante. 
 Tutti gli elementi esterni sono già stati identificati durante la ricognizione, tranne la porta che è rivolta verso il mare. 
 
-Il portone, ingresso carraio, conduce al centro del magazzino. 
+Il portone, ingresso carraio, conduce al centro del magazzino. La porta pedonale che dà sulla strada porta all'estremità del magazzino, vicino alle scale che portano agli uffici. La porta che dà sul mare, invece, conduce ad una stanza di servizio, che è accessibile anche dal magazzino. 
+
+![[Molo 15 - Interno_39x31.png]]
