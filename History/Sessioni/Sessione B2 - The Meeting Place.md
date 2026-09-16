@@ -1,4 +1,4 @@
-### Premessa
+![[security_room_12x14.png]]### Premessa
 La crew vuole presenziare alla riunione che si terrà al [[Dock 15]] il venerdì. Sanno che "dei capi" si incontreranno per discutere e che per questo il Dock 15 chiude anticipatamente, mandando via buona parte del personale. 
 
 ### Scena 1 - L'esterno del molo 
@@ -57,6 +57,9 @@ Sparsi per il molo ci sono alcuni piccoli gruppi di guardie che pattugliano in m
 Il molo dall'esterno si presenta come nella mappa soprastante. 
 Tutti gli elementi esterni sono già stati identificati durante la ricognizione, tranne la porta che è rivolta verso il mare. 
 
-Il portone, ingresso carraio, conduce al centro del magazzino. La porta pedonale che dà sulla strada porta all'estremità del magazzino, vicino alle scale che portano agli uffici. La porta che dà sul mare, invece, conduce ad una stanza di servizio, che è accessibile anche dal magazzino. 
+Il portone, ingresso carraio, conduce al centro del magazzino. La porta pedonale che dà sulla strada porta all'estremità del magazzino, vicino alle scale che portano agli uffici. La porta che dà sul mare, invece, conduce alla stanza della sicurezza, che è accessibile anche dal magazzino. 
 
-![[Molo 15 - Interno_39x31.png]]
+![[security_room_12x14.png|300]] ![[Molo 15 - Interno_39x31.png]]
+
+
+
