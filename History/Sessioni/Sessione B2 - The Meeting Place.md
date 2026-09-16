@@ -1,4 +1,4 @@
-![[security_room_12x14.png]]### Premessa
+### Premessa
 La crew vuole presenziare alla riunione che si terrà al [[Dock 15]] il venerdì. Sanno che "dei capi" si incontreranno per discutere e che per questo il Dock 15 chiude anticipatamente, mandando via buona parte del personale. 
 
 ### Scena 1 - L'esterno del molo 
