@@ -12,6 +12,8 @@ location:
 [[#Ai giorni nostri]]
 [[#Scheda personaggio]]
 
+![[petar gunn.png|300]]
+
 Ex-amico e ora nemico di [[Dasan Tan]]. Fratello di [[Kuno Gunn]]. Membro dei [[Consortium]]. Sgherro fidato di [[Valya]].
 
 ---

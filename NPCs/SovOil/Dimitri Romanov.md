@@ -12,9 +12,12 @@ location:
 [[#Personalità]]
 [[#Ai giorni nostri]]
 
+![[dimitri romanov.png|300]]
+Dimitri Romanov è un dipendente di [[SovOil]] che ha contatti lavorativi con [[Dasan Tan]]. 
+
 ---
 #### Background
-Dimitri Romanov è un dipendente di [[SovOil]] che ha contatti lavorativi con [[Dasan Tan]]. I due hanno un accordo secondo il quale il lavoro proposto da Dimitri è sempre prioritario in cambio di un trattamento agevolato nell'acquisto di CHOOH2 da parte della famiglia di Dasan.
+I due hanno un accordo secondo il quale il lavoro proposto da Dimitri è sempre prioritario in cambio di un trattamento agevolato nell'acquisto di CHOOH2 da parte della famiglia di Dasan.
 
 ---
 #### Personalità

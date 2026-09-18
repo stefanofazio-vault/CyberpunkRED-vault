@@ -10,10 +10,13 @@ location:
 [[#Personalità]]
 [[#Ai giorni nostri]]
 
+![[pablo garcia.png|300]]
+Cugino di [[Dasan Tan]]. Figlio di [[Justin Garcia]] e [[Maria Tan]]. Fratello di [[Cole Garcia]] e [[Clara Garcia]].
+
 ---
 #### Background
 
-Cugino di [[Dasan Tan]]. Figlio di [[Justin Garcia]] e [[Maria Tan]]. Fratello di [[Cole Garcia]] e [[Clara Garcia]].
+
 
 Pablo è attualmente uno degli amici più stretti di Dasan.
 Inoltre, dopo aver iniziato la carriera da fixer, Dasan è diventato uno dei suoi collaboratori. Tuttavia, in virtù di una premura nei confronti del cugino, tende sempre a proporgli lavori di poco conto che possano tenerlo al sicuro, generando alle volte un certo attrito tra i due.

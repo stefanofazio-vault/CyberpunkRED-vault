@@ -9,9 +9,12 @@ rank:
 [[#Personalità]]
 [[#Ai giorni nostri]]
 
+![[Kuno gunn.png|300]]
+Ex-amico di [[Dasan Tan]]. Fratello di [[Petar Gunn]]. Membro dei [[Consortium]].
+
 ---
 #### Background
-Ex-amico di [[Dasan Tan]]. Fratello di [[Petar Gunn]]. Membro dei [[Consortium]].
+
 
 #### 2023 
 Kuno nasce a Night City da una famiglia di origini tedesche.

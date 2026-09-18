@@ -5,12 +5,15 @@ location: "[[Locations/Bars and clubs/Rusty's Dive Shack]]"
 [[#Personalità]]
 [[#Ai giorni nostri]]
 
+![[pamela gonzales.png|300]]
+Pamela Gonzales è una ragazza residente al [[Porto di Night City]] e barista presso il [[Rusty's Dive Shack]]. È la fidanzata di [[Dasan Tan]].
+
 ---
 #### Background
-Pamela Gonzales è una ragazza residente al [[Porto di Night City]] e barista presso il [[Rusty's Dive Shack]]. 
+
 È nata nel 2023 e ha perso i genitori da piccola, cominciando a vivere simbioticamente con le piccole comunità portuali.
 
-Conosce [[Dasan Tan]] nel 2039, all'età di 17 anni. Da allora, i due hanno mantenuto una relazione che è più profonda di un *flirt* ma meno di una relazione ufficiale, nonostante tutti li diano già per sposati.
+Conosce Dasan nel 2039, all'età di 17 anni. Da allora, i due hanno mantenuto una relazione che è più profonda di un *flirt* ma meno di una relazione ufficiale, nonostante tutti li diano già per sposati.
 
 Pamela ha sempre fatto il tifo affinché Dasan lasciasse il [[Consortium]].
 
