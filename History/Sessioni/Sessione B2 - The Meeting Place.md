@@ -30,10 +30,8 @@ Ci sono una serie di *access point* sparsi per i moli. Gli *access point* govern
 
 ```mermaid
 flowchart TD
-	A[Password DV8] --> B[Killer A]
-	A --> C[Dragon]
-	C --> D[Kraken A]
-	C --> E[Cerbero]
+	A[Password DV8] --> D[Kraken A]
+	A --> E[Cerbero]
 	E --> F[Password DV10]
 	F --> G[Control node DV10 muletti]
 	F --> H[File DV6]
@@ -61,5 +59,52 @@ Il portone, ingresso carraio, conduce al centro del magazzino. La porta pedonale
 
 ![[security_room_12x14.png|300]] ![[Molo 15 - Interno_39x31.png]]
 
+---
 
+Tutti i punti di accesso del magazzino interno sono collegati alla seguente architettura di rete.
 
+```mermaid
+flowchart TD
+	A[Killer A] --> B[Asp x2]
+	B --> D[Kraken A]
+	A --> E[Raven x2]
+	E --> F[Password DV10]
+	F --> G["Control node DV10 (Muletti)"]
+	G --> J[Titan]
+	J --> M[Dragon]
+	M --> I["Control node DV10 (Telecamere)"]
+	L --> K[File DV10]
+	F --> L[2x Raven]	 
+```
+
+Il file trovato in profondità 5 include le registrazioni della giornata. Le registrazioni sono senza audio per risparmiare spazio di archiviazione, ma lo stream diretto è con audio.
+
+---
+
+Il magazzino sarà sorvegliato da 2 guardie, che pattuglieranno regolarmente il perimetro. 
+Inoltre, nella stanza della sicurezza sarà presente un membro dei Vyriy, impegnato sulla console che da' le spalle al magazzino.
+
+Al piano superiore, nella sala riunioni, saranno invece presenti, per i Vyriy, Agnessa e la sua guardia del corpo, [[Sashlok Pavlosky]] e Petar per il Consortium con un paio di sgherri. 
+
+---
+
+Le guardie dei Vyriy seguono questo *statblock*:
+
+![[Vyriy goon - SB]]
+
+Gli sgherri del Consortium, invece, questo:
+
+![[Consortium goon - SB]]
+
+---
+
+Nel caso in cui la crew dovesse riuscire con successo ad ascoltare la riunione tra Agnessa e Petar, verranno discussi i seguenti temi. 
+- Petar inizierà chiedendo se ci sono stati problemi nel trasporto delle casse agli [[Scavengers]] di questa settimana. Agnessa risponderà negativamente. 
+- Agnessa chiederà aggiornamento riguardo le fonti. Petar comunicherà che [[Amado Villanueva|Amado]] riporta ben poco e che da parte sua non sembrano esserci grandi novità. [[Saveliy Viktorov|Saveliy]], invece, comincia a riportare un certo malcontento. 
+- Agnessa si lamenterà con Petar dell'operato di Amado. Petar risponderà che lei stessa sembra star perdendo tempo, inquisendo sul perchè il martedì non sia mai al molo. Agnessa risponderà che dove va il martedì non sono affari di nessuno.
+- Petar chiederà come è andato l'incontro con "lo stronzo", avvenuto qualche ora prima. Agnessa risponderà di aver stretto i denti, poiché per quanti "stronzo" si parla sempre di uno dei principali finanziatori. Petar risponderà di capire, dicendo che il lunedì è un giorno di stress per lui per via del suo incontro con "lo stronzo" a [[Watson]].
+- Chiuderanno l'incontro ribadendo di dover accelerare il passo, visto che la scadenza del progetto è vicina e i finanziatori potrebbero perdere molto. 
+
+---
+
+A questo punto, inserire una complicazione a scelta.
