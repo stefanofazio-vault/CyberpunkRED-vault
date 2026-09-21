@@ -1,5 +1,5 @@
 ### Premessa
-Dopo un intervento concluso con relativo successo, [[Alexandra 'Sasha' Hale|Sasha]] trova [[Viktor Novak]] nella sua sala d'aspetto. Questa volta, a differenza del solito, non è venuto per i soliti contratti di vendita e distribuzione delle BDs, bensì per mettere al corrente Sasha di un'offerta ricevuta da [[Yago Abdulbaki]]. 
+È il 27 aprile 2046. Dopo un intervento concluso con relativo successo, [[Alexandra 'Sasha' Hale|Sasha]] trova [[Viktor Novak]] nella sua sala d'aspetto. Questa volta, a differenza del solito, non è venuto per i soliti contratti di vendita e distribuzione delle BDs, bensì per mettere al corrente Sasha di un'offerta ricevuta da [[Yago Abdulbaki]]. 
 
 Allo stesso modo, [[Dasan Tan]] viene contattato da [[Pablo Garcia]] che gli offre, di fatto, lo stesso lavoro.
 L'offerta consiste nel recuperare un cliente che ha avuto problemi con i [[Deadwood]]. Il cliente in questione è [[Omar Fowler]] che, secondo le informazioni fornite ai due *fixer*, è tenuto prigioniero in un edificio di proprietà dei Deadwood vicino al [[The Yard]]. 
