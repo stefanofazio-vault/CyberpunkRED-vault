@@ -108,3 +108,19 @@ Nel caso in cui la crew dovesse riuscire con successo ad ascoltare la riunione t
 ---
 
 A questo punto, inserire una complicazione a scelta.
+
+--- 
+
+### Riepilogo di quanto accaduto
+- La crew ha causato dei danni presso il molo 16, schiantando un container contro il magazzino come diversivo. 
+- La crew ha ucciso una guardia, lasciandola nascosta nell'armadio nella stanza di sicurezza. Non sono state usate armi. 
+- Sono state ottenute le seguenti informazioni ascoltando la riunione tra Agnessa e Petar:
+	- Agnessa si prende i martedì liberi e non vuole discutere di cosa fa
+	- Si è scoperto che due membri dell'organizzazione si chiamano Amado e Saveliy
+	- Si è scoperto che sia Agnessa che Petar hanno riunioni frequenti con "lo stronzo" (Dimitri Vetrov), che è però uno dei principali finanziatori
+	- Si è scoperto che Consortium e Vyiry mirano a generare malcontento in una certa comunità (non si sa quale)
+	- Agnessa ha richiesto che gli Scavengers vengano pressati per lavorare più in fretta
+- [[Dasan Tan|Dasan]] ha rivelato l'identità di Petar, rivelando parzialmente il loro legame
+- [[Yelena Olga Vetrov|Yelena]] ha riconosciuto Dimitri, ma non ha voluto rivelare il suo legame con lui. 
+	- Ha fornito informazioni riguardo la sua affiliazione. 
+- Yelena ha lasciato un Cloak DV 15 nell'architettura di rete della stanza di sicurezza.
