@@ -3,7 +3,7 @@ type: npc
 game: cyberpunk-red
 
 identity:
-  name: Vyriy gangoon
+  name: Consortium gangoon
   role: Solo
 
 combat:
