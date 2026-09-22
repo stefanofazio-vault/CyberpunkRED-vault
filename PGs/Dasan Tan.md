@@ -50,6 +50,15 @@ La relazione con Pamela è ancora in piedi, ma molti cominciano a chiedersi quan
 
 ---
 #### Ai giorni nostri
+##### 2046
+###### Aprile
+Dasan viene coinvolto da Pablo nel [[Sessione B0-2 - Sasha + Dasan|recupero di un sottoposto]] di [[Yago Abdulbaki|Yago]]. In questa occasione, conosce [[Alexandra 'Sasha' Hale]], dalla quale verrà curato dopo aver completato la missione.
+
+Il 30 aprile si presenta all'appuntamento fissato da Yago, conoscendo qui [[Thomas Watterson]], [[Yelena Olga Vetrov]] e [[Bellamy Ichikawa]]. 
+
+Il giorno stesso viene coinvolto nel [[Sessione B1 - The Gods Made Heavy Metal|recupero di informazioni]] da [[Ivan]] dei [[Vyriy]]. 
+###### Maggio
+Il giovedì seguente (3 maggio) Dasan effettua una ricognizione al [[Dock 15]] in vista dell'operazione del giorno successivo, l'[[Sessione B2 - The Meeting Place|infiltrazione al porto]]. 
 
 ---
 #### Scheda personaggio
