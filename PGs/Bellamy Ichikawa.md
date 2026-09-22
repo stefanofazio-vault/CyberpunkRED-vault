@@ -176,5 +176,16 @@ Bellamy, non soddisfatto delle risposte ottenute e incuriosito dal commento fatt
 
 ![[Bellamy_final.jpeg]]
 
+###### Aprile
+Il 27 di aprile Bellamy visita nuovamente Robin, ricevendo informazioni riguardo la persona che aveva suggerito i nomi per la formazione della squadra. In seguito a ciò, Bellamy [[Sessione B0-4 - Bellamy|visita il bar]] di proprietà di [[Clinton Moss]], l'uomo indicato da Bellamy, il [[Black Hand]]. Conosce qui [[Cassandra Deniaud]]. Qui scoprirà che Clinton è morto di vecchiaia poco prima e che le tracce trovate sono sostanzialmente inutili. La sera stessa, però, viene contattato da [[Yago Abdulbaki]] che lo invita ad un appuntamento il 30 di aprile con la promessa di informazioni interessanti.
+
+Il 30 di aprile Bellamy si presenta sul luogo, conoscendo qui [[Dasan Tan]], [[Alexandra 'Sasha' Hale]], [[Yelena Olga Vetrov]] e [[Thomas Watterson]]. Viene, il giorno stesso, coinvolto nella [[Sessione B1 - The Gods Made Heavy Metal|ricerca di informazioni]] da [[Ivan]] sui [[Vyriy]].
+
+###### Maggio
+Il 1 maggio Bellamy viene contattato da Fubuki, che lo informa di averlo visto lavorare al Born This Way e di essere curioso di come le cose sono andate. Bellamy accetta di incontrarlo proponendo il Black Hand come *location*. I due si incontrano e dialogano amicabilmente per tutta la sera, spostandosi poi presso l'[[Appartamento di Fubuki]] quando il tema si sposta sui progetti di Militech. 
+La serata si conclude con una proposta di collaborazione vicendevole.
+
+Il 4 maggio Bellamy rimane coinvolto con il resto della crew nell'[[Sessione B2 - The Meeting Place|infiltrazione al porto]].
+
 ---
 #### Scheda personaggio
