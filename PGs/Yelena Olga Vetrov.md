@@ -33,6 +33,22 @@ Indagando su come recuperare Loki, Yelena conosce [[Daniel Jackson]], con il qua
 
 ---
 #### Ai giorni nostri
+##### 2046
+###### Aprile
+Il 27 aprile Yelena viene contattata da Yago per [[Sessione B0-3 - Yelena|installare un virus in una architettura di rete]]. A lavoro concluso, le viene proposto un appuntamento per discutere di ulteriore lavoro il 30 di aprile. 
+
+Il 30 di aprile si presenta all'appuntamento dove conosce [[Dasan Tan]], [[Alexandra 'Sasha' Hale]], [[Thomas Watterson]] e [[Bellamy Ichikawa]]. La sera stessa rimane coinvolta nella [[Sessione B1 - The Gods Made Heavy Metal|ricerca di informazioni]] da [[Ivan]] sui [[Vyriy]].
+
+Ordina, da [[Kyle '$€4N' Léger]], un alveolo custom che dovrebbe venire pronto il 5 maggio. Si mette d'accordo con Sasha per l'installazione.
+
+###### Maggio
+Partecipa, insieme a Thomas e Dasan, a delle ricognizioni al [[Dock 15]], dove scoprono il coinvolgimento di [[Chloe Ashton]] e [[Rosa Lyn]], identificate da Thomas. 
+
+Traduce, insieme a Yuri, l'audio mandatogli da Thomas, ottenendo informazioni riguardo un incidente durante un prelievo degli [[Scavengers]] che ha portato ad un loro tentativo di confondere le acque.
+
+Il 4 maggio partecipa all'[[Sessione B2 - The Meeting Place|infiltrazione al porto]]. La sera, dopo aver visto Dimitri interagire con [[Agnessa Viktorova]], litiga con il resto del gruppo a fronte del suo rifiuto di esporre chiaramente il suo legame con i Vetrov.
+
+Il 5 maggio, come da programmi, ritira l'alveolo da $€4N, per poi procedere all'installazione presso la clinica di Sasha. Qui conosce [[Noah Hale]].
 
 ---
 #### Scheda personaggio
