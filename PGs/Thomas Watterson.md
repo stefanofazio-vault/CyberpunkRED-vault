@@ -65,6 +65,27 @@ Il fumetto ottiene una certa nomea e Thomas si firma come "Snowman".
 
 ---
 #### Personalità
+##### 2046
+###### Aprile
+Il 27 di aprile Thomas, nonostante fosse teoricamente il suo giorno libero, viene incaricato da Rosa di trovare un articolo da pubblicare entro la giornata. Dopo aver [[Sessione B0-1 - Thomas|raccolto delle informazioni]] sui social e aver fatto un giro a [[Old Japantown]], Thomas arriva a fine giornata con le seguenti notizie:
+- Gira voce che [[SovOil]] non importi e produca sufficiente CHOOH2 per sostenere il programma spaziale che stanno fortemente sponsorizzando.
+- Ha ipotizzato che l'omicidio accaduto quel giorno a Old Japantown fosse in realtà da imputarsi agli [[Scavengers]], più che a 'The Claw'. 
+- Ha scoperto da [[Kasymbek]] che SovOil sta aprendo accademie e scuole per formare futuri astronauti.
+
+È stato contattato, la sera stessa, da [[Yago Abdulbaki|Yago]], che gli ha proposto di incontrarsi il 30 di aprile per fornire informazioni utili a svoltare la propria carriera giornalistica.
+
+Il 30 di aprile si presenta all'appuntamento, dove conosce [[Dasan Tan]], [[Alexandra 'Sasha' Hale]], [[Yelena Olga Vetrov]] e [[Bellamy Ichikawa]]. Viene la sera stessa coinvolto nella [[Sessione B1 - The Gods Made Heavy Metal|ricerca di informazioni]] da [[Ivan]] sui [[Vyriy]]. Di ritorno dalla serata, si fa curare da Sasha. 
+
+Sente parlare, inoltre, di alcune incursioni violente da parte degli [[Zoners]] nella zona del [[Porto di Night City]].
+###### Maggio
+Nei giorni successivi, esegue delle ricognizioni presso il [[Dock 15]] in compagnia di Yelena. Inoltre, indaga sui movimenti di Rosa Lyn e [[Chloe Ashton]], che sono state avvistate al porto da Dasan e Yelena. 
+
+Dopo aver fornito l'audio registrato dagli Scavengers a Yelena, ottiene la traduzione che indica come il gruppo che ha registrato ha provato a coprire un incidente provando a replicare il *modus operandi* di 'The Claw'.
+
+Inoltre, esegue ricerche separate su [[Sofiya Fedorova]], trovando solo alcuni riferimenti nel database dell'[[NCPD]] che fanno riferimento solo ad un piccolo furto in una *bodega* della [[Old Combat Zone]]. Scopre inoltre che che la domenica è meglio stare lontano dal [[White Side]] poiché una grande quantità di Scavengers tende a riunirsi lì. 
+
+Il 4 maggio, si [[Sessione B2 - The Meeting Place|infiltra al porto]]. Sente parlare, inoltre, 
+
 
 ---
 #### Ai giorni nostri

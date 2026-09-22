@@ -58,7 +58,9 @@ Il 30 aprile si presenta all'appuntamento fissato da Yago, conoscendo qui [[Thom
 
 Il giorno stesso viene coinvolto nel [[Sessione B1 - The Gods Made Heavy Metal|recupero di informazioni]] da [[Ivan]] dei [[Vyriy]]. 
 ###### Maggio
-Il giovedì seguente (3 maggio) Dasan effettua una ricognizione al [[Dock 15]] in vista dell'operazione del giorno successivo, l'[[Sessione B2 - The Meeting Place|infiltrazione al porto]]. 
+Il giovedì seguente (3 maggio) Dasan effettua una ricognizione al [[Dock 15]] in vista dell'operazione del giorno successivo. Qui scopre del coinvolgimento di [[Chloe Ashton]] e [[Rosa Lyn]], che vengono identificate da Thomas.
+
+Il giorno dopo ha luogo l'[[Sessione B2 - The Meeting Place|infiltrazione al porto]]. 
 
 ---
 #### Scheda personaggio
