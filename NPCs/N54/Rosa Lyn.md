@@ -32,7 +32,8 @@ Rosa, da allora, viene coinvolta da Chloe nel [[Progetto 'Blood And Thunder']].
 
 ---
 #### Personalità
-Rosa è una persona arrivista, egoista ed estremamente 
+Rosa è una persona arrivista, egoista ed estremamente apatica. La scalata al potere, spesso fine a sé stessa, è uno dei pochissimi motori della sua esistenza. 
+La volontà di controllo si esprime spesso in atteggiamenti ostruzionisti nei confronti degli altri, per poi sfogarsi in privato in tendenze sessuali atipiche.
 
 ---
 #### Ai giorni nostri
