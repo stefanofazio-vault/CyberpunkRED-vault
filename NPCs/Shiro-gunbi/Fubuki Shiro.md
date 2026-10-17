@@ -1,6 +1,12 @@
 ---
-location: '[[Locations/Ristoranti/Sapporo Serenade]]'
-affiliation: '[[Factions/Corporations/Shiro-Gunbi]]'
+location: "[[Locations/Ristoranti/Sapporo Serenade]]"
+affiliation: "[[Factions/Corporations/Shiro-Gunbi]]"
+role:
+  - exec
+  - fixer
+rank:
+  - "4"
+  - "5"
 ---
 [[#Background]]
 [[#Personalità]]
