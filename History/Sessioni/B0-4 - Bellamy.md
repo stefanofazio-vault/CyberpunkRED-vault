@@ -1,5 +1,5 @@
 ### Premessa
-Bellamy, dopo gli eventi dello [[Sessione A12 - Scontro con Jaylin|scontro con Jaylin]], è rimasto d'accordo con [[Robin Maldonado]] di incontrarsi non appena le ferite di quest'ultima non sarebbero guarite a sufficienza da permettere di uscire dall'ospedale.
+Bellamy, dopo gli eventi dello [[A12 - Scontro con Jaylin|scontro con Jaylin]], è rimasto d'accordo con [[Robin Maldonado]] di incontrarsi non appena le ferite di quest'ultima non sarebbero guarite a sufficienza da permettere di uscire dall'ospedale.
 Questo succederà il 9 aprile 2046. 
 Bellamy verrà invitato da Robin presso i [[Marina Breeze Apartments]], dove Robin pare abbia affittato uno degli appartamenti.
 

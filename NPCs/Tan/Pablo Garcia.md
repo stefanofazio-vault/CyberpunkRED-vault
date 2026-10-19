@@ -28,7 +28,7 @@ Pablo è un ragazzo sveglio e intelligente, molto cauto e previdente. Alle volte
 ---
 #### Ai giorni nostri
 #### 26 aprile 2046
-Pablo viene contattato da [[Yago Abdulbaki]] per proporre un lavoro a Dasan ([[Sessione B0-2 - Sasha + Dasan|il recupero di un suo dipendente]]). Il lavoro viene portato a termine con successo. 
+Pablo viene contattato da [[Yago Abdulbaki]] per proporre un lavoro a Dasan ([[B0-2 - Sasha + Dasan|il recupero di un suo dipendente]]). Il lavoro viene portato a termine con successo. 
 
 ---
 
