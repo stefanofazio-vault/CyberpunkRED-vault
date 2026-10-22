@@ -50,5 +50,5 @@ L'architettura ha una serie di accessi, tra cui un paio di interfacce dietro il 
 - Consegnano casse agli [[Scavengers]] al [[White Side]]
 - Chiudono il [[Dock 15]] prima del solito il venerdì
 - C'è una donna molto bella con un cyberbraccio e i capelli rossi che frequenta il [[Dock 15]] e è presente al [[White Side]]. Parla russo e ha una figlia
-- Sanno che il capo dei [[Vyriy]] e [[Agnessa Viktorova]] e il capo del [[Consortium]] è [[Valya]].
+- Sanno che il capo dei [[Vyriy]] è [[Agnessa Viktorova]] e il capo del [[Consortium]] è [[Valya]].
 - Sasha suppone che la ragazza sia [[Sofiya Fedorova]].
