@@ -120,12 +120,12 @@
 
 ### [[Rosa Lyn]]
 
-| Giorno    | Location                               | Evento                                                                                            |
-| --------- | -------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Lunedì    | [[Network 54 Plaza]]                   | Analizza i prodotti dei sottoposti                                                                |
-| Martedì   | [[Fur fur u]]                          | Passa tempo con degli *exotic*.                                                                   |
-| Mercoledì | [[SovOil Residence]]                   | Incontro con [[Chloe Ashton]] e [[Ivan Vetrov]] per definire le strategie comunicative per SovOil |
-| Giovedì   | [[Dock 15]]                            | Riprende immagini del porto evitando deliberatamente alcune aree.                                 |
-| Venerdì   | [[Network 54 Plaza]]                   | Weekly scrum con [[Chloe Ashton]].                                                                |
-| Sabato    | [[Downtown]]                           | Riunione con i sottoposti                                                                         |
-| Domenica  | [[Network 54 Westbrook Private Acres]] | Prepara il piano editoriale della settimana successiva.                                           |
+| Giorno    | Location                                   | Evento                                                                                                                     |
+| --------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| Lunedì    | [[Network 54 Plaza]]                       | Analizza i prodotti dei sottoposti                                                                                         |
+| Martedì   | [[Fur fur u]]                              | Passa tempo con degli *exotic*.                                                                                            |
+| Mercoledì | [[Network 54 Plaza]], [[SovOil Residence]] | Lavoro ordinari. La sera incontro con [[Chloe Ashton]] e [[Ivan Vetrov]] per definire le strategie comunicative per SovOil |
+| Giovedì   | [[Dock 15]]                                | Riprende immagini del porto evitando deliberatamente alcune aree.                                                          |
+| Venerdì   | [[Network 54 Plaza]]                       | Weekly scrum con [[Chloe Ashton]].                                                                                         |
+| Sabato    | [[Downtown]]                               | Riunione con i sottoposti                                                                                                  |
+| Domenica  | [[Network 54 Westbrook Private Acres]]     | Prepara il piano editoriale della settimana successiva.                                                                    |
