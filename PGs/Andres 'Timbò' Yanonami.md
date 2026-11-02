@@ -6,7 +6,7 @@
 
 ![[Andres.jpg|300]]
 
-Andres Timbò Yanomami è un nomade appartenente alla famiglia degli [[Yanomami]]. È fratello minore di [[Alejandro Yanomami]], [[Lionel Yanomami]] e [[Ronaldo Yanomami]], il nipote di [[Kaya 'Woodstocka' Yanomami]] e [[Gonzalo Yanomami]], il fratello maggiore di [[Julia 'Lucy' Yanomami]], [[Rico 'Linus' Yanomami]] e [[Joji Yanonami]] e il figlio di [[Rosalinda Yanomami]] e [[Carlos Yanomami]]. Funge da fratello adottivo per [[NPCs/Yanomami/Craig]].
+Andres Timbò Yanomami è un nomade appartenente alla famiglia degli [[Yanomami]]. È fratello minore di [[Alejandro Yanomami]], [[Lionel Yanomami]] e [[Ronaldo Yanomami]], il nipote di [[Kaya 'Woodstocka' Yanomami]] e [[Gonzalo Yanomami]], il fratello maggiore di [[Julia 'Lucy' Yanomami]], [[Rico 'Linus' Yanomami]] e [[Joji Yanonami]] e il figlio di [[Rosalinda Yanomami]] e [[Carlos Yanomami]]. Funge da fratello adottivo per [[NPCs/Yanomami/Craig|Craig]].
 
 ---
 #### Background
