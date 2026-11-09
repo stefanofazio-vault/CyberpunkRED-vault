@@ -3,4 +3,5 @@
 
 Indicherà a Dasan che un cliente ha mancato troppi pagamenti di fila e che il recupero crediti non è più un'opzione.
 
-### Scena 1 - Il Fur Fur u
+### Scena 1 - Barry's Garage
+Barry 
