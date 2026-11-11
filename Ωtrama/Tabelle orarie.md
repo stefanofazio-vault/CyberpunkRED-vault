@@ -129,3 +129,15 @@
 | Venerdì   | [[Network 54 Plaza]]                       | Weekly scrum con [[Chloe Ashton]].                                                                                         |
 | Sabato    | [[Downtown]]                               | Riunione con i sottoposti                                                                                                  |
 | Domenica  | [[Network 54 Westbrook Private Acres]]     | Prepara il piano editoriale della settimana successiva.                                                                    |
+
+### [[Amado Villanueva]]
+
+| Giorno    | Location                       | Evento                                                               |
+| --------- | ------------------------------ | -------------------------------------------------------------------- |
+| Lunedì    | [[Porto]], [[MindNutz Lover]]  | Lavoro al porto. La sera, semina malcontento con gli [[Zoners]].     |
+| Martedì   | [[Porto]]                      | Lavoro al porto.                                                     |
+| Mercoledì | [[Porto]], [[Naiad's Embrace]] | Lavoro al porto. La sera, riceve ordini.                             |
+| Giovedì   | [[Porto]]                      | Lavoro al porto.                                                     |
+| Venerdì   | [[Porto]]                      | Lavoro al porto.                                                     |
+| Sabato    | [[MindNutz Lover]]             | Semina malcontento tra gli [[Zoners]].                               |
+| Domenica  | [[The Amber Room]]             | Incontro con [[Petar Gunn]] per fornire informazioni sui [[Thelas]]. |
