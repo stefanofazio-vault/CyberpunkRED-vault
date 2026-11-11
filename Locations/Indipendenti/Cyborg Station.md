@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Kabuki]]'
+affiliation: '[[Factions/Gangs/Tyger Claws]]'
 ---
 
 #### Cyborg Station

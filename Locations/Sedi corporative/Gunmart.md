@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/South Night City]]'
+affiliation: '[[Factions/Corporations/Gunmart]]'
 ---
 
 #### Gunmart

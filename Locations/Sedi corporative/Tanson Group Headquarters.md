@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Pacifica]]'
+affiliation: '[[Factions/Corporations/Tanson Group]]'
 ---
 
 #### Tanson Group Headquarters

@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Quartiere universitario]]'
+affiliation: '[[Factions/Corporations/Biotechnica]]'
 ---
 
 #### Biotechnica Habitation Sphere Alpha

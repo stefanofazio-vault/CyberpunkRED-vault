@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Watson]]'
+affiliation: '[[Factions/Corporations/Trauma Team]]'
 ---
 
 #### Trauma Team Corporate Living Center

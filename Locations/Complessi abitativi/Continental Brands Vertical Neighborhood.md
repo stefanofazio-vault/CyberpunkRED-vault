@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Little Europe]]'
+affiliation: '[[Factions/Corporations/Continental Brands]]'
 ---
 
 #### Continental Brands Vertical Neighborhood

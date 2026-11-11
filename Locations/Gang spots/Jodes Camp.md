@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Pacifica]]'
+affiliation: '[[Factions/Nomads/Jodes]]'
 ---
 #### Jodes Camp
 Campo dei [[Jodes]] a [[Pacifica]]. Qui si può trovare tutto ciò che ci si aspetta da un campo nomadi: molti veicoli, parcheggi, garage, officine, punti di carico e scarico, possibilità di rifornirsi e posti letto.

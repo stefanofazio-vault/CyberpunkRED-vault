@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Executive Zone]]'
+affiliation: '[[Factions/Corporations/Ziggurat]]'
 ---
 
 #### HOA Offices

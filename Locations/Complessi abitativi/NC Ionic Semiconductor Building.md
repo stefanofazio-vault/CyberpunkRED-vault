@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Old Combat Zone]]'
+affiliation: '[[Factions/Gangs/Iron Sights]]'
 ---
 
 #### NC Ionic Semiconductor Building

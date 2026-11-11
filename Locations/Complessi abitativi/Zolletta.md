@@ -1,5 +1,6 @@
 ---
 location: '[[Locations/Complessi abitativi/Woodland Park]]'
+affiliation: '[[Factions/Nomads/Navad]]'
 ---
 
 #### Zolletta

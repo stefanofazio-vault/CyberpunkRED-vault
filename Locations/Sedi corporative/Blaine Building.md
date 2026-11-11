@@ -1,5 +1,6 @@
 ---
 location: '[[Locations/Servizi pubblici/Night City University]]'
+affiliation: '[[Factions/Nomads/Aldecaldo]]'
 ---
 
 #### Blaine Building

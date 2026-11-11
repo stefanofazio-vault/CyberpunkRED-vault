@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Upper Marina]]'
+affiliation: '[[Factions/Gangs/Prime-Time Players]]'
 ---
 #### CMax
 Una volta uno studio cinematografico indipendente ad [[Upper Marina]], la struttura è caduta in disuso dopo la guerra e ora i [[Prime-Time Players]] ne hanno fatto la loro base ufficiale. È anche sede dei loro balli in maschera. 

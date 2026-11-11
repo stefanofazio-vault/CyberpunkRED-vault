@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Downtown]]'
+affiliation: '[[Factions/Gangs/Chamber]]'
 ---
 
 #### Clocktower Residence

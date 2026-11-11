@@ -1,5 +1,6 @@
 ---
 location: '[[Locations/Complessi abitativi/The Estates]]'
+affiliation: '[[Factions/Corporations/Orbital Air]]'
 ---
 
 #### The Estates - Franklin M'bolu

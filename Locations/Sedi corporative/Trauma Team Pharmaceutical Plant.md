@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Heywood Industrial Zone]]'
+affiliation: '[[Factions/Corporations/Trauma Team]]'
 ---
 
 #### Trauma Team Pharmaceutical Plant

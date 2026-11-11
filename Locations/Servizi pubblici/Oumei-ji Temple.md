@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Watson]]'
+affiliation: '[[Factions/Gangs/Tyger Claws]]'
 ---
 
 #### Oumei-ji Temple

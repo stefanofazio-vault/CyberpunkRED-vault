@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Old Japantown]]'
+affiliation: '[[Factions/Gangs/Piranhas]]'
 ---
 
 #### Tsukuyomi

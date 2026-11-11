@@ -1,5 +1,4 @@
 ---
 location: "[[Charter Hill]]"
-affiliation:
-  - "[[SovOil]]"
+affiliation: '[[Factions/Corporations/SovOil]]'
 ---

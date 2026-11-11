@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Glen]]'
+affiliation: '[[Factions/Corporations/NCPD]]'
 ---
 
 #### City Police Precinct #1

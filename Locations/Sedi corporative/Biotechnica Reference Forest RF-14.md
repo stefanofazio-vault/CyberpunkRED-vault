@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Little Europe]]'
+affiliation: '[[Factions/Corporations/Biotechnica]]'
 ---
 
 #### Biotechnica Reference Forest RF-14

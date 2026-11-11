@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Watson]]'
+affiliation: '[[Factions/Corporations/Danger Gal]]'
 ---
 
 #### SkidRow Limited

@@ -1,5 +1,6 @@
 ---
 location: "[[Neighbourhoods/New Westbrook]]"
+affiliation: '[[Factions/Gangs/Street Queens]]'
 ---
 #### Woody's
 Sede secondaria delle [[Street Queens]] situato a [[New Westbrook]] dopo che [[Maxime Raunch]], il capo della gang, ha deciso di aprire il [[Born This Way]] nel [[Glen]]. Il locale è ancora molto attivo e offre asilo a chi ne ha bisogno.

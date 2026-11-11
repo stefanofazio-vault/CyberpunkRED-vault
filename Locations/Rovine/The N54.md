@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Zona calda]]'
+affiliation: '[[Factions/Corporations/Network 54]]'
 ---
 
 #### The N54

@@ -1,5 +1,7 @@
 ---
-location: '[[Neighbourhoods/North Heywood]]'
+location: "[[Neighbourhoods/North Heywood]]"
+affiliation:
+  - "[[Dynalar]]"
 ---
 
 #### Acorn Towers

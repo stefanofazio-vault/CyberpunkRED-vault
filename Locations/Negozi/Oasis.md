@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Kabuki]]'
+affiliation: '[[Factions/Corporations/Continental Brands]]'
 ---
 
 #### Oasis

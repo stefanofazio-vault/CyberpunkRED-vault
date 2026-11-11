@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/NorCal MIlitary Zone]]'
+affiliation: '[[Factions/Corporations/Militech]]'
 ---
 
 #### Militech Corporate Housing

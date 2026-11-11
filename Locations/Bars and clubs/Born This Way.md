@@ -1,5 +1,6 @@
 ---
 location: "[[Neighbourhoods/Glen]]"
+affiliation: '[[Factions/Gangs/Street Queens]]'
 ---
 #### Born This Way
 Locale queer-coded situato nel Glen.

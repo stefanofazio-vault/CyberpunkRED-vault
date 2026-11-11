@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Glen]]'
+affiliation: '[[Factions/Corporations/NCPD]]'
 ---
 
 #### World Stock Exchange

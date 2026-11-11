@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Pacifica]]'
+affiliation: '[[Factions/Nomads/Thelas]]'
 ---
 
 #### The Ascension

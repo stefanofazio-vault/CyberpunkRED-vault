@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Glen]]'
+affiliation: '[[Factions/Corporations/Merrill, Asukaga & Finch]]'
 ---
 
 #### Merrill, Asukaga & Finch Offices

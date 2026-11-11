@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Little Europe]]'
+affiliation: '[[Factions/Corporations/Danger Gal]]'
 ---
 
 #### Danger Gal Housing Facility

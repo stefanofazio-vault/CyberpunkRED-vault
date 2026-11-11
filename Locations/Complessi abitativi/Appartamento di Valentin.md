@@ -1,5 +1,4 @@
 ---
 location: "[[Charter Hill]]"
-affiliation:
-  - "[[Scavengers]]"
+affiliation: '[[Factions/Gangs/Scavengers]]'
 ---

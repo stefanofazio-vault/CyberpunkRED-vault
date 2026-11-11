@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Little China]]'
+affiliation: '[[Factions/Organizations/Weng Fang Tong]]'
 ---
 
 #### Madam Yap's

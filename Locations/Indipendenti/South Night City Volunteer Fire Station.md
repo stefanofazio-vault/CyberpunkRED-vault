@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/South Night City]]'
+affiliation: '[[Factions/Gangs/Zoners]]'
 ---
 
 #### South Night City Volunteer Fire Station

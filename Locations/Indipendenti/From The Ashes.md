@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Old Combat Zone]]'
+affiliation: '[[Factions/Corporations/Trauma Team]]'
 ---
 
 #### From The Ashes

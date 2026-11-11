@@ -1,5 +1,6 @@
 ---
 location: "[[Neighbourhoods/Glen]]"
+affiliation: '[[Factions/Gangs/Reckoners]]'
 ---
 #### Souls Respite
 Centro di ritrovo principale dei [[Reckoners]] e *hub* di aiuto per senzatetto e bisognosi in genere.

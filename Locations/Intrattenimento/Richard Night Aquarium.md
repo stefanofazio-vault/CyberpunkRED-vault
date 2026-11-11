@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Little China]]'
+affiliation: '[[Factions/Corporations/Hydrosubsidium]]'
 ---
 
 #### Richard Night Aquarium

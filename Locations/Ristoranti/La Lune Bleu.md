@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Upper Marina]]'
+affiliation: '[[Factions/Corporations/Biotechnica]]'
 ---
 #### La Lune Bleu
 La Lune Bleu è un ristorante francese d'alta classe situato ad [[Upper Marina]]. 

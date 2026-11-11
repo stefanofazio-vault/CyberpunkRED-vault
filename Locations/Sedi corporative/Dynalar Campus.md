@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/North Heywood]]'
+affiliation: '[[Factions/Corporations/Dynalar]]'
 ---
 
 #### Dynalar Campus

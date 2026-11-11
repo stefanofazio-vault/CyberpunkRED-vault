@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Heywood Industrial Zone]]'
+affiliation: '[[Factions/Corporations/Rocklin Augmentics]]'
 ---
 
 #### Rocklin Augmentics Manufacturing

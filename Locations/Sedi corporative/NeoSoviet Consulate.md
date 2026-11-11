@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Watson]]'
+affiliation: '[[Factions/Organizations/Consortium]]'
 ---
 
 #### NeoSoviet Consulate

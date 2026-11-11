@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Rancho Coronado]]'
+affiliation: '[[Factions/Gangs/Steel Vacqueros]]'
 ---
 
 #### Eagle Rock Stadium

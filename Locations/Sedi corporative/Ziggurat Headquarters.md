@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Upper Marina]]'
+affiliation: '[[Factions/Corporations/Ziggurat]]'
 ---
 
 #### Ziggurat Offices

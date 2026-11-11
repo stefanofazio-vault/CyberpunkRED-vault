@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Quartiere universitario]]'
+affiliation: '[[Factions/Gangs/Piranhas]]'
 ---
 
 #### Fashion Cuts

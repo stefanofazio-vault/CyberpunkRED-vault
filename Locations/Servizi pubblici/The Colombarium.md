@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Charter Hill]]'
+affiliation: '[[Factions/Gangs/Tombstone Preservers]]'
 ---
 
 #### The Colombarium

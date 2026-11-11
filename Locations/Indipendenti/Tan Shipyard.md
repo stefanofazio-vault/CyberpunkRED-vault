@@ -1,6 +1,5 @@
 ---
 location:
   - "[[Porto di Night City]]"
-affiliation:
-  - "[[Thelas]]"
+affiliation: '[[Factions/Nomads/Thelas]]'
 ---

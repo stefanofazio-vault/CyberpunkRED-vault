@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Watson]]'
+affiliation: '[[Factions/Gangs/Kimen-Gumi]]'
 ---
 
 #### Akagi-ryu Karate

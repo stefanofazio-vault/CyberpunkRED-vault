@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Porto di Night City]]'
+affiliation: '[[Factions/Gangs/Maelstrom]]'
 ---
 
 #### Medical Technologies

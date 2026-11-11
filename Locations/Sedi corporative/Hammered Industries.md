@@ -1,5 +1,6 @@
 ---
 location: '[[Locations/Sedi corporative/The Fork]]'
+affiliation: '[[Factions/Corporations/Hammered]]'
 ---
 
 #### Hammered Industries

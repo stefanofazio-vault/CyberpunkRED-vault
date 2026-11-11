@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Heywood Industrial Zone]]'
+affiliation: '[[Factions/Corporations/Petrochem]]'
 ---
 
 #### Petrochem Plastic Plant

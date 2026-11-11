@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/New Westbrook]]'
+affiliation: '[[Factions/Gangs/Arzin Tynon]]'
 ---
 
 #### ValueMart Village

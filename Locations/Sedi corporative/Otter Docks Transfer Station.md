@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Upper Marina]]'
+affiliation: '[[Factions/Gangs/Scavengers]]'
 ---
 
 #### Otter Docks Transfer Station

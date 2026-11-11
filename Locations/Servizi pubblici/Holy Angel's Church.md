@@ -1,7 +1,6 @@
 ---
-location: '[[Neighbourhoods/Little Europe]]'
+location: "[[Neighbourhoods/Little Europe]]"
 ---
-
 #### Holy Angel's Church
 Una delle poche strutture religiose ancora presenti a Night City. È un edificio di tre piani costruito in stile gotico situato a [[Little Europe]] ed è principalmente frequentato da cattolici.
 

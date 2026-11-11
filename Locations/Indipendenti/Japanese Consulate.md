@@ -1,5 +1,6 @@
 ---
 location: '[[Locations/Indipendenti/Consulate Causeway]]'
+affiliation: '[[Factions/Corporations/Arasaka]]'
 ---
 
 #### Japanese Consulate

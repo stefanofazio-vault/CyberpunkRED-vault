@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Heywood Industrial Zone]]'
+affiliation: '[[Factions/Corporations/Raven Microcybernetics]]'
 ---
 
 #### Raven Microcybernetics Factory

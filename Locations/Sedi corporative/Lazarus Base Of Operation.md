@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Executive Zone]]'
+affiliation: '[[Factions/Corporations/Lazarus]]'
 ---
 
 #### Lazarus Base Of Operation

@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/South Night City]]'
+affiliation: '[[Factions/Corporations/Combat Cabb]]'
 ---
 
 #### Combat Cabb Headquarters

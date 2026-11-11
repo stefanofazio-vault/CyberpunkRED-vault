@@ -1,5 +1,6 @@
 ---
 location: '[[Locations/Complessi abitativi/The Estates]]'
+affiliation: '[[Factions/Corporations/Biotechnica]]'
 ---
 
 #### The Estates - Heather Stein

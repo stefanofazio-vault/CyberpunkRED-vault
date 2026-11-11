@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Downtown]]'
+affiliation: '[[Factions/Organizations/Eastern Tiger Triad]]'
 ---
 #### Gilded Phoenix Arcade
 Un *arcade* di altissimo livello situato a [[Downtown]] pieno di qualsivoglia cabinato, slot machine o pinball si desideri.

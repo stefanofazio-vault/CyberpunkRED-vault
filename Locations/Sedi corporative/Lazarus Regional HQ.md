@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Glen]]'
+affiliation: '[[Factions/Corporations/Lazarus]]'
 ---
 
 #### Lazarus Regional HQ

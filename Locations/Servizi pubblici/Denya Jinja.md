@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/New Westbrook]]'
+affiliation: '[[Factions/Gangs/Tyger Claws]]'
 ---
 
 #### Denya Jinja

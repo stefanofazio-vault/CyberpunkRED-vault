@@ -1,6 +1,5 @@
 ---
 location:
   - "[[Old Japantown]]"
-affiliation:
-  - "[[Scavengers]]"
+affiliation: '[[Factions/Gangs/Scavengers]]'
 ---

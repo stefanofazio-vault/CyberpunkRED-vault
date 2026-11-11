@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Watson]]'
+affiliation: '[[Factions/Corporations/Petrochem]]'
 ---
 
 #### Petrochem Offices

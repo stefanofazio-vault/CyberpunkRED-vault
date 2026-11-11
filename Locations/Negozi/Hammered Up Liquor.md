@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Watson]]'
+affiliation: '[[Factions/Corporations/Hammered]]'
 ---
 
 #### Hammered Up Liquor

@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Kabuki]]'
+affiliation: '[[Factions/Gangs/Tyger Claws]]'
 ---
 
 #### Tyger Dojo - Tora-no-Ana

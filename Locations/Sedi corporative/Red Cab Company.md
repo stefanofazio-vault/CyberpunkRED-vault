@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Little Europe]]'
+affiliation: '[[Factions/Corporations/Red Cab]]'
 ---
 
 #### Red Cab Company

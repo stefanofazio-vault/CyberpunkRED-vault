@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/New Westbrook]]'
+affiliation: '[[Factions/Gangs/Street Queens]]'
 ---
 #### Chatelaine's
 Uno strip club e *burlesque* club situato a [[New Westbrook]], con una clientela quasi esclusivamente *queer*. Tuttavia, il locale è così popolare e lo è da così tanto tempo che attira una certa massa di clienti etero.

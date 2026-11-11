@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Charter Hill]]'
+affiliation: '[[Factions/Corporations/Militech]]'
 ---
 
 #### Your Big Next Crèche

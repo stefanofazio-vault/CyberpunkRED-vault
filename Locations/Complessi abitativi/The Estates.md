@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Executive Zone]]'
+affiliation: '[[Factions/Corporations/Lazarus]]'
 ---
 
 #### The Estates

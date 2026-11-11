@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Kabuki]]'
+affiliation: '[[Factions/Corporations/REO Meatwagon]]'
 ---
 
 #### Hiroto Miyamoto Memorial Clinic

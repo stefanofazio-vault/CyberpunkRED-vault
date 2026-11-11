@@ -1,5 +1,6 @@
 ---
 location: '[[Locations/Complessi abitativi/The Estates]]'
+affiliation: '[[Factions/Corporations/Zhirafa]]'
 ---
 
 #### The Estates - Artyom Sokolov

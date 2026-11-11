@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Old Japantown]]'
+affiliation: '[[Factions/Gangs/Iron Sights]]'
 ---
 
 #### Neo Galaxy Cards and Comics

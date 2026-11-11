@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Downtown]]'
+affiliation: '[[Factions/Corporations/Continental Brands]]'
 ---
 
 #### Continental Brands Offices

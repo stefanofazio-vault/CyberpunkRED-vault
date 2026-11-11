@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Santo Domingo]]'
+affiliation: '[[Factions/Corporations/Militech]]'
 ---
 
 #### Altar a Nuestra Senora de la Santa Muerte

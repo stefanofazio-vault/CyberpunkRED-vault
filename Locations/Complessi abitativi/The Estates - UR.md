@@ -1,5 +1,6 @@
 ---
 location: '[[Locations/Complessi abitativi/The Estates]]'
+affiliation: '[[Factions/Corporations/Ziggurat]]'
 ---
 
 #### The Estates - UR

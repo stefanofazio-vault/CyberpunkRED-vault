@@ -1,7 +1,6 @@
 ---
 location:
   - "[[Badlands]]"
-affiliation:
-  - "[[Consortium]]"
+affiliation: '[[Factions/Organizations/Consortium]]'
 ---
 #### Pista di Valya

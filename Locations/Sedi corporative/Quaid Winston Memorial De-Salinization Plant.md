@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Pacifica]]'
+affiliation: '[[Factions/Corporations/Hydrosubsidium]]'
 ---
 
 #### Quaid Winston Memorial De-Salinization Plant

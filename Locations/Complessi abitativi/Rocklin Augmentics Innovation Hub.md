@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/New Westbrook]]'
+affiliation: '[[Factions/Corporations/Rocklin Augmentics]]'
 ---
 
 #### Rocklin Augmentics Innovation Hub

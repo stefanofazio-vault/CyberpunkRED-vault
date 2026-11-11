@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Little China]]'
+affiliation: '[[Factions/Gangs/Gold Dragon]]'
 ---
 
 #### Rovine della Ling Po Import

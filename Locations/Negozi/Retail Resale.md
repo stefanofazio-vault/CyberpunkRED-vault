@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Quartiere universitario]]'
+affiliation: '[[Factions/Gangs/Princesses Of Justice]]'
 ---
 
 #### Retail Resale

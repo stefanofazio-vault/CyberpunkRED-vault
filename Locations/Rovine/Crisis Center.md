@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Zona calda]]'
+affiliation: '[[Factions/Corporations/Trauma Team]]'
 ---
 
 #### Crisis Center

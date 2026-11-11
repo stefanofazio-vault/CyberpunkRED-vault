@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Upper Marina]]'
+affiliation: '[[Factions/Gangs/Maelstrom]]'
 ---
 
 #### The Forge

@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Santo Domingo]]'
+affiliation: '[[Factions/Nomads/Aldecaldo]]'
 ---
 #### [[Campo Aldecaldo]]
 Il campo Aldecaldo è il punto di ritrovo per la divisione di Night City degli [[Aldecaldo]]. È situato a [[Santo Domingo]].

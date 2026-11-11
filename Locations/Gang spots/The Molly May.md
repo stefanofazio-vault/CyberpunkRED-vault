@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Glen]]'
+affiliation: '[[Factions/Gangs/Deadwood]]'
 ---
 #### The Molly May
 Un gigantesco edificio situato nel [[Glen]] di proprietà dei [[Deadwood]]. L'edificio si sviluppa soprattutto orizzontalmente, ma è alto solo tre piani. 

@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Santo Domingo]]'
+affiliation: '[[Factions/Nomads/Aldecaldo]]'
 ---
 
 #### Aldecaldo Warriors Track

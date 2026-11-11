@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Santo Domingo]]'
+affiliation: '[[Factions/Corporations/SovOil]]'
 ---
 
 #### SovOil Paint Factory

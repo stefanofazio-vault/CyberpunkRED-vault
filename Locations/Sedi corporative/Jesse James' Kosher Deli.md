@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Old Combat Zone]]'
+affiliation: '[[Factions/Corporations/Edgerunners Inc.]]'
 ---
 
 #### Jesse James' Kosher Deli

@@ -1,5 +1,8 @@
 ---
-location: '[[Neighbourhoods/Porto di Night City]]'
+location: "[[Neighbourhoods/Porto di Night City]]"
+affiliation:
+  - "[[Thelas]]"
+  - "[[Snake]]"
 ---
 #### The Yard
 Punto di collegamento tra i trasporti via mare del [[Porto di Night City]] dei [[Thelas]] e i trasporti via terra degli [[Snake]]. Qui il contenuto delle navi viene caricato su dei treni di possesso delle famiglie di nomadi per poi essere spediti in altri punti dell'entroterra.

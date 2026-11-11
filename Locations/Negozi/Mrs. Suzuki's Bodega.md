@@ -1,7 +1,9 @@
 ---
-location: '[[Neighbourhoods/Old Japantown]]'
+location: "[[Neighbourhoods/Old Japantown]]"
+affiliation:
+  - "[[Shroomers]]"
+  - "[[Tyger Claws]]"
 ---
-
 #### Mrs. Suzuki's Bodega
 Una bodega a [[Old Japantown]] che è *flagship* di una piccola catena in *franchising*. Ha diritti di vendita dei funghi prodotti dagli [[Shroomers]], cosa che rende la bodega particolarmente redditizia per i [[Tyger Claws]] che ordinano di conseguenza ai [[Kimen-Gumi]] di applicare uno sconto sul pizzo.
 

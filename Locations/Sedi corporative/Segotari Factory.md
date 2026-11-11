@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Old Japantown]]'
+affiliation: '[[Factions/Corporations/Segotari]]'
 ---
 
 #### Segotari Factory

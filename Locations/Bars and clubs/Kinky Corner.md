@@ -1,5 +1,6 @@
 ---
 location: "[[Neighbourhoods/South Night City]]"
+affiliation: '[[Factions/Corporations/Militech]]'
 ---
 #### Kinky Corner
 Il Kinky Corner è un locale a tema hard rock situato tra il [[Glen]] e [[South Night City]]. 

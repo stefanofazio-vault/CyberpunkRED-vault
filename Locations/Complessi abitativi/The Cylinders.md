@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Heywood Docks]]'
+affiliation: '[[Factions/Gangs/Perdivers]]'
 ---
 
 #### The Cylinders

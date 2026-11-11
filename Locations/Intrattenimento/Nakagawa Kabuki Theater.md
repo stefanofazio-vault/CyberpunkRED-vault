@@ -1,5 +1,6 @@
 ---
 location: '[[Neighbourhoods/Kabuki]]'
+affiliation: '[[Factions/Corporations/Nakagawa Foundation]]'
 ---
 
 #### Nakagawa Kabuki Theater
