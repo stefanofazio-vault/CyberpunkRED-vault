@@ -569,6 +569,17 @@ ZOOMMAP-DATA id=map-1
       "iconKey": "pinRed",
       "tooltip": "",
       "scaleLikeSticker": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_yefnny",
+      "x": 0.5603004504818124,
+      "y": 0.6601925032495517,
+      "layer": "default",
+      "link": "Touching Grass",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "scaleLikeSticker": true
     }
   ],
   "bases": [

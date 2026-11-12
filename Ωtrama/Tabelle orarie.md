@@ -12,15 +12,15 @@
 
 ### [[Petar Gunn]]
 
-| Giorno    | Location               | Evento                                                                                                                                      |
-| --------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Lunedì    | [[SovOil Office N°54]] | Incontro con [[Dimitri Vladimir Vetrov]] per discutere i prossimi carichi in arrivo al porto                                                |
-| Martedì   | [[Naiad's Embrace]]    | Passa del tempo con [[Kuno Gunn]]                                                                                                           |
-| Mercoledì | [[The Amber Room]]     | Incontro settimanale con [[Valya]]                                                                                                          |
-| Giovedì   | [[The Slammer]]        | Incontro con [[Saveliy Viktorov]] per ottenere informazioni sugli [[Zoners]]                                                                |
-| Venerdì   | [[Dock 15]]            | Riunione con i [[Vyriy]] in serata per discutere il prossimo obiettivo nei [[Thelas]]                                                       |
-| Sabato    | [[Dock 18]]            | Accoglienza con personale [[SovOil]], [[Vyriy]], [[Dimitri Vladimir Vetrov]] e [[Agnessa Viktorova]] della nave di SovOil in arrivo al molo |
-| Domenica  | [[The Amber Room]]     | Incontro con [[Amado Villanueva]] per ottenere informazioni sui [[Thelas]]                                                                  |
+| Giorno    | Location                                | Evento                                                                                                                                      |
+| --------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lunedì    | [[SovOil Office N°54]]                  | Incontro con [[Dimitri Vladimir Vetrov]] per discutere i prossimi carichi in arrivo al porto                                                |
+| Martedì   | [[Naiad's Embrace]]                     | Passa del tempo con [[Kuno Gunn]]                                                                                                           |
+| Mercoledì | [[The Amber Room]]                      | Incontro settimanale con [[Valya]]                                                                                                          |
+| Giovedì   | [[The Slammer]]                         | Incontro con [[Saveliy Viktorov]] per ottenere informazioni sugli [[Zoners]]                                                                |
+| Venerdì   | [[Dock 15]]                             | Riunione con i [[Vyriy]] in serata per discutere il prossimo obiettivo nei [[Thelas]]                                                       |
+| Sabato    | [[Dock 18]]                             | Accoglienza con personale [[SovOil]], [[Vyriy]], [[Dimitri Vladimir Vetrov]] e [[Agnessa Viktorova]] della nave di SovOil in arrivo al molo |
+| Domenica  | [[The Amber Room]] / [[Touching Grass]] | Incontro con [[Amado Villanueva]] per ottenere informazioni sui [[Thelas]]. Se Amado non ha notizie, va a riempirsi di BD.                  |
 
 ### [[Agnessa Viktorova]]
 

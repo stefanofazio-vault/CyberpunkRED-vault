@@ -28,7 +28,7 @@ I genitori di Petar continuano a contrarre debiti che non possono ripagare. Peta
 
 Nel dicembre del 2028, alcuni membri di quello che sarebbe diventato il Consortium arrivano fuori dalla casa di Petar. Quest'ultimo, notandoli dalla finestra e intuendo il motivo della visita, gli fa cenno di entrare dal retro, dove i genitori stavano riposando. I membri del Consortium, non riuscendo a riscattare denaro, uccidono entrambi i genitori. 
 
-Da quel momento in poi Valya, la leader del Consortium, continuerà a chiedere periodicamente a Petar di entrare nel Consortium.
+Da quel momento in poi il leader del Consortium continuerà a chiedere periodicamente a Petar di entrare nell'organizzazione.
 ##### 2030 - 2031
 Petar conosce [[Zack Price]] e Dasan poiché amici di Kuno. Nonostante voglia molto bene al fratello, rimane abbastanza indifferente ai due bambini, che invece lo vedono come un modello.
 
