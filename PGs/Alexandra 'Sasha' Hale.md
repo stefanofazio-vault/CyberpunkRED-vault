@@ -53,5 +53,11 @@ Inoltre, prenderà accordi con Yelena per l'installazione di un alveolo.
 ###### Maggio
 Raggiunto il venerdì 4 maggio, [[B2 - The Meeting Place|cercherà informazioni al porto]] con gli altri. 
 
+Sabato 5 maggio Sasha installa un alveolo custom a Yelena. Nel pomeriggio dello stesso giorno, parla con Maya, chiedendole informazioni riguardo l'abbassamento dei prezzi dei Thelas. Maya risponde di non saperne molto, ma indirizza Sasha verso il contatto di [[Santiago Sotero]].
+Lo stesso giorno, Maya torna a casa facendo il giro largo passando quindi dal [[Dock 15]], constatando un aumento della sicurezza in seguito all'infiltrazione del venerdì. 
+Dopo aver discusso velocemente con gli altri della crew delle informazioni ottenute, Sasha contatta Santiago, ottenendo però poche informazioni di ritorno.
+
+La domenica 6 maggio Sasha viene avvicinata da Ethan Caldwell per l'[[B2-1 - Sasha||eliminazione di un medico di Trauma Team]]. 
+
 ---
 #### Scheda personaggio
