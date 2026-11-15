@@ -10,7 +10,7 @@ Yelena Olga Vetrov è una *netrunner* di Night City. È figlia di [[Ivan Vetrov]
 ----
 #### Background
 ##### 2023 - 2039
-Yelena Olga Vetrov nasce nel 2023 a Night City da una famiglia il cui capofamiglia (Ivan Vetrov) è un *exec* di alto grado nella divisione regionale di [[SovOil]]. 
+Yelena Olga Vetrov nasce nel 2023 in Russia da una famiglia il cui capofamiglia (Ivan Vetrov) è un *exec* di alto grado nella divisione regionale di [[SovOil]]. 
 
 L'infanzia e l'adolescenza di Yelena trascorrono sotto il rigoroso controllo dei genitori, che allevano tutti i figli nell'ottica di ereditare le cariche interne in SovOil e diventare così i prossimi capo-famiglia.
 In questi anni, Yelena viene istruita nella gestione aziendale e viene obbligata ad allenarsi. 
