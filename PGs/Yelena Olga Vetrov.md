@@ -48,7 +48,9 @@ Traduce, insieme a Yuri, l'audio mandatogli da Thomas, ottenendo informazioni ri
 
 Il 4 maggio partecipa all'[[B2 - The Meeting Place|infiltrazione al porto]]. La sera, dopo aver visto Dimitri interagire con [[Agnessa Viktorova]], litiga con il resto del gruppo a fronte del suo rifiuto di esporre chiaramente il suo legame con i Vetrov.
 
-Il 5 maggio, come da programmi, ritira l'alveolo da $€4N, per poi procedere all'installazione presso la clinica di Sasha. Qui conosce [[Noah Hale]].
+Il 5 maggio, come da programmi, ritira l'alveolo da $€4N, per poi procedere all'installazione presso la clinica di Sasha. Qui conosce [[Noah Hale]]. 
+
+Il 6 maggio, attenta a non farsi seguire per timore di essere stata vista da Dimitri o da qualcuno dei suoi, nota di essere osservata da [[Ulisse]]. I due passano un paio di ore insieme, mangiando al [[Dine'n'Dash]]. Ulisse si congeda velocemente senza dare troppe spiegazioni.
 
 ---
 #### Scheda personaggio
