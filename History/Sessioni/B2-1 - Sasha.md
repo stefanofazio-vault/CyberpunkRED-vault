@@ -14,3 +14,5 @@ Narong sarà ben disposto all'inizio, per poi cominciare a dubitare. Servirà un
 
 In ogni caso, se Narong morirà, Ethan si dichiarerà soddisfatto. Altrimenti, Trauma Team smetterà di pagare la scuola.
 
+### Riassunto di quanto accaduto
+- La richiesta di Ethan è stata pienamente soddisfatta.
