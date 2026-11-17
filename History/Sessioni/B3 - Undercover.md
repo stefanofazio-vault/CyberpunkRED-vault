@@ -36,3 +36,6 @@ Dopo un breve periodo, Amado esce dalla finestra del bagno del privé, cambiatos
 Fatto ciò, si aggireranno per la zona, dirigendosi verso la [[South Night City Volunteer Fire Station]], senza però puntare direttamente alla struttura. Piuttosto, sembreranno cercare membri degli [[Zoners]]. Una volta trovata una cellula, cominceranno a porsi in maniera ostile nei loro confronti, chiedendo pedaggi, cominciando a bullizzarli per "l'assalto al furgone" ed eventualmente minacciandoli con armi varie. 
 
 ![[Consortium goon - SB]]
+
+### Riepilogo di quanto accaduto
+- Yelena lascia un *cloak* di 13.
