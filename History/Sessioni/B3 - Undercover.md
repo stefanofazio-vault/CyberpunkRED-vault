@@ -38,4 +38,8 @@ Fatto ciò, si aggireranno per la zona, dirigendosi verso la [[South Night City 
 ![[Consortium goon - SB]]
 
 ### Riepilogo di quanto accaduto
-- Yelena lascia un *cloak* di 13.
+- [[Yelena Olga Vetrov|Yelena]] lascia un *cloak* di 13.
+- La crew non ha causato scompiglio al [[MindNutz Lover]].
+- [[Dasan Tan|Dasan]] si è scontrato con [[Amado Villanueva|Amado]] e i suoi due sgherri. I due sgherri sono scappati, vedendo solo Dasan (che era coperto da una mascherina).
+- Amado ha visto tutta la crew. Solo Dasan e Yelena erano coperti con mascherina. 
+- [[Bellamy Ichikawa|Bellamy]] ha fatto valere la propria reputazione con gli [[Zoners]] per poter interrogare Amado, che è stato poi portato via. 
