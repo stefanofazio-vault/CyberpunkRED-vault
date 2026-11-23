@@ -84,7 +84,15 @@ Dopo aver fornito l'audio registrato dagli Scavengers a Yelena, ottiene la tradu
 
 Inoltre, esegue ricerche separate su [[Sofiya Fedorova]], trovando solo alcuni riferimenti nel database dell'[[NCPD]] che fanno riferimento solo ad un piccolo furto in una *bodega* della [[Old Combat Zone]]. Scopre inoltre che che la domenica è meglio stare lontano dal [[White Side]] poiché una grande quantità di Scavengers tende a riunirsi lì. 
 
-Il 4 maggio, si [[B2 - The Meeting Place|infiltra al porto]]. Sente parlare, inoltre, 
+Il 4 maggio, si [[B2 - The Meeting Place|infiltra al porto]]. 
+
+Tra il 4 maggio e il 6 maggio, Thomas esegue ricerche indipendenti su Yelena in seguito alla sua mancanza di cooperazione dopo l'avvistamento di [[Dimitri Vladimir Vetrov]]. Sul *datapool* trova dei vecchi articoli dove [[Ivan Vetrov]] presenta "al mondo" sua figlia Yelena. Queste informazioni vengono comunicate a Bellamy. 
+
+Il 5 maggio visita Kasymbek, dal quale apprende che gli Zoners hanno assaltato un furgone dei Thelas per danneggiarne il contenuto. 
+
+Il 6 maggio Thomas viene convocato insieme al resto della crew al [[Born This Way]]. In questa occasione Yelena confessa la sua affiliazione con Dimitri. 
+
+Il 7 maggio Thomas e la crew [[B3 - Undercover|pedinano Amado]]. Inoltre, Thomas sente voci riguardanti una sala server di [[Militech]] che è stata riaperta a [[Rancho Coronado]] dopo un paio di mesi di inattività.
 
 
 ---
