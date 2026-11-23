@@ -24,3 +24,5 @@ Sarà in grado di fornire, se convinto, informazioni su Petar riguardanti i suoi
 ![[Tabelle orarie#Amado Villanueva]]
 
 A maggio, la crew scopre dell'identità sotto copertura di Amado. 
+
+Il 7 maggio, Amado viene scoperto dalla crew durante il [[B3 - Undercover|suo pedinamento]] nell'atto di bullizzare direttamente una delle pattuglie degli [[Zoners]]. Amado è da quella sera sotto custodia degli Zoners.
