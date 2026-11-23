@@ -57,7 +57,9 @@ Sabato 5 maggio Sasha installa un alveolo custom a Yelena. Nel pomeriggio dello 
 Lo stesso giorno, Maya torna a casa facendo il giro largo passando quindi dal [[Dock 15]], constatando un aumento della sicurezza in seguito all'infiltrazione del venerdì. 
 Dopo aver discusso velocemente con gli altri della crew delle informazioni ottenute, Sasha contatta Santiago, ottenendo però poche informazioni di ritorno.
 
-La domenica 6 maggio Sasha viene avvicinata da Ethan Caldwell per l'[[B2-1 - Sasha||eliminazione di un medico di Trauma Team]]. 
+La domenica 6 maggio Sasha viene avvicinata da Ethan Caldwell per l'[[B2-1 - Sasha||eliminazione di un medico di Trauma Team]]. La sera, nonostante avesse promesso a Noah di cenare insieme, viene convocata da Bellamy insieme alla crew per una "questione importante". Yelena, in questa occasione, confessa di essere sorella di [[Dimitri Vladimir Vetrov]]. 
+
+Il 7 maggio, Sasha e la crew [[B3 - Undercover|pedinano Amado]].
 
 ---
 #### Scheda personaggio
