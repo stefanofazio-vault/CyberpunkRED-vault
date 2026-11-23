@@ -51,6 +51,9 @@ Il 4 maggio partecipa all'[[B2 - The Meeting Place|infiltrazione al porto]]. La 
 Il 5 maggio, come da programmi, ritira l'alveolo da $€4N, per poi procedere all'installazione presso la clinica di Sasha. Qui conosce [[Noah Hale]]. 
 
 Il 6 maggio, attenta a non farsi seguire per timore di essere stata vista da Dimitri o da qualcuno dei suoi, nota di essere osservata da [[Ulisse]]. I due passano un paio di ore insieme, mangiando al [[Dine'n'Dash]]. Ulisse si congeda velocemente senza dare troppe spiegazioni.
+La sera del 6 maggio viene convocata da Bellamy al [[Born This Way]], dove scopre che Thomas e Bellamy stesso hanno fatto ricerche sul suo passato e hanno scoperto i suoi legami di sangue.
+
+Il 7 maggio partecipa con gli altri al [[B3 - Undercover|pedinamento di Amado]].
 
 ---
 #### Scheda personaggio
