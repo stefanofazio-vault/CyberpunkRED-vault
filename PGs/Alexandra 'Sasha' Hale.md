@@ -48,7 +48,7 @@ Nonostante il doppio circuito di *braindance* la clinica fatica a rimanere apert
 Sasha viene coinvolta da Viktor nel [[B0-2 - Sasha + Dasan|recupero di un sottoposto di Yago]], [[Omar Fowler]]. Dopo aver completato la missione, attende il 30 di aprile dopo aver accettato l'appuntamento da parte di [[Yago Abdulbaki|Yago]]. In questa occasione, conosce [[Dasan Tan]], a cui cura le ferite riportate durante la missione.
 
 Il giorno dell'appuntamento, Sasha conosce [[Bellamy Ichikawa]], [[Thomas Watterson]] e [[Yelena Olga Vetrov]]. Viene successivamente coinvolta nell'[[B1 - The Gods Made Heavy Metal|recupero di informazioni]] da [[Ivan]] dei [[Vyriy]]. Dopo questa missione, curerà Thomas. 
-Inoltre, prenderà accordi con Yelena per l'installazione di un alveolo.
+Inoltre, prenderà accordi con Yelena per l'installazione di un alveolo custom.
 
 ###### Maggio
 Raggiunto il venerdì 4 maggio, [[B2 - The Meeting Place|cercherà informazioni al porto]] con gli altri. 
