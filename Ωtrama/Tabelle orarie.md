@@ -96,15 +96,15 @@
 
 ### [[Ilya 'Razor' Malenkov]]
 
-| Giorno    | Location                  | Evento                                                  |
-| --------- | ------------------------- | ------------------------------------------------------- |
-| Lunedì    | [[Segotari HQ - EXCEL-1]] | Gioca ai videogiochi                                    |
-| Martedì   | [[Dock 15]]               | Recupera le casse consegnate dai [[Vyriy]]              |
-| Mercoledì | [[White Side]]            | Trasporta cyberware e armi                              |
-| Giovedì   | [[South Night City]]      | Reclutamento di nuovi Scavengers                        |
-| Venerdì   | [[Segotari HQ - EXCEL-1]] | Gioca ai videogiochi                                    |
-| Sabato    | [[South Night City]]      | Guida le squadre di recupero con [[Sofiya Fedorova]]    |
-| Domenica  | [[White Base]]            | Riunione con [[Valentin Komarov]] e [[Sofiya Fedorova]] |
+| Giorno    | Location                                     | Evento                                                                                                                                    |
+| --------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Lunedì    | [[Segotari HQ - EXCEL-1]]                    | Gioca ai videogiochi                                                                                                                      |
+| Martedì   | [[Dock 15]]                                  | Recupera le casse consegnate dai [[Vyriy]]                                                                                                |
+| Mercoledì | [[White Side]], [[Jesse James' Kosher Deli]] | Trasporta cyberware e armi. Si incontra con [[Saveliy Viktorov]] per conoscere i dettagli della prossima manifestazione degli [[Zoners]]. |
+| Giovedì   | [[South Night City]]                         | Reclutamento di nuovi Scavengers                                                                                                          |
+| Venerdì   | [[Segotari HQ - EXCEL-1]]                    | Gioca ai videogiochi                                                                                                                      |
+| Sabato    | [[South Night City]]                         | Guida le squadre di recupero con [[Sofiya Fedorova]]                                                                                      |
+| Domenica  | [[White Base]]                               | Riunione con [[Valentin Komarov]] e [[Sofiya Fedorova]]                                                                                   |
 
 ### [[Ivan Vetrov]]
 
@@ -144,12 +144,12 @@
 
 ### [[Saveliy Viktorov]]
 
-| Giorno    | Location                                    | Evento                                                                 |
-| --------- | ------------------------------------------- | ---------------------------------------------------------------------- |
-| Lunedì    |                                             |                                                                        |
-| Martedì   | [[South Night City Volunteer Fire Station]] | Lavoro presso la mensa.                                                |
-| Mercoledì | [[South Night City]],                       | Pattuglia della zona.                                                  |
-| Giovedì   | [[The Slammer]]                             | Incontro con [[Petar Gunn]] per fornire informazioni sugli [[Zoners]]. |
-| Venerdì   | [[South Night City]]                        | Pattuglia della zona.                                                  |
-| Sabato    |                                             |                                                                        |
-| Domenica  |                                             |                                                                        |
+| Giorno    | Location                                           | Evento                                                                                                                           |
+| --------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Lunedì    | [[South Night City Volunteer Fire Station]]        | Lavoro presso l'armeria.                                                                                                         |
+| Martedì   | [[South Night City Volunteer Fire Station]]        | Lavoro presso la mensa.                                                                                                          |
+| Mercoledì | [[South Night City]], [[Jesse James' Kosher Deli]] | Pattuglia della zona. La sera si incontra con [[Ilya 'Razor' Malenkov]] per comunicare dove si terrà la prossima manifestazione. |
+| Giovedì   | [[The Slammer]]                                    | Incontro con [[Petar Gunn]] per fornire informazioni sugli [[Zoners]].                                                           |
+| Venerdì   | [[South Night City]]                               | Pattuglia della zona.                                                                                                            |
+| Sabato    | [[South Night City]]                               | Partecipa alle manifestazioni degli [[Zoners]].                                                                                  |
+| Domenica  | [[South Night City Volunteer Fire Station]]        | Lavoro presso la mensa.                                                                                                          |
