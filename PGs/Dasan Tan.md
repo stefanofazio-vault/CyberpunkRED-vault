@@ -64,7 +64,9 @@ Il giorno dopo ha luogo l'[[B2 - The Meeting Place|infiltrazione al porto]].
 
 Il sabato 5 maggio viene contattato da Thomas che gli chiede informazioni riguardanti Petar Gunn, [[Valya]] e il Consortium. Dasan riferisce qualche informazione riguardante la natura del Consortium. Inoltre, indica l'influenza dell'organizzazione in attività come la [[Mestnyy Bank]], il [[The Amber Room]] e il [[Naiad's Embrace]]. Inoltre, indica come Valya sia solita stare all'Amber Room, ma di come non sia facile avere un contatto con lei senza che lei stessa ti reputi interessante per qualche motivo.
 
-Il 6 maggio, Dasan viene contattato da Dimitri Romanov per un [[B2-2 - Dasan|riscatto crediti]].
+Il 6 maggio, Dasan viene contattato da Dimitri Romanov per un [[B2-2 - Dasan|riscatto crediti]]. La sera, inoltre, viene convocato da Bellamy al [[Born This Way]]. In questa occasione Yelena confessa la sua affiliazione con [[Dimitri Vladimir Vetrov]].
+
+Il 7 maggio, Dasan e la crew [[B3 - Undercover|pedinano Amado]].
 
 ---
 #### Scheda personaggio
