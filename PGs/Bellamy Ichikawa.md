@@ -187,5 +187,13 @@ La serata si conclude con una proposta di collaborazione vicendevole.
 
 Il 4 maggio Bellamy rimane coinvolto con il resto della crew nell'[[B2 - The Meeting Place|infiltrazione al porto]].
 
+Tra il 5 e il 6 maggio, Bellamy contatta Yago per chiedere informazioni su Yelena in seguito alla litigata del giorno prima. Inoltre, ottiene la paga della missione e chiede il saldo spese per il furgone noleggiato e per le divise. Yago acconsente, ma intima maggiore oculatezza.
+
+Bellamy viene inoltre contattato da Thomas, che fornisce le stesse informazioni fornite da Yago riguardo Yelena (confermando la parentela con [[Dimitri Vladimir Vetrov]]).
+
+La sera di domenica 6 maggio, Bellamy convoca Yelena al Born This Way per affrontare il tema della parentela con Dimitri. 
+
+Il 7 maggio rimane coinvolto con gli altri nel [[B3 - Undercover|pedinamento di Amado]].
+
 ---
 #### Scheda personaggio
