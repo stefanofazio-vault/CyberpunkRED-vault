@@ -141,3 +141,15 @@
 | Venerdì   | [[Porto]]                      | Lavoro al porto.                                                     |
 | Sabato    | [[MindNutz Lover]]             | Semina malcontento tra gli [[Zoners]].                               |
 | Domenica  | [[The Amber Room]]             | Incontro con [[Petar Gunn]] per fornire informazioni sui [[Thelas]]. |
+
+### [[Saveliy Viktorov]]
+
+| Giorno    | Location                                    | Evento                                                                 |
+| --------- | ------------------------------------------- | ---------------------------------------------------------------------- |
+| Lunedì    |                                             |                                                                        |
+| Martedì   | [[South Night City Volunteer Fire Station]] | Lavoro presso la mensa.                                                |
+| Mercoledì | [[South Night City]],                       | Pattuglia della zona.                                                  |
+| Giovedì   | [[The Slammer]]                             | Incontro con [[Petar Gunn]] per fornire informazioni sugli [[Zoners]]. |
+| Venerdì   | [[South Night City]]                        | Pattuglia della zona.                                                  |
+| Sabato    |                                             |                                                                        |
+| Domenica  |                                             |                                                                        |
